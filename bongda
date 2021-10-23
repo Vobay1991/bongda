@@ -107,8 +107,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Tondela - FC Porto
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Nantes - Clermont Foot
-https://p90020921.vnroute.com/may21/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Sassuolo - Venezia
 https://p90020921.vnroute.com/may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GRj5BVD/IMG-20211018-153011.png",SD1 Brighton - Man City (BLV Cáp Tần + Người Nện)
@@ -121,27 +119,23 @@ https://livestream-2.socialstreaming.tv/live/6174328088a045001cf52a91/6174328088
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",Nhà Đài Brighton - Man City (BLV Cáp Tần + Người Nện)
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may7/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Elche - Espanyol
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Hertha BSC - M'gladbach
 https://p90020921.vnroute.com/may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Elche - Espanyol
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài FC Utrecht - SC Heerenveen
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may61/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Tondela - FC Porto
 https://p90020921.vnroute.com/may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",21h30 23/10: Santa Clara - Famalicao
-https://tuongbongda.000webhostapp.com/play90p.php?id=6171c3a774dd7b31c399b21b&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/DLWNyGJ/IMG-20211022-170407.png",22h00 23/10: Nantes - Clermont Foot
-https://tuongbongda.000webhostapp.com/play90p.php?id=6171c402e0d4672fc68e6d93&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/48RJWf7/IMG-20211018-153136.png",23h00 23/10: Sassuolo - Venezia
 https://tuongbongda.000webhostapp.com/play90p.php?id=6171c1d3c6aff63667deb1ae&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",23h30 23/10: Brighton - Man City (BLV Cáp Tần + Người Nện)
 https://tuongbongda.000webhostapp.com/play90p.php?id=6171c0a8c6aff63667deb1ad&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/qsf4GFR/IMG-20211018-153148.png",23h30 23/10: Elche - Espanyol
-https://tuongbongda.000webhostapp.com/play90p.php?id=61742ef274dd7b31c399b221&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/X3981yP/IMG-20211022-170352.png",23h30 23/10: Hertha BSC - M'gladbach
 https://tuongbongda.000webhostapp.com/play90p.php?id=6171c3158bb98639dd59c728&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/qsf4GFR/IMG-20211018-153148.png",23h30 23/10: Elche - Espanyol
+https://tuongbongda.000webhostapp.com/play90p.php?id=61742ef274dd7b31c399b221&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",23h45 23/10: FC Utrecht - SC Heerenveen
 https://tuongbongda.000webhostapp.com/play90p.php?id=6171c46f92893b39d17049e5&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",00h00 24/10: Tondela - FC Porto
@@ -150,22 +144,30 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6171ca4ae0d4672fc68e6d95&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=6171cc563679ef42e3971365&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/48RJWf7/IMG-20211018-153136.png",01h45 24/10: Bologna - Milan (BLV New Men + Old Men)
 https://tuongbongda.000webhostapp.com/play90p.php?id=6171c80f74dd7b31c399b21c&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",02h00 24/10: RKC Waalwijk - Sparta Rotterdam
-https://tuongbongda.000webhostapp.com/play90p.php?id=6171cc83e0d4672fc68e6d96&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/qsf4GFR/IMG-20211018-153148.png",02h00 24/10: Athletic Club - Villarreal
 https://tuongbongda.000webhostapp.com/play90p.php?id=6171c6a23679ef42e3971361&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/DLWNyGJ/IMG-20211022-170407.png",02h00 24/10: Lille - Brest
 https://tuongbongda.000webhostapp.com/play90p.php?id=617435263679ef42e3971368&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",02h00 24/10: RKC Waalwijk - Sparta Rotterdam
+https://tuongbongda.000webhostapp.com/play90p.php?id=6171cc83e0d4672fc68e6d96&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",02h30 24/10: Sporting CP - Moreirense
 https://tuongbongda.000webhostapp.com/play90p.php?id=6171ca7d28d9a539bbd2aabd&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",17h15 24/10: FC Twente - NEC Nijmegen
-https://tuongbongda.000webhostapp.com/play90p.php?id=6171ccab92893b39d17049e9&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/48RJWf7/IMG-20211018-153136.png",17h30 24/10: Atalanta - Udinese
-https://tuongbongda.000webhostapp.com/play90p.php?id=6171c8403679ef42e3971362&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/DLWNyGJ/IMG-20211022-170407.png",18h00 24/10: Nice - Lyon
-https://tuongbongda.000webhostapp.com/play90p.php?id=6171cb22c6aff63667deb1af&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/qsf4GFR/IMG-20211018-153148.png",19h00 24/10: Sevilla - Levante
-https://tuongbongda.000webhostapp.com/play90p.php?id=6171c6f48bb98639dd59c72a&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",06h00 24/10: Loudoun United - Tampa Bay Rowdies
+https://tuongbongda.000webhostapp.com/play90p.php?id=61743dad74dd7b31c399b222&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",06h00 24/10: Indy Eleven - FC Tulsa
+https://tuongbongda.000webhostapp.com/play90p.php?id=61743d6828d9a539bbd2aabf&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",06h00 24/10: Pittsburgh Riverhounds - Charleston Battery
+https://tuongbongda.000webhostapp.com/play90p.php?id=61743dc974dd7b31c399b223&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",06h05 24/10: Medellín - Deportes Tolima
+https://tuongbongda.000webhostapp.com/play90p.php?id=61743f298bb98639dd59c72f&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",06h30 24/10: Louisville City - Memphis 901
+https://tuongbongda.000webhostapp.com/play90p.php?id=61743e0e8bb98639dd59c72d&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",07h30 24/10: San Antonio - Austin Bold
+https://tuongbongda.000webhostapp.com/play90p.php?id=61743e6774dd7b31c399b224&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",07h30 24/10: Rio Grande Valley - New Mexico United
+https://tuongbongda.000webhostapp.com/play90p.php?id=61743e3be0d4672fc68e6d97&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",08h10 24/10: Millonarios - Junior
+https://tuongbongda.000webhostapp.com/play90p.php?id=61743f5528d9a539bbd2aac0&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/TRx1JrZ/IMG-20211022-170433.png",22h00 23/10: Nantes - Clermont Foot
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6171d123bbe01307388dd69b-XfVdbW-XfVdbW&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
