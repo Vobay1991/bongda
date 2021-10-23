@@ -84,18 +84,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Chelsea - Norwich
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PF8gS0J/IMG-20211018-081244.png",HD 2 Chelsea - Norwich
-https://179410038.global.cdnfastest.com/live/1835da7dafa02da4ff6af052ba8c9ca5e88/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/ng9HBhK/IMG-20211018-081210.png",SD 2 Chelsea - Norwich
-https://179410038.global.cdnfastest.com/live/183f30fcf8f65ab4627805e00190a51b4d6/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/yNXDL0j/IMG-20211018-081230.png",HD 1 Chelsea - Norwich
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7V6T2pg/IMG-20211018-081146.png",SD 1 Chelsea - Norwich
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Cardiff - Middlesbrough
- https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Valencia - Mallorca
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Salernitana - Empoli
@@ -110,13 +98,13 @@ https://179410038.global.cdnfastest.com/live/183cb6b2f4f016a470cabf2b5047c4cbf5a
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7V6T2pg/IMG-20211018-081146.png",SD 1 Bayern München - Hoffenheim
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Wolfsburg - Freiburg
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Valencia - Mallorca
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may6/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Salernitana - Empoli
 https://p90020921.vnroute.com/may9/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Wolfsburg - Freiburg
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/GRj5BVD/IMG-20211018-153011.png",SD1 Bayern München - Hoffenheim (BLV Liu Men)
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/xqP64yy/IMG-20211018-153031.png",SD2 Bayern München - Hoffenheim (BLV Liu Men)
@@ -125,33 +113,33 @@ https://179746877.global.cdnfastest.com//live/1830285b2124580452fb69b52e96411c76
 https://livestream.socialstreaming.tv/live/6173ff57582264001c5127b2/6173ff57582264001c5127b2.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/yR8Tcvj/IMG-20211018-152942.png",HD2 Bayern München - Hoffenheim (BLV Liu Men)
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3HD/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Wolfsburg - Freiburg
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may71/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài Arminia Bielefeld - Dortmund
 https://p90020921.vnroute.com/may4/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/MRMqpHS/IMG-20211018-152927.png",Nhà đài RB Leipzig - Greuther Fürth
 https://p90020921.vnroute.com/may10/playlist.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",18h30 23/10: Chelsea - Norwich (BLV Cáp Tần + Người Nện)
-https://tuongbongda.000webhostapp.com/play90p.php?id=6171bfbebaf5f939c69df8c4&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/qsf4GFR/IMG-20211018-153148.png",19h00 23/10: Valencia - Mallorca
 https://tuongbongda.000webhostapp.com/play90p.php?id=6171c0febaf5f939c69df8c5&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/48RJWf7/IMG-20211018-153136.png",20h00 23/10: Salernitana - Empoli
 https://tuongbongda.000webhostapp.com/play90p.php?id=6171c1a892893b39d17049e2&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/X3981yP/IMG-20211022-170352.png",20h30 23/10: Wolfsburg - Freiburg
-https://tuongbongda.000webhostapp.com/play90p.php?id=6171c276baf5f939c69df8c6&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/X3981yP/IMG-20211022-170352.png",20h30 23/10: Bayern München - Hoffenheim (BLV Liu Men)
 https://tuongbongda.000webhostapp.com/play90p.php?id=6171c29d3679ef42e397135f&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/X3981yP/IMG-20211022-170352.png",20h30 23/10: Wolfsburg - Freiburg
+https://tuongbongda.000webhostapp.com/play90p.php?id=6171c276baf5f939c69df8c6&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/X3981yP/IMG-20211022-170352.png",20h30 23/10: Arminia Bielefeld - Dortmund
 https://tuongbongda.000webhostapp.com/play90p.php?id=6171c2eee0d4672fc68e6d91&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/X3981yP/IMG-20211022-170352.png",20h30 23/10: RB Leipzig - Greuther Fürth
 https://tuongbongda.000webhostapp.com/play90p.php?id=6171c2c48bb98639dd59c727&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",21h00 23/10: Leeds - Wolves
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",21h00 23/10: Leeds - Wolves (BLV Người Thỏ)
 https://tuongbongda.000webhostapp.com/play90p.php?id=6171c0718bb98639dd59c726&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",21h00 23/10: Everton - Watford (BLV Ầu Men)
-https://tuongbongda.000webhostapp.com/play90p.php?id=6171bfe6e0d4672fc68e6d8e&.m3u8|Referer=https://xoilac.90phutt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",21h00 23/10: Southampton - Burnley
-https://tuongbongda.000webhostapp.com/play90p.php?id=6171c01528d9a539bbd2aabb&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",21h00 23/10: Crystal Palace - Newcastle
 https://tuongbongda.000webhostapp.com/play90p.php?id=6171c04574dd7b31c399b21a&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",21h00 23/10: Southampton - Burnley
+https://tuongbongda.000webhostapp.com/play90p.php?id=6171c01528d9a539bbd2aabb&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.ibb.co/RDzn7nR/IMG-20211018-153124.png",21h00 23/10: Everton - Watford (BLV Ầu Men)
+https://tuongbongda.000webhostapp.com/play90p.php?id=6171bfe6e0d4672fc68e6d8e&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.ibb.co/qsf4GFR/IMG-20211018-153148.png",21h15 23/10: Cadiz - Deportivo Alaves
 https://tuongbongda.000webhostapp.com/play90p.php?id=6171c1383679ef42e397135e&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",21h30 23/10: Santa Clara - Famalicao
@@ -164,19 +152,17 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6171c1d3c6aff63667deb1ae&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=6171c0a8c6aff63667deb1ad&.m3u8|Referer=https://xoilac.90phutt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.ibb.co/X3981yP/IMG-20211022-170352.png",23h30 23/10: Hertha BSC - M'gladbach
 https://tuongbongda.000webhostapp.com/play90p.php?id=6171c3158bb98639dd59c728&.m3u8|Referer=https://xoilac.90phutt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",23h45 23/10: FC Utrecht - SC Heerenveen
+https://tuongbongda.000webhostapp.com/play90p.php?id=6171c46f92893b39d17049e5&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.ibb.co/LPXd7Bt/IMG-20211018-081314.png",18h30 23/10: Chelsea - Norwich
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6171cff4459be70751bca620-b67fx0-b67fx0&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",18h30 23/10: Cardiff - Middlesbrough
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6173db64ffb9fe073f473b86-pPVyXt-pPVyXt&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",19h00 23/10: Valencia - Mallorca
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6171d04fbbe01307388dd68c-EAekGt-EAekGt&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",20h00 23/10: Salernitana - Empoli
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6171d076bbe01307388dd68f-tPAgnt-tPAgnt&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/12VCjqc/IMG-20211022-170421.png",20h30 23/10: Wolfsburg - Freiburg
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6171d095bbe01307388dd692-9xM444-9xM444&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/12VCjqc/IMG-20211022-170421.png",20h30 23/10: Bayern München - Hoffenheim
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6171d09effb9fe073f473a8a-VI7owA-VI7owA&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/12VCjqc/IMG-20211022-170421.png",20h30 23/10: Wolfsburg - Freiburg
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6171d095bbe01307388dd692-9xM444-9xM444&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/12VCjqc/IMG-20211022-170421.png",20h30 23/10: RB Leipzig - Greuther Fürth
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6171d0a8459be70751bca623-CWIPSZ-CWIPSZ&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.ibb.co/12VCjqc/IMG-20211022-170421.png",20h30 23/10: Arminia Bielefeld - Dortmund
