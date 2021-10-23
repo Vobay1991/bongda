@@ -4,16 +4,14 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http:/
 #EXTINF: -1 tvg-id = "vtvcab3hd" group-title = "VTVcab" tvg-logo = "https://assets-vtvcab.gviet.vn/images/hq/posters/TTTV_Logo_150x904.jpg", Một Thể ThaoTV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Australia (W) - Brazil (W)
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Tom Tomsk - FC Volgar
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Busan I'Park - Gyeongnam FC
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/YbFwqMc/IMG-20211018-081106.png",HD Gimcheon Sangmu - Jeonnam Dragons
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/HtR5hS3/IMG-20211018-081123.png",SD Gimcheon Sangmu - Jeonnam Dragons
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Busan I'Park - Gyeongnam FC
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Penafiel - Rio Ave
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Neftekhimik - Tekstilshchik
@@ -51,14 +49,12 @@ https://vophu.000webhostapp.com/play90p.php?id=6171c402e0d4672fc68e6d93&.m3u8|Re
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/48RJWf7/IMG-20211018-153136.png",23h00 23/10: Sassuolo - Venezia
 https://vophu.000webhostapp.com/play90p.php?id=6171c1d3c6aff63667deb1ae&.m3u8|Referer=https://xoilac.90phutt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",15h45 23/10: Australia (W) - Brazil (W)
-https://vophu.000webhostapp.com/playcakhia.php?id=6172711dbbe01307388dd6ee-OsOFOq-OsOFOq&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",16h00 23/10: Tom Tomsk - FC Volgar
 https://vophu.000webhostapp.com/playcakhia.php?id=6172712cffb9fe073f473ae5-BrXYTS-BrXYTS&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",16h30 23/10: Busan I'Park - Gyeongnam FC
-https://vophu.000webhostapp.com/playcakhia.php?id=6172712ebbe01307388dd6f1-J2NxeN-J2NxeN&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",16h30 23/10: Gimcheon Sangmu - Jeonnam Dragons
 https://vophu.000webhostapp.com/playcakhia.php?id=61727130ffb9fe073f473ae8-b6lph7-b6lph7&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",16h30 23/10: Busan I'Park - Gyeongnam FC
+https://vophu.000webhostapp.com/playcakhia.php?id=6172712ebbe01307388dd6f1-J2NxeN-J2NxeN&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",17h00 23/10: Penafiel - Rio Ave
 https://vophu.000webhostapp.com/playcakhia.php?id=617271bfbbe01307388dd6f5-IVVlD0-IVVlD0&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",17h00 23/10: Neftekhimik - Tekstilshchik
@@ -139,10 +135,10 @@ https://vophu.000webhostapp.com/playcakhia.php?id=61739a45bbe01307388dd79c-zc6Of
 https://vophu.000webhostapp.com/playcakhia.php?id=61736061bbe01307388dd76c-sRsUXu-sRsUXu&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h00 24/10: Minnesota - LAFC
 https://vophu.000webhostapp.com/playcakhia.php?id=617360632d544e0746608b21-ACTj1R-ACTj1R&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h00 24/10: Inter Miami CF - Cincinnati
-https://vophu.000webhostapp.com/playcakhia.php?id=61736065bbe01307388dd76d-XYJ8kU-XYJ8kU&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h00 24/10: Chicago - Salt Lake
 https://vophu.000webhostapp.com/playcakhia.php?id=617360672d544e0746608b24-rL5UYY-rL5UYY&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h00 24/10: Inter Miami CF - Cincinnati
+https://vophu.000webhostapp.com/playcakhia.php?id=6173e623bbe01307388dd7c7-PxvRU2-PxvRU2&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h30 24/10: Rio Grande Valley FC - New Mexico United
 https://vophu.000webhostapp.com/playcakhia.php?id=6173606f2d544e0746608b2c-dOUBG2-dOUBG2&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",08h00 24/10: Colorado - Portland
