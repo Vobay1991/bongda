@@ -53,6 +53,36 @@ https://vstv.broadpeak-aas.com/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fp
 http://xcchui2.mrnova.online/live/60688_.m3u8?token=tienmedia
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/jvmNvZ5/IMG-20211001-160241.png",RMCsports2
 http://xcchui2.mrnova.online/live/60689_.m3u8?token=tienmedia
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/K2zkNV3/IMG-20211011-061159.png",super premier
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52299.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/3FgFMMy/IMG-20211018-162933.png",Vsports 1
+https://rebrand.ly/Vsports-premium-hd
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/59DT4HL/IMG-20211001-124722.png",BEIN sports 1
+http://172.107.226.94:25461/live/upvckuzx/rgdfdh1/1.ts
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/gS1DytY/IMG-20211001-124704.png",BEIN sports 1
+http://172.107.226.94:25461/live/upvckuzx/rgdfdh1/2.ts
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/NVxVGkj/IMG-20211005-114613.png",QSPORT1
+http://93.157.62.180/TringSport1HD/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/stkNYvs/IMG-20211005-114601.png",QSPORT 2
+http://93.157.62.180/TringSport2HD/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/pyhfnZN/IMG-20211009-170304.png",U1DO 1
+http://xcchui2.mrnova.online/live/60302_.m3u8?token=tienmedia
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/JKL2SRK/IMG-20211009-170330.png",U1DO 2
+http://xcchui2.mrnova.online/live/60303_.m3u8?token=tienmedia
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/kxFC2KC/IMG-20211009-170316.png",U1DO 3
+http://xcchui2.mrnova.online/live/60304_.m3u8?token=tienmedia
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/6vBTWSP/IMG-20211001-122541.png",SONY TEN 2
+https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/j5prKvq/IMG-20211001-122521.png",SONY TEN 3
+https://feed.play.mv/live/10005200/RG2fKR6d9p/1.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/wdFR9Fp/IMG-20210906-185630.png",BOXING 1
+http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/JpCJDfR/IMG-20210906-185648.png",BOXING 2
+https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/qsRMcP1/Th-6-27-08-2021-19-55-33.png", BOXING 3
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Chelsea - Norwich
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
