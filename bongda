@@ -84,12 +84,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Atletico Morelia - Tlaxcala F.C.
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Agropecuario - Belgrano
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài York United FC - Forge FC
- https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/n0RnJzD/IMG-20211020-070017.png",10h30 09/11: Warriors - Hawks (BLV New Man)
@@ -117,87 +111,3 @@ https://thietbongda.000webhostapp.com/play90p.php?id=61881ee774dd7b31c399b252&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.ibb.co/8KGwLV1/IMG-20211018-160430.png",23h00 11/11: Benin - Madagascar
 https://thietbongda.000webhostapp.com/play90p.php?id=61881efe92893b39d1704a25&.m3u8|Referer=https://xoilac.90phutttt.xyz/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h00 10/11: Atletico Morelia - Tlaxcala F.C.
-https://thietbongda.000webhostapp.com/playcakhia.php?id=6189d694814e2b2ede37225b-1WbgYg-1WbgYg&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",06h35 10/11: Agropecuario - Belgrano
-https://thietbongda.000webhostapp.com/playcakhia.php?id=6189d69ac84ea72ea50e95d7-vfeqYc-vfeqYc&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h00 10/11: York United FC - Forge FC
-https://thietbongda.000webhostapp.com/playcakhia.php?id=6189d1cef700cf2ed729ed37-ppBepS-ppBepS&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h30 10/11: Gremio - Fluminense
-https://thietbongda.000webhostapp.com/playcakhia.php?id=6189d1e6814e2b2ede372247-3h3miN-3h3miN&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h30 10/11: Cruzeiro - Brusque
-https://thietbongda.000webhostapp.com/playcakhia.php?id=6189d1f7dd24032e9f4a531f-gpAf3d-gpAf3d&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",08h05 10/11: Cancun FC - Alebrijes
-https://thietbongda.000webhostapp.com/playcakhia.php?id=6189d32af700cf2ed729ed3a-a5Y5nT-a5Y5nT&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",10h05 10/11: Dorados - Jaibos
-https://thietbongda.000webhostapp.com/playcakhia.php?id=6189d330814e2b2ede37224a-ychmD0-ychmD0&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",14h00 10/11: Yenisey 2 - Chertanovo
-https://thietbongda.000webhostapp.com/playcakhia.php?id=6189dbf0c84ea72ea50e95e1-cIRuNw-cIRuNw&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",14h15 10/11: Persewar Waropen - Kalteng Putra FC
-https://thietbongda.000webhostapp.com/playcakhia.php?id=6189d733dd24032e9f4a532d-YpYl5J-YpYl5J&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",15h30 10/11: Broadmeadow Magic - Western Sydney Wanderers FC
-https://thietbongda.000webhostapp.com/playcakhia.php?id=6189d3c7814e2b2ede37224d-yC8ElL-yC8ElL&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",15h30 10/11: Hume City FC - Port Melbourne Sharks SC
-https://thietbongda.000webhostapp.com/playcakhia.php?id=6189d3caf700cf2ed729ed41-XroYtj-XroYtj&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",17h00 10/11: Khimik Dzerzhinsk - Shinnik Yaroslavl
-https://thietbongda.000webhostapp.com/playcakhia.php?id=6189dc12dd24032e9f4a533a-U6qvjq-U6qvjq&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",17h15 10/11: Sulut United - Mitra Kukar
-https://thietbongda.000webhostapp.com/playcakhia.php?id=6189d752814e2b2ede37225e-Seu8oM-Seu8oM&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",18h00 10/11: Arsenal Tula II - Fakel-M Voronezh
-https://thietbongda.000webhostapp.com/playcakhia.php?id=6189d3fef700cf2ed729ed44-6OAt9M-6OAt9M&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",18h00 10/11: Kaluga - Sokol Saratov
-https://thietbongda.000webhostapp.com/playcakhia.php?id=6189d405c84ea72ea50e95c8-UcIZed-UcIZed&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",18h00 10/11: Nakhon Ratchasima FC - BG Pathum United
-https://thietbongda.000webhostapp.com/playcakhia.php?id=6189d408dd24032e9f4a5322-kztkvj-kztkvj&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",18h00 10/11: Prachuap FC - Chonburi FC
-https://thietbongda.000webhostapp.com/playcakhia.php?id=6189d40af700cf2ed729ed47-NcaWmC-NcaWmC&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",18h30 10/11: Suphanburi FC - Chiangrai United
-https://thietbongda.000webhostapp.com/playcakhia.php?id=6189d40df700cf2ed729ed48-Z3tUx8-Z3tUx8&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",19h00 10/11: Samut Prakan City - Muang Thong United
-https://thietbongda.000webhostapp.com/playcakhia.php?id=6189d410814e2b2ede372250-NZgKQC-NZgKQC&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",20h00 10/11: Dinamo Briansk - Zenit Penza
-https://thietbongda.000webhostapp.com/playcakhia.php?id=6189d416f700cf2ed729ed4d-qOKt7X-qOKt7X&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",20h00 10/11: Perak FA - Selangor
-https://thietbongda.000webhostapp.com/playcakhia.php?id=6189d54e814e2b2ede372255-U9vXZq-U9vXZq&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",20h00 10/11: Selangor United - Pulau Pinang
-https://thietbongda.000webhostapp.com/playcakhia.php?id=6189d578c84ea72ea50e95cb-xb92R8-xb92R8&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",20h00 10/11: Kuching FA  - Terengganu
-https://thietbongda.000webhostapp.com/playcakhia.php?id=6189d592c84ea72ea50e95ce-DCMvex-DCMvex&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",21h00 10/11: Torpedo Vladimir - Volna Kovernino
-https://thietbongda.000webhostapp.com/playcakhia.php?id=6189d5b8c84ea72ea50e95d1-d0m8gO-d0m8gO&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",21h00 10/11: Legnago Salus - Sudtirol
-https://thietbongda.000webhostapp.com/playcakhia.php?id=6189d624dd24032e9f4a5327-D8y0Nv-D8y0Nv&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",21h00 10/11: Kazanka - FC Murom
-https://thietbongda.000webhostapp.com/playcakhia.php?id=6189d63a814e2b2ede372258-JziMFY-JziMFY&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",21h00 10/11: Semen Padang - Sriwijaya
-https://thietbongda.000webhostapp.com/playcakhia.php?id=6189d772814e2b2ede372261-cnk0fu-cnk0fu&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",04h30 11/11: Athletico Paranaense - Ceara
-https://thietbongda.000webhostapp.com/playcakhia.php?id=618aaade814e2b2ede3722d9-6Z74Zv-6Z74Zv&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",05h00 11/11: Brasil de Pelotas - Guarani
-https://thietbongda.000webhostapp.com/playcakhia.php?id=618aaad9dd24032e9f4a53a6-yIGbek-yIGbek&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",05h00 11/11: Santos FC - Red Bull Bragantino
-https://thietbongda.000webhostapp.com/playcakhia.php?id=618aaadbf700cf2ed729edb1-yEpcR5-yEpcR5&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",05h00 11/11: Atletico MG - Corinthians
-https://thietbongda.000webhostapp.com/playcakhia.php?id=618aaadcdd24032e9f4a53a7-fnNojb-fnNojb&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",05h30 11/11: Sol de America - Deportivo Santani
-https://thietbongda.000webhostapp.com/playcakhia.php?id=618aaad8814e2b2ede3722d6-tjNXok-tjNXok&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",06h30 11/11: Palmeiras - Atletico GO
-https://thietbongda.000webhostapp.com/playcakhia.php?id=618aaae0c84ea72ea50e966d-XnHm0I-XnHm0I&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h30 11/11: Vasco da Gama - Vitoria
-https://thietbongda.000webhostapp.com/playcakhia.php?id=618aaae5814e2b2ede3722dc-eqkbRE-eqkbRE&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h30 11/11: Goias - Coritiba
-https://thietbongda.000webhostapp.com/playcakhia.php?id=618aaae7dd24032e9f4a53af-cfDCmK-cfDCmK&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",07h30 11/11: CRB - Londrina EC
-https://thietbongda.000webhostapp.com/playcakhia.php?id=618aaae8814e2b2ede3722dd-a6KLWM-a6KLWM&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",07h30 11/11: Sport Recife - America MG
-https://thietbongda.000webhostapp.com/playcakhia.php?id=618aaae9c84ea72ea50e9673-UR6oFc-UR6oFc&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",07h30 11/11: Juventude - Internacional
-https://thietbongda.000webhostapp.com/playcakhia.php?id=618aaaebf700cf2ed729edb7-GNEniw-GNEniw&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",07h30 11/11: Fortaleza - Sao Paulo
-https://thietbongda.000webhostapp.com/playcakhia.php?id=618aaaed814e2b2ede3722e2-nxNELt-nxNELt&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",08h05 11/11: Pumas Tabasco - CD Tepatitlan de Morelos
-https://thietbongda.000webhostapp.com/playcakhia.php?id=618aaae4c84ea72ea50e9670-4wsnEW-4wsnEW&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",10h00 11/11: Sakhalin - Salyut Belgorod
-https://thietbongda.000webhostapp.com/playcakhia.php?id=618aaae2f700cf2ed729edb4-JOXI38-JOXI38&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.ibb.co/K7b6wyh/IMG-20211018-053159.png",10h05 11/11: Correcaminos - Raya2 Expansion
-https://thietbongda.000webhostapp.com/playcakhia.php?id=618aaae1dd24032e9f4a53ac-pQlbe0-pQlbe0&.m3u8|Referer=https://cakhia.cakhia6.tv/truc-tiep/
