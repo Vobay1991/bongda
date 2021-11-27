@@ -84,27 +84,7 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Villarreal - Barcelona
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",Full HD Villarreal - Barcelona
-https://xem.rakhoi.tv/truc-tiep/619e9ea27aa67d088ca805e8-MVOYWl.html?link=2|Referer=https://live.rakhoi.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/PF8gS0J/IMG-20211018-081244.png",HD 2 Villarreal - Barcelona
-https://na46hw9rf0liv.vcdn.cloud/taohd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/ng9HBhK/IMG-20211018-081210.png",SD 2 Villarreal - Barcelona
-https://na46hw9rf0liv.vcdn.cloud/taosd2/index.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/yNXDL0j/IMG-20211018-081230.png",HD 1 Villarreal - Barcelona
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/7V6T2pg/IMG-20211018-081146.png",SD 1 Villarreal - Barcelona
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taosd1/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/zfhByQq/IMG-20211018-052233.png",Nhà đài Nice - Metz
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/TRx1JrZ/IMG-20211022-170433.png",Full HD Nice - Metz
-https://rakhoi.tv/|Referer=https://live.rakhoi.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.ibb.co/h9vNfWZ/IMG-20211018-081328.png",03h00 28/11: Villarreal - Barcelona
-https://thietbongda.000webhostapp.com/playcakhia.php?id=619e9ea27aa67d088ca805e8-MVOYWl-MVOYWl&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/TRx1JrZ/IMG-20211022-170433.png",03h00 28/11: Nice - Metz
-https://thietbongda.000webhostapp.com/playcakhia.php?id=619e9f37093d4908b288c105-VRHUmI-VRHUmI&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.ibb.co/Rp5p63F/IMG-20211018-081300.png",18h30 28/11: Udinese - Genoa
 https://thietbongda.000webhostapp.com/playcakhia.php?id=619e9ecd7aa67d088ca805f0-dSuJL8-dSuJL8&.m3u8|Referer=https://live.rakhoi.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.ibb.co/TRx1JrZ/IMG-20211022-170433.png",19h00 28/11: Saint-Etienne - PSG
