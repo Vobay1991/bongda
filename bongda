@@ -1,42 +1,34 @@
 #EXTM3U url-tvg = "http://gg.gg/epgvn03
 
-#EXTINF:-1 group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/vthanhtivi.png", Update key: 19h55 05/03/2022
-https://vthanh.xyz/hls/laudaitinhai.m3u8
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/95.png", K+CINE HD võ phú
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/95.png", K+CINE HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3Asa8CoyPPiThuVCOKEbpHOej5KCykK04Y6S4BM5xwP38%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFNIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjQ2NDg2NzY1Njk2LHU6IjVlODBjNDgxLTgyZDctYzhhZi0zYjU3LWI2OTk2ZjgyODNlZiIsZGU6MyxsZjowfQ
+#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3ADy8N_1UgClmUwWt1ZGonDr3q08XwvK2w5Pv7Ly-UGto%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFNIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjQ2NDg4NjIyNzkzLHU6IjVlODBjNDgxLTgyZDctYzhhZi0zYjU3LWI2OTk2ZjgyODNlZiIsZGU6MyxsZjowfQ
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_cinehd/default/i.mpd
 
 #EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/96.png", K+LIFE HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3Aq4UBEeFR79KqbZTeXM6whrKf-LTipivRdNbPiQCTXpE%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFFIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjQ2NDg3ODU4MTg5LHU6Ijg4MzY4YTVhLWFmMDktNjk4MS1iYWNkLWViYzM2MzYyOTNhYiIsZGU6MyxsZjowfQ
+#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3Aqk3MruOop1lJeJY6o7WaAlumd7SOkzRrS4XDZCyMScM%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFRIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjQ2NDg4NjIzMjc3LHU6IjVlODBjNDgxLTgyZDctYzhhZi0zYjU3LWI2OTk2ZjgyODNlZiIsZGU6MyxsZjowfQ
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_lifehd/default/i.mpd
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/97.png", K+SPORT1 HD vỏ phú 5
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/97.png", K+SPORT1 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3AMreiC_pTIRQS5dNVXIc2FNuS1T2_05ZPVNXFmnIIjZ0%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFFIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjQ2NDg3MzAyNDcyLHU6Ijg4MzY4YTVhLWFmMDktNjk4MS1iYWNkLWViYzM2MzYyOTNhYiIsZGU6MyxsZjowfQ
+#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3AW5oG8KsryoTarJAfs8LfqrxzUKQ90OrRpYMv3D9WztI%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFFIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjQ2NDg4NjI0Njg0LHU6IjVlODBjNDgxLTgyZDctYzhhZi0zYjU3LWI2OTk2ZjgyODNlZiIsZGU6MyxsZjowfQ
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/i.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/98.png", K+SPORT2 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3Adgrdf3-s2hBz2Ns0HZHU1aO3oyIa7kJAc0lRaBn8xjA%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFJIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjQ2NDg2NzY2NjY1LHU6IjVlODBjNDgxLTgyZDctYzhhZi0zYjU3LWI2OTk2ZjgyODNlZiIsZGU6MyxsZjowfQ
+#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3ASkQZaHjdKcEWFJcJu-WFNzTHepiQwulS-iwt9_TUfoE%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFJIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjQ2NDg4NjI1MDgxLHU6IjVlODBjNDgxLTgyZDctYzhhZi0zYjU3LWI2OTk2ZjgyODNlZiIsZGU6MyxsZjowfQ
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport2hd/default/i.mpd
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/188.png", K+KIDS HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3ApgI0bJRT7FTA0Vzqu-EEAflq1ku69dfGejfaFwM7_BE%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFVIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjQ2NDg2NzY2OTU4LHU6IjVlODBjNDgxLTgyZDctYzhhZi0zYjU3LWI2OTk2ZjgyODNlZiIsZGU6MyxsZjowfQ
+#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3AhsvNWJMydgn0ZmXaQeiZK6cBVMLLxq_dy5xUQLTUi4A%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFVIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjQ2NDg4NjI1NTgxLHU6IjVlODBjNDgxLTgyZDctYzhhZi0zYjU3LWI2OTk2ZjgyODNlZiIsZGU6MyxsZjowfQ
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_kidshd/default/i.mpd
-
-#EXTINF:-1 group-title="Thời gian" tvg-logo="https://cdn.hqth.me/vthanhtivi.png", 05/03/2022 20:26:07
-https://vthanh.xyz/hls/laudaitinhai.m3u8
-
-
 
 #EXTINF: -1 tvg-id = "vtvcab16hd" group-title = "VTVcab" tvg-logo = "https://assets-vtvcab.gviet.vn/images/hq/posters/BDTV_Logo_150x904.jpg", One Bóng đáTV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
