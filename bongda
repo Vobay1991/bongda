@@ -1,5 +1,12 @@
 #EXTM3U url-tvg = "http://gg.gg/epgvn03
 
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://i.imgur.com/J9jwk5m.png", K+SPORT1 HD võ phú
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3AsXw0gSIiue7_IYvRQ_Er96LOpQEiUiGiUaIam-raKhQ%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFFIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjQ2NTcxNzgxMjE1LHU6Ijg4MzY4YTVhLWFmMDktNjk4MS1iYWNkLWViYzM2MzYyOTNhYiIsZGU6MyxsZjowfQ
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/i.mpd
+
+
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/95.png", K+CINE HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
