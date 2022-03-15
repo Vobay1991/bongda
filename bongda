@@ -12,16 +12,10 @@ https://jq9sucdqmfliv.vcdn.cloud/may9/index.m3u8
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Lv6xmBlUIpN3GAFhtf6nqQ_96x96.png",22h00 15/03: Juventus U19 - Liverpool U19
 https://tuongbongda.000webhostapp.com/play90p.php?id=6230a12928d9a539bbd2ac4d&.m3u8
-#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/205686_small.png",22h50 15/03: Al-Taawoun - Al-Jaish
-https://tuongbongda.000webhostapp.com/play90p.php?id=622dfacb8bb98639dd59c8cf&.m3u8
-#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/182933_small.png",23h15 15/03: Baniyas - Nasaf Qarshi
-https://tuongbongda.000webhostapp.com/play90p.php?id=622dfb41c6aff63667deb322&.m3u8
-#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102124_small.png",23h15 15/03: Sharjah Cultural Club - Al Zawraa
-https://tuongbongda.000webhostapp.com/play90p.php?id=622dfb5ae0d4672fc68e6f02&.m3u8
-#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8659_small.png",03h00 16/03: West Brom - Fulham
-https://tuongbongda.000webhostapp.com/play90p.php?id=622f939974dd7b31c399b3a4&.m3u8
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",03h00 16/03: Ajax - Benfica (Âu men)
 https://tuongbongda.000webhostapp.com/play90p.php?id=622f5e988bb98639dd59c8d0&.m3u8
+#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8659_small.png",03h00 16/03: West Brom - Fulham
+https://tuongbongda.000webhostapp.com/play90p.php?id=622f939974dd7b31c399b3a4&.m3u8
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",03h00 16/03: Team ATM: Chiến thần Cáp + Liu
 https://tuongbongda.000webhostapp.com/play90p.php?id=6230b1ba8bb98639dd59c8d4&.m3u8
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",03h00 16/03: Team MU: Song sát Bátman + Thỏi
@@ -42,13 +36,17 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=62307bca92893b39d1704b67&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=62307bb2e0d4672fc68e6f05&.m3u8
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6453_small.png",07h30 16/03: Barcelona SC - America MG
 https://tuongbongda.000webhostapp.com/play90p.php?id=62307b5c74dd7b31c399b3a5&.m3u8
+#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://scontent-xx-sta-vn.90p.tech/8-2021/e95d21c237c7e6363f370fd0e0cf5c2e.png",08h00 16/03: Cancun FC - Tapatio
+https://tuongbongda.000webhostapp.com/play90p.php?id=62307c28c6aff63667deb327&.m3u8
+#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7849_small.png",10h06 16/03: Monterrey - Juárez
+https://tuongbongda.000webhostapp.com/play90p.php?id=62307c3e8bb98639dd59c8d3&.m3u8
+#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8008_small.png",15h35 16/03: Adelaide United - Western Sydney Wanderers FC
+https://tuongbongda.000webhostapp.com/play90p.php?id=62307b3cbaf5f939c69dfa2a&.m3u8
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1699.png",Al Taawon - Jaish
 https://tuongbongda.000webhostapp.com/playxembd.php?id=al-taawon-vs-jaish-luc-22h50-ngay-15-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1668.png",Juventus U19 - Liverpool U19
 https://tuongbongda.000webhostapp.com/playxembd.php?id=juventus-u19-vs-liverpool-u19-luc-22h00-ngay-15-03-2022&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1803.png",Kerala Blasters - Jamshedpur
-https://tuongbongda.000webhostapp.com/playxembd.php?id=kerala-blasters-vs-jamshedpur-luc-21h00-ngay-15-03-2022&.m3u8|Referer=https://xembd.live/
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_118.png",16/03 - 03:00 Ajax - Benfica
 https://tuongbongda.000webhostapp.com/playxembd.php?id=ajax-vs-benfica-luc-03h00-ngay-16-03-2022&.m3u8|Referer=https://xembd.live/
