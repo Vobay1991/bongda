@@ -9,6 +9,8 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http:/
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1495.png",Daegu FC - Buriram United
+https://tuongbongda.000webhostapp.com/playxembd.php?id=daegu-fc-vs-buriram-united-luc-17h30-ngay-15-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1510.png",Oita Trinita - Kashima
 https://tuongbongda.000webhostapp.com/playxembd.php?id=oita-trinita-vs-kashima&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1521.png",FC Tokyo - Jubilo Iwata
