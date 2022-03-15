@@ -49,8 +49,12 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=622fbc39c6aff63667deb325&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/287880_small.png",21h00 17/03: Cook Islands - Solomon Islands
 https://tuongbongda.000webhostapp.com/play90p.php?id=622fbc9428d9a539bbd2ac4c&.m3u8
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1355.png",Perth Glory - Central Coast Mariners
+https://tuongbongda.000webhostapp.com/playxembd.php?id=perth-glory-vs-central-coast-mariners-luc-18h05-ngay-12-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1495.png",Daegu FC - Buriram United
 https://tuongbongda.000webhostapp.com/playxembd.php?id=daegu-fc-vs-buriram-united-luc-17h30-ngay-15-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1922.png",Gimpo Citizen - Asan Mugunghwa
+https://tuongbongda.000webhostapp.com/playxembd.php?id=gimpo-citizen-vs-asan-mugunghwa-luc-17h30-ngay-15-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1510.png",Oita Trinita - Kashima
 https://tuongbongda.000webhostapp.com/playxembd.php?id=oita-trinita-vs-kashima&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1521.png",FC Tokyo - Jubilo Iwata
