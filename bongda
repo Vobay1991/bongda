@@ -8,12 +8,6 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http:/
 
 
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/133896_small.png",17h00 15/03: Ulsan Hyundai - Port FC
-https://tuongbongda.000webhostapp.com/play90p.php?id=622df99e8bb98639dd59c8cb&.m3u8
-#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/BZUmVsyGi03lHJ0KfZ7wUA_96x96.png",17h00 15/03: Vissel Kobe - Melbourne Victory
-https://tuongbongda.000webhostapp.com/play90p.php?id=622df9b88bb98639dd59c8cc&.m3u8
-#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/133897_small.png",17h30 15/03: Daegu FC - Buriram United
-https://tuongbongda.000webhostapp.com/play90p.php?id=622df9d274dd7b31c399b3a3&.m3u8
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/205686_small.png",22h50 15/03: Al-Taawoun - Al-Jaish
 https://tuongbongda.000webhostapp.com/play90p.php?id=622dfacb8bb98639dd59c8cf&.m3u8
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102124_small.png",23h15 15/03: Sharjah Cultural Club - Al Zawraa
@@ -34,6 +28,8 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=62307b6ec6aff63667deb326&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=62307b8774dd7b31c399b3a6&.m3u8
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://scontent-xx-sta-vn.90p.tech/10-2021/1858e4d87a83a79289560b77a6b3f014.png",06h00 16/03: Mineros - Venados
 https://tuongbongda.000webhostapp.com/play90p.php?id=62307c0f74dd7b31c399b3a7&.m3u8
+#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://scontent-xx-sta-vn.90p.tech/10-2021/a0c4f04774b7da0a9be3189089e3cd06.png",07h00 16/03: Comunicaciones FC - NYCFC
+https://tuongbongda.000webhostapp.com/play90p.php?id=62307c8174dd7b31c399b3a8&.m3u8
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/192435_small.png",07h30 16/03: Union La Calera - Atletico Nublense
 https://tuongbongda.000webhostapp.com/play90p.php?id=62307bca92893b39d1704b67&.m3u8
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/4417_small.png",07h30 16/03: FBC Melgar - Cienciano
@@ -42,8 +38,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=62307bb2e0d4672fc68e6f05&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=62307b5c74dd7b31c399b3a5&.m3u8
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://scontent-xx-sta-vn.90p.tech/8-2021/e95d21c237c7e6363f370fd0e0cf5c2e.png",08h00 16/03: Cancun FC - Tapatio
 https://tuongbongda.000webhostapp.com/play90p.php?id=62307c28c6aff63667deb327&.m3u8
-#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8008_small.png",15h35 16/03: Adelaide United - Western Sydney Wanderers FC
-https://tuongbongda.000webhostapp.com/play90p.php?id=62307b3cbaf5f939c69dfa2a&.m3u8
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1803.png",Kerala Blasters - Jamshedpur
 https://tuongbongda.000webhostapp.com/playxembd.php?id=kerala-blasters-vs-jamshedpur-luc-21h00-ngay-15-03-2022&.m3u8|Referer=https://xembd.live/
