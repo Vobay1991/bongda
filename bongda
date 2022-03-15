@@ -6,12 +6,6 @@
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/4zSXh9p.png", One Bóng đáTV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Barnsley - Bristol City
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Birmingham - Middlesbrough
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Blackburn - Derby
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Man United - Atletico Madrid
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Man United - Atletico Madrid
@@ -35,6 +29,36 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài West Brom - Fulham
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/7eL8byS.png",SD Ajax - Benfica (Âu men)
+https://jq9sucdqmfliv.vcdn.cloud/123SD/index.m3u8
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/1L5DQ80/IMG-20211223-104019.png",HD Ajax - Benfica (Âu men)
+https://179910612.global.cdnfastest.com/live/183116676476b44487da6090d3613448beb/playlist.m3u8
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/HiGJYbg.png",FullHD Ajax - Benfica (Âu men)
+https://livestream.socialstreaming.tv/live/6230e3b4707940001d097e74/6230e3b4707940001d097e74.m3u8
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Ajax - Benfica (Âu men)
+https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài West Brom - Fulham
+https://jq9sucdqmfliv.vcdn.cloud/may7/index.m3u8
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/5VOae7i.png",SD1 Team ATM: Chiến thần Cáp + Liu
+https://179235864.global.cdnfastest.com//live/18399715b0af17e423a8e406afb2a451b76/playlist.m3u8
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/MDbZtbY.png",SD2 Team ATM: Chiến thần Cáp + Liu
+https://jq9sucdqmfliv.vcdn.cloud/may3SD/index.m3u8
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/1L5DQ80/IMG-20211223-104019.png",HD Team ATM: Chiến thần Cáp + Liu
+https://179386814.global.cdnfastest.com//live/183945d1d7223f3493d81064fefb1004018/playlist.m3u8
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/HiGJYbg.png",FullHD Team ATM: Chiến thần Cáp + Liu
+https://livestream-2.socialstreaming.tv/live/6230e48b108f21001df22cd8/6230e48b108f21001df22cd8.m3u8
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Team ATM: Chiến thần Cáp + Liu
+https://jq9sucdqmfliv.vcdn.cloud/may9/index.m3u8
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/5VOae7i.png",SD1 Team MU: Song sát Bátman + Thỏi
+https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/MDbZtbY.png",SD2 Team MU: Song sát Bátman + Thỏi
+https://jq9sucdqmfliv.vcdn.cloud/may1SD/index.m3u8
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/1L5DQ80/IMG-20211223-104019.png",HD Team MU: Song sát Bátman + Thỏi
+https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/playlist.m3u8
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/HiGJYbg.png",FullHD Team MU: Song sát Bátman + Thỏi
+https://livestream.socialstreaming.tv/live/6230e5665d4a54001d852a7a/6230e5665d4a54001d852a7a.m3u8
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Team MU: Song sát Bátman + Thỏi
+https://jq9sucdqmfliv.vcdn.cloud/may9/index.m3u8
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",03h00 16/03: Ajax - Benfica (Âu men)
 https://tuongbongda.000webhostapp.com/play90p.php?id=622f5e988bb98639dd59c8d0&.m3u8
@@ -123,12 +147,6 @@ https://tuongbongda.000webhostapp.com/playvebotv.php?id=galatasaray-barcelona-N8
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",02h45 16/03: Barnsley - Bristol City
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=62307b2bf9b15a1f461dbcb6&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",02h45 16/03: Birmingham - Middlesbrough
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=62307b35f9b15a1f461dbcb9&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",02h45 16/03: Blackburn - Derby
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=62307b3ef9b15a1f461dbcbc&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/N0tPQVe.png",03h00 16/03: Man United - Atletico Madrid
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=622ccb0f7c8c061a70f6d045&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/N0tPQVe.png",03h00 16/03: Ajax - Benfica
