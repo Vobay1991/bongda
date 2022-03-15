@@ -1,20 +1,159 @@
 #EXTM3U url-tvg = "http://gg.gg/epgvn03
-#EXTINF: -1 tvg-id = "vtvcab16hd" group-title = "VTVcab" tvg-logo = "https://assets-vtvcab.gviet.vn/images/hq/posters/BDTV_Logo_150x904.jpg", One Bóng đáTV
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF: -1 tvg-id = "vtvcab3hd" group-title = "VTVcab" tvg-logo = "https://assets-vtvcab.gviet.vn/images/hq/posters/TTTV_Logo_150x904.jpg", Một Thể ThaoTV
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF: -1 tvg-id = "vtvcab23hd" group-title = "VTVcab" tvg-logo = "https://assets-vtvcab.gviet.vn/images/hq/posters/Golf_Logo_update_150x902.jpg", Một gofl
-https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://assets-vtvcab.gviet.vn/images/hq/posters/onsport_Logo_150x902.jpg", One Sports +
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/4WdxTnW/IMG-20210818-205754.png", SCTV15
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv15/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/0ZFYb4x/IMG-20210818-205836.png", SCTV 17
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/cC8wvvc/IMG-20210818-205956.png", SCTV22
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/HDHJkz1/IMG-20210818-165554.png", Bình Dương 5
-https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/bbHQmqM/IMG-20210818-124904.png",HTV Thể Thao  HD
-https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: bongda
 
+
+
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/4zSXh9p.png", One Bóng đáTV
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
+
+
+
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/133896_small.png",17h00 15/03: Ulsan Hyundai - Port FC
+https://tuongbongda.000webhostapp.com/play90p.php?id=622df99e8bb98639dd59c8cb&.m3u8
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/BZUmVsyGi03lHJ0KfZ7wUA_96x96.png",17h00 15/03: Vissel Kobe - Melbourne Victory
+https://tuongbongda.000webhostapp.com/play90p.php?id=622df9b88bb98639dd59c8cc&.m3u8
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/133897_small.png",17h30 15/03: Daegu FC - Buriram United
+https://tuongbongda.000webhostapp.com/play90p.php?id=622df9d274dd7b31c399b3a3&.m3u8
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/205686_small.png",22h50 15/03: Al-Taawoun - Al-Jaish
+https://tuongbongda.000webhostapp.com/play90p.php?id=622dfacb8bb98639dd59c8cf&.m3u8
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/182933_small.png",23h15 15/03: Baniyas - Nasaf Qarshi
+https://tuongbongda.000webhostapp.com/play90p.php?id=622dfb41c6aff63667deb322&.m3u8
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/102124_small.png",23h15 15/03: Sharjah Cultural Club - Al Zawraa
+https://tuongbongda.000webhostapp.com/play90p.php?id=622dfb5ae0d4672fc68e6f02&.m3u8
+#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",03h00 16/03: Ajax - Benfica
+https://tuongbongda.000webhostapp.com/play90p.php?id=622f5e988bb98639dd59c8d0&.m3u8
+#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",03h00 16/03: Manchester United - Atlético Madrid
+https://tuongbongda.000webhostapp.com/play90p.php?id=622f5eacc6aff63667deb324&.m3u8
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Hạng Nhất Anh" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8659_small.png",03h00 16/03: West Brom - Fulham
+https://tuongbongda.000webhostapp.com/play90p.php?id=622f939974dd7b31c399b3a4&.m3u8
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/MTaSIp0.png",19h15 16/03: Hà Nội  - Thanh Hóa
+https://tuongbongda.000webhostapp.com/play90p.php?id=622f5e7bc6aff63667deb323&.m3u8
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",00h30 17/03: Mainz 05 - Dortmund
+https://tuongbongda.000webhostapp.com/play90p.php?id=622f5ec4e0d4672fc68e6f03&.m3u8
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",02h45 17/03: Brighton - Tottenham Hotspur
+https://tuongbongda.000webhostapp.com/play90p.php?id=622fbc238bb98639dd59c8d1&.m3u8
+#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",03h00 17/03: Lille - Chelsea
+https://tuongbongda.000webhostapp.com/play90p.php?id=622fbbe7e0d4672fc68e6f04&.m3u8
+#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",03h00 17/03: Juventus - Villarreal
+https://tuongbongda.000webhostapp.com/play90p.php?id=622fbc013679ef42e3971510&.m3u8
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/4us2nCgl6kgZc0t3hpW75Q_96x96.png",03h15 17/03: Arsenal - Liverpool
+https://tuongbongda.000webhostapp.com/play90p.php?id=622fbc39c6aff63667deb325&.m3u8
+
+
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_118.png",16/03 - 03:00 Ajax - Benfica
+https://tuongbongda.000webhostapp.com/playxembd.php?id=ajax-vs-benfica-luc-03h00-ngay-16-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_45.png",17/03 - 03:00 Lille - Chelsea
+https://tuongbongda.000webhostapp.com/playxembd.php?id=lille-vs-chelsea-luc-03h00-ngay-17-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_46.png",17/03 - 03:00 Juventus - Villarreal
+https://tuongbongda.000webhostapp.com/playxembd.php?id=juventus-vs-villarreal-luc-03h00-ngay-17-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_60.png",17/03 - 03:15 Arsenal - Liverpool
+https://tuongbongda.000webhostapp.com/playxembd.php?id=arsenal-vs-liverpool-luc-03h15-ngay-17-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_127.png",18/03 - 00:45 Galatasaray - Barcelona
+https://tuongbongda.000webhostapp.com/playxembd.php?id=galatasaray-vs-barcelona-luc-00h45-ngay-18-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_151.png",19/03 - 03:00 Wolves - Leeds
+https://tuongbongda.000webhostapp.com/playxembd.php?id=wolves-vs-leeds-luc-03h00-ngay-19-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_143.png",19/03 - 19:30 Aston Villa - Arsenal
+https://tuongbongda.000webhostapp.com/playxembd.php?id=aston-villa-vs-arsenal-luc-19h30-ngay-19-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_116.png",19/03 - 22:00 Manchester City - Brighton
+https://tuongbongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-brighton-luc-22h00-ngay-19-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_144.png",20/03 - 00:30 Burnley - Southampton
+https://tuongbongda.000webhostapp.com/playxembd.php?id=burnley-vs-southampton-luc-00h30-ngay-20-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_32.png",20/03 - 00:30 Bayern Munich - Union Berlin
+https://tuongbongda.000webhostapp.com/playxembd.php?id=bayern-munich-vs-union-berlin-luc-00h30-ngay-20-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Ligue 1" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_84.png",20/03 - 19:00 Monaco - Paris Saint Germain
+https://tuongbongda.000webhostapp.com/playxembd.php?id=monaco-vs-paris-saint-germain-luc-19h00-ngay-20-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_92.png",20/03 - 21:00 Tottenham - West Ham
+https://tuongbongda.000webhostapp.com/playxembd.php?id=tottenham-vs-west-ham-luc-21h00-ngay-20-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_93.png",20/03 - 23:30 Liverpool - Manchester United
+https://tuongbongda.000webhostapp.com/playxembd.php?id=liverpool-vs-manchester-united-luc-23h30-ngay-20-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Bundesliga 1" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_96.png",21/03 - 01:30 FC Koln - Borussia Dortmund
+https://tuongbongda.000webhostapp.com/playxembd.php?id=fc-koln-vs-borussia-dortmund-luc-01h30-ngay-21-03-2022&.m3u8|Referer=https://xembd.live/
+
+
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2953/image",16/03/2022 - 03:00 Ajax - SL Benfica
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=sl-benfica-ajax-I4D7IqR&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/35/image",16/03/2022 - 03:00 Manchester United - Atlético Madrid
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=manchester-united-atletico-madrid-p2iZeIi&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/30/image",17/03/2022 - 02:30 Brighton & Hove Albion - Tottenham
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=tottenham-brighton-and-hove-albion-kdSUa7P&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/1643/image",17/03/2022 - 03:00 Lille OSC - Chelsea
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=chelsea-lille-osc-2AvzKeH&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2687/image",17/03/2022 - 03:00 Juventus - Villarreal
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=villarreal-juventus-9dywk7C&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/42/image",17/03/2022 - 03:15 Arsenal - Liverpool
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=liverpool-arsenal-wYGJlBU&.m3u8|Referer=https://vebotv.tv/
+
+
+
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",18h00 15/03: Biashara Mara United - Tanzania Prisons
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622ffb667b4fa14404a5069e&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",18h00 15/03: Noravank - Ararat
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622ffb677b4fa14404a5069f&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/N0tPQVe.png",03h00 16/03: Man United - Atletico Madrid
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622ccb0f7c8c061a70f6d045&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/N0tPQVe.png",03h00 16/03: Ajax - Benfica
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622ccb147c8c061a70f6d048&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/YDo8rwM.png",19h15 16/03: Ha Noi FC - FLC Thanh Hoa
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f73da7b4fa14404a50419&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",23h30 16/03: Mainz 05 - Borussia Dortmund
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f69727b4fa14404a503aa&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",02h30 17/03: Brighton - Tottenham
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f67ec7b4fa14404a5037f&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",02h45 17/03: Blackpool - Sheff Utd
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f69407b4fa14404a50395&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",02h45 17/03: Cardiff - Stoke
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f69427b4fa14404a50396&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",02h45 17/03: Coventry - Hull
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f69457b4fa14404a50399&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",02h45 17/03: Luton - Preston
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f69467b4fa14404a5039c&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",02h45 17/03: Millwall - Huddersfield
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f69487b4fa14404a5039d&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",02h45 17/03: Nottm Forest - QPR
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f69497b4fa14404a503a0&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",02h45 17/03: Peterborough - Swansea
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f694b7b4fa14404a503a3&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/N0tPQVe.png",03h00 17/03: Juventus - Villarreal
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f53777b4fa14404a50347&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/N0tPQVe.png",03h00 17/03: Lille - Chelsea
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f537b7b4fa14404a50348&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",03h15 17/03: Arsenal - Liverpool
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f67ed7b4fa14404a50380&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",21h00 17/03: Cook Islands - Solomon Islands
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f68607b4fa14404a5038c&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",00h00 18/03: Tahiti - Vanuatu
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f6b3e7b4fa14404a503fd&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/crd7Y2B.png",00h45 18/03: Leverkusen - Atalanta
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f69a87b4fa14404a503ae&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/crd7Y2B.png",00h45 18/03: FK Crvena Zvezda - Rangers
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f69af7b4fa14404a503b1&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/crd7Y2B.png",00h45 18/03: Galatasaray - Barcelona
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f69b47b4fa14404a503b6&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/crd7Y2B.png",00h45 18/03: Monaco - Braga
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f69bb7b4fa14404a503c2&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/Xvjl8PW.png",00h45 18/03: AZ Alkmaar - Bodø/Glimt
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f6b1b7b4fa14404a503e1&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/Xvjl8PW.png",00h45 18/03: Basel - Marseille
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f6b1c7b4fa14404a503e2&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/Xvjl8PW.png",00h45 18/03: FC København - PSV Eindhoven
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f6b1d7b4fa14404a503e3&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/Xvjl8PW.png",00h45 18/03: Rennes - Leicester
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f6b1e7b4fa14404a503e4&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",02h45 18/03: Everton - Newcastle
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f6b017b4fa14404a503de&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/crd7Y2B.png",03h00 18/03: Frankfurt - Real Betis
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f69d17b4fa14404a503d5&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/crd7Y2B.png",03h00 18/03: Lyon - FC Porto
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f69d67b4fa14404a503d8&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/crd7Y2B.png",03h00 18/03: West Ham - Sevilla
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f69db7b4fa14404a503db&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/Xvjl8PW.png",03h00 18/03: Feyenoord - Partizan Beograd
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f6b207b4fa14404a503e9&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/Xvjl8PW.png",03h00 18/03: Gent - PAOK Thessaloniki FC
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f6b227b4fa14404a503ec&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/Xvjl8PW.png",03h00 18/03: LASK - Slavia Prague
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f6b237b4fa14404a503ef&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/Xvjl8PW.png",03h00 18/03: Roma - Vitesse
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f6b257b4fa14404a503f2&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",21h00 18/03: Papua New Guinea - New Zealand
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f6b3f7b4fa14404a503fe&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
