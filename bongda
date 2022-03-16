@@ -7,8 +7,6 @@
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài PSG U19 - Salzburg U19
-https://jq9sucdqmfliv.vcdn.cloud/may9/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Dortmund U19 - Atletico U19
 https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
@@ -64,10 +62,10 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=wolves-vs-leeds-luc-03h00
 https://tuongbongda.000webhostapp.com/playxembd.php?id=aston-villa-vs-arsenal-luc-19h30-ngay-19-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_116.png",19/03 - 22:00 Manchester City - Brighton
 https://tuongbongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-brighton-luc-22h00-ngay-19-03-2022&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_144.png",20/03 - 00:30 Burnley - Southampton
-https://tuongbongda.000webhostapp.com/playxembd.php?id=burnley-vs-southampton-luc-00h30-ngay-20-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_32.png",20/03 - 00:30 Bayern Munich - Union Berlin
 https://tuongbongda.000webhostapp.com/playxembd.php?id=bayern-munich-vs-union-berlin-luc-00h30-ngay-20-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_144.png",20/03 - 00:30 Burnley - Southampton
+https://tuongbongda.000webhostapp.com/playxembd.php?id=burnley-vs-southampton-luc-00h30-ngay-20-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_84.png",20/03 - 19:00 Monaco - Paris Saint Germain
 https://tuongbongda.000webhostapp.com/playxembd.php?id=monaco-vs-paris-saint-germain-luc-19h00-ngay-20-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_92.png",20/03 - 21:00 Tottenham - West Ham
@@ -107,8 +105,6 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=juventus-vs-villarreal-
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=arsenal-vs-liverpool-0315-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2019/12/1182.png",Hôm nay - 21:00  Mohun Bagan - Hyderabad
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=mohun-bagan-vs-hyderabad-2100-16-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/04/1216.png",Hôm nay - 21:00  Palermo - Fidelis Andria
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=palermo-vs-fidelis-andria-2100-16-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/05/8453.png",Hôm nay - 22:00  Senica - Pohronie
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=senica-vs-pohronie-2200-16-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2022/03/251707.png",Hôm nay - 22:30  Sekhukhune utd - Maritzburg Utd
@@ -137,6 +133,8 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=blackpool-vs-sheffield-
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=cardiff-city-vs-stoke-city-0245-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2019/12/117.png",Ngày mai - 02:45  Coventry City - Hull City
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=coventry-city-vs-hull-city-0245-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2019/12/115.png",Ngày mai - 02:45  Luton Town - Preston N.E
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=luton-town-vs-preston-n-e-0245-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
 
