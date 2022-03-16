@@ -7,17 +7,15 @@
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Adelaide United - Western Sydney Wanderers FC
-https://jq9sucdqmfliv.vcdn.cloud/may9/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8008_small.png",15h35 16/03: Adelaide United - Western Sydney Wanderers FC
-https://tuongbongda.000webhostapp.com/play90p.php?id=62307b3cbaf5f939c69dfa2a&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://i.imgur.com/MTaSIp0.png",19h15 16/03: Hà Nội  - Thanh Hóa
 https://tuongbongda.000webhostapp.com/play90p.php?id=622f5e7bc6aff63667deb323&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",00h30 17/03: Mainz 05 - Dortmund
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",00h30 17/03: Mainz - Dortmund (Người Cồn)
 https://tuongbongda.000webhostapp.com/play90p.php?id=622f5ec4e0d4672fc68e6f03&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",02h45 17/03: Brighton - Tottenham Hotspur
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",02h45 17/03: Brighton - Tottenham (Âu men)
 https://tuongbongda.000webhostapp.com/play90p.php?id=622fbc238bb98639dd59c8d1&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Hạng Nhất Anh" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10004_small.png",02h45 17/03: Millwall - Huddersfield
+https://tuongbongda.000webhostapp.com/play90p.php?id=6231c2d93679ef42e3971514&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",03h00 17/03: Juventus - Villarreal
 https://tuongbongda.000webhostapp.com/play90p.php?id=622fbc013679ef42e3971510&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",03h00 17/03: Lille - Chelsea
@@ -40,8 +38,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=62310f2c28d9a539bbd2ac4f&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=62310f1874dd7b31c399b3ab&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10229_small.png",00h45 18/03: AZ - Bodø / Glimt
 https://tuongbongda.000webhostapp.com/play90p.php?id=62310f0574dd7b31c399b3aa&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8391_small.png",00h45 18/03: København - PSV
-https://tuongbongda.000webhostapp.com/play90p.php?id=62310ef13679ef42e3971512&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1928.png",FC Anyang - Busan I Park
 https://tuongbongda.000webhostapp.com/playxembd.php?id=fc-anyang-vs-busan-i-park-luc-17h30-ngay-16-03-2022&.m3u8|Referer=https://xembd.live/
