@@ -10,8 +10,6 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http:/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Dortmund U19 - Atletico U19
 https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://api.sofascore.com/api/v1/team/90138/image",20h00 16/03: PSG U19 - Salzburg U19
-https://tuongbongda.000webhostapp.com/play90p.php?id=6231c4143679ef42e3971515&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://api.sofascore.com/api/v1/team/43719/image",22h30 16/03: Dortmund U19 - Atletico U19
 https://tuongbongda.000webhostapp.com/play90p.php?id=6231c42992893b39d1704b69&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",00h30 17/03: Mainz - Dortmund (Người Cồn)
@@ -42,6 +40,8 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=62310f2c28d9a539bbd2ac4f&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=62310f1874dd7b31c399b3ab&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8391_small.png",00h45 18/03: København - PSV
 https://tuongbongda.000webhostapp.com/play90p.php?id=62310ef13679ef42e3971512&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8687_small.png",00h45 18/03: Crvena Zvezda - Rangers
+https://tuongbongda.000webhostapp.com/play90p.php?id=62310e4b28d9a539bbd2ac4e&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1672.png",Borussia Dortmund U19 - Atlético Madrid U19
 https://tuongbongda.000webhostapp.com/playxembd.php?id=borussia-dortmund-u19-vs-atletico-madrid-u19-luc-22h30-ngay-16-03-2022&.m3u8|Referer=https://xembd.live/
