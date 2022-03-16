@@ -6,54 +6,12 @@
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/4zSXh9p.png", One Bóng đáTV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Arsenal - Liverpool
-https://bb5iqwas4fliv.vcdn.cloud/m301nd/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Arsenal - Liverpool
-https://bb5iqwas4fliv.vcdn.cloud/luhd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Arsenal - Liverpool
-https://bb5iqwas4fliv.vcdn.cloud/lusd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Arsenal - Liverpool
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Arsenal - Liverpool
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",SD1 Lille - Chelsea (Cáp Tần)
-https://jq9sucdqmfliv.vcdn.cloud/may2SD/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",SD2 Lille - Chelsea (Cáp Tần)
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",HD Lille - Chelsea (Cáp Tần)
-https://179235864.global.cdnfastest.com/live/1835978343a56044e44ac7f11057e93569a/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",FHD Lille - Chelsea (Cáp Tần)
-https://livestream-2.socialstreaming.tv/live/623235e67a83bd001c9ef45c/623235e67a83bd001c9ef45c.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",Nhà Đài Lille - Chelsea (Cáp Tần)
-https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",SD1 Juventus - Villarreal (Liu men)
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",SD2 Juventus - Villarreal (Liu men)
-https://jq9sucdqmfliv.vcdn.cloud/may3SD/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",HD Juventus - Villarreal (Liu men)
-https://179386814.global.cdnfastest.com//live/183945d1d7223f3493d81064fefb1004018/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",FHD Juventus - Villarreal (Liu men)
-https://livestream.socialstreaming.tv/live/623239b4f829a1001c76123b/623239b4f829a1001c76123b.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",Nhà Đài Juventus - Villarreal (Liu men)
-https://jq9sucdqmfliv.vcdn.cloud/may11/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/4us2nCgl6kgZc0t3hpW75Q_96x96.png",SD1 Arsenal - Liverpool (Thỏ + Cồn)
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/4us2nCgl6kgZc0t3hpW75Q_96x96.png",SD2 Arsenal - Liverpool (Thỏ + Cồn)
-https://jq9sucdqmfliv.vcdn.cloud/may1SD/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/4us2nCgl6kgZc0t3hpW75Q_96x96.png",HD Arsenal - Liverpool (Thỏ + Cồn)
-https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/4us2nCgl6kgZc0t3hpW75Q_96x96.png",FHD Arsenal - Liverpool (Thỏ + Cồn)
-https://livestream.socialstreaming.tv/live/62323cb27a83bd001c9ef45e/62323cb27a83bd001c9ef45e.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/4us2nCgl6kgZc0t3hpW75Q_96x96.png",Nhà Đài Arsenal - Liverpool (Thỏ + Cồn)
-https://179235864.global.cdnfastest.com//live/18399715b0af17e423a8e406afb2a451b76/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://scontent-xx-sta-vn.90p.tech/6-2021/563201a0464712336525fc65fc960aea.png",Nhà đài Estudiantes - Everton CD
+https://jq9sucdqmfliv.vcdn.cloud/may9/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://scontent-xx-sta-vn.90p.tech/6-2021/09781f11656ed1c0091cd311813535c2.png",Nhà đài River Plate - Liverpool FC
+https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",03h00 17/03: Lille - Chelsea (Cáp Tần)
-https://tuongbongda.000webhostapp.com/play90p.php?id=622fbbe7e0d4672fc68e6f04&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",03h00 17/03: Juventus - Villarreal (Liu men)
-https://tuongbongda.000webhostapp.com/play90p.php?id=622fbc013679ef42e3971510&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/4us2nCgl6kgZc0t3hpW75Q_96x96.png",03h15 17/03: Arsenal - Liverpool (Thỏ + Cồn)
-https://tuongbongda.000webhostapp.com/play90p.php?id=622fbc39c6aff63667deb325&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://scontent-xx-sta-vn.90p.tech/6-2021/563201a0464712336525fc65fc960aea.png",05h15 17/03: Estudiantes - Everton CD
 https://tuongbongda.000webhostapp.com/play90p.php?id=62321db428d9a539bbd2ac50&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://scontent-xx-sta-vn.90p.tech/6-2021/09781f11656ed1c0091cd311813535c2.png",05h15 17/03: River Plate - Liverpool FC
@@ -85,9 +43,9 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=62310e75baf5f939c69dfa2b&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8687_small.png",00h45 18/03: Crvena Zvezda - Rangers
 https://tuongbongda.000webhostapp.com/play90p.php?id=62310e4b28d9a539bbd2ac4e&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_60.png",Arsenal - Liverpool
-https://tuongbongda.000webhostapp.com/playxembd.php?id=arsenal-vs-liverpool-luc-03h15-ngay-17-03-2022&.m3u8|Referer=https://xembd.live/
 
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1326.png",17/03 - 09:15 U.N.A.M. - Pumas - New England Revolution
+https://tuongbongda.000webhostapp.com/playxembd.php?id=u-n-a-m-pumas-vs-new-england-revolution-luc-09h15-ngay-17-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_127.png",18/03 - 00:45 Galatasaray - Barcelona
 https://tuongbongda.000webhostapp.com/playxembd.php?id=galatasaray-vs-barcelona-luc-00h45-ngay-18-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_151.png",19/03 - 03:00 Wolves - Leeds
@@ -96,10 +54,10 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=wolves-vs-leeds-luc-03h00
 https://tuongbongda.000webhostapp.com/playxembd.php?id=aston-villa-vs-arsenal-luc-19h30-ngay-19-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_116.png",19/03 - 22:00 Manchester City - Brighton
 https://tuongbongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-brighton-luc-22h00-ngay-19-03-2022&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_32.png",20/03 - 00:30 Bayern Munich - Union Berlin
-https://tuongbongda.000webhostapp.com/playxembd.php?id=bayern-munich-vs-union-berlin-luc-00h30-ngay-20-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_144.png",20/03 - 00:30 Burnley - Southampton
 https://tuongbongda.000webhostapp.com/playxembd.php?id=burnley-vs-southampton-luc-00h30-ngay-20-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_32.png",20/03 - 00:30 Bayern Munich - Union Berlin
+https://tuongbongda.000webhostapp.com/playxembd.php?id=bayern-munich-vs-union-berlin-luc-00h30-ngay-20-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_84.png",20/03 - 19:00 Monaco - Paris Saint Germain
 https://tuongbongda.000webhostapp.com/playxembd.php?id=monaco-vs-paris-saint-germain-luc-19h00-ngay-20-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_92.png",20/03 - 21:00 Tottenham - West Ham
@@ -114,8 +72,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=fc-koln-vs-borussia-dortm
 https://tuongbongda.000webhostapp.com/playxembd.php?id=real-madrid-vs-barcelona-luc-03h00-ngay-21-03-2022&.m3u8|Referer=https://xembd.live/
 
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/42/image", -  Arsenal - Liverpool
-https://tuongbongda.000webhostapp.com/playvebotv.php?id=liverpool-arsenal-wYGJlBU&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/1653/image",18/03/2022 - 00:45 AS Monaco - Sporting Braga
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=sporting-braga-as-monaco-8awc3nc&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2681/image",18/03/2022 - 00:45 Bayer 04 Leverkusen - Atalanta
@@ -124,13 +80,13 @@ https://tuongbongda.000webhostapp.com/playvebotv.php?id=atalanta-bayer-04-leverk
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=galatasaray-barcelona-N8aWBWe&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/5149/image",18/03/2022 - 00:45 FK Crvena zvezda - Rangers
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=fk-crvena-zvezda-rangers-PUuSPOY&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/37/image",18/03/2022 - 03:00 West Ham United - Sevilla
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=west-ham-united-sevilla-cxhaX5T&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/1649/image",18/03/2022 - 03:00 Olympique Lyonnais - FC Porto
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=fc-porto-olympique-lyonnais-okw1QIr&.m3u8|Referer=https://vebotv.tv/
 
 {SAOKETV_PLACEHOLDER}
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2019/12/19.png",Hôm nay - 03:15  Arsenal - Liverpool
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=arsenal-vs-liverpool-0315-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/08/10204.png",Hôm nay - 04:00  Dep. Tolima - Patriotas Boyacá
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=dep-tolima-vs-patriotas-boyaca-0400-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/ZZICanP.png",Hôm nay - 04:45  América W - Querétaro W
@@ -169,11 +125,11 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=csa-vs-paysandu-0730-17
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=sao-paulo-vs-manaus-0730-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/10/Utah-Jazz-1.png",Hôm nay - 08:00  Utah Jazz - Chicago Bulls
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=utah-jazz-vs-chicago-bulls-0800-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/08/11382.png",Hôm nay - 08:05  Correcaminos - Atlante
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=correcaminos-vs-atlante-0805-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",03h15 17/03: Arsenal - Liverpool
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f67ed7b4fa14404a50380&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",16h00 17/03: Atyrau - Maktaaral FC
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6232062c0688c5459c870e5d&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",21h00 17/03: Cook Islands - Solomon Islands
