@@ -87,8 +87,6 @@ https://tuongbongda.000webhostapp.com/playvebotv.php?id=fc-porto-olympique-lyonn
 
 {SAOKETV_PLACEHOLDER}
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/08/10204.png",Hôm nay - 04:00  Dep. Tolima - Patriotas Boyacá
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=dep-tolima-vs-patriotas-boyaca-0400-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/ZZICanP.png",Hôm nay - 04:45  América W - Querétaro W
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=america-w-vs-queretaro-w-0445-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2022/03/9966.png",Hôm nay - 05:00  Moto Club - Tombense
@@ -127,6 +125,8 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=sao-paulo-vs-manaus-073
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=utah-jazz-vs-chicago-bulls-0800-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/08/11382.png",Hôm nay - 08:05  Correcaminos - Atlante
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=correcaminos-vs-atlante-0805-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/08/12832.png",Hôm nay - 08:10  Dep. Pasto - Santa Fe
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=dep-pasto-vs-santa-fe-0810-17-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
 
