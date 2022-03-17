@@ -6,20 +6,6 @@
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/4zSXh9p.png", One Bóng đáTV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Everton - Newcastle
-https://bb5iqwas4fliv.vcdn.cloud/m401nd/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Everton - Newcastle
-https://bb5iqwas4fliv.vcdn.cloud/lechhd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Everton - Newcastle
-https://bb5iqwas4fliv.vcdn.cloud/lechsd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Everton - Newcastle
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Everton - Newcastle
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechsd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Frankfurt - Real Betis
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Lyon - FC Porto
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài West Ham - Sevilla
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 West Ham - Sevilla
@@ -30,6 +16,10 @@ https://bb5iqwas4fliv.vcdn.cloud/paosd2/index.m3u8|Referer=https://xem.rakhoi1.t
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 West Ham - Sevilla
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Frankfurt - Real Betis
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Lyon - FC Porto
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Feyenoord - Partizan Beograd
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Gent - PAOK Thessaloniki FC
@@ -135,8 +125,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=62337e2592893b39d1704b6e&.m
 https://tuongbongda.000webhostapp.com/playxembd.php?id=west-ham-vs-sevilla-luc-03h00-ngay-18-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_101.png",Eintracht Frankfurt - Real Betis
 https://tuongbongda.000webhostapp.com/playxembd.php?id=eintracht-frankfurt-vs-real-betis-luc-03h00-ngay-18-03-2022&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_82.png",Lyon - FC Porto
-https://tuongbongda.000webhostapp.com/playxembd.php?id=lyon-vs-fc-porto-luc-03h00-ngay-18-03-2022&.m3u8|Referer=https://xembd.live/
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live/",18/03 - 18:00  - 
 https://tuongbongda.000webhostapp.com/playxembd.php?id=le-boc-tham-tu-ket-champions-league-2021-2022&.m3u8|Referer=https://xembd.live/
@@ -164,18 +152,18 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=fc-koln-vs-borussia-dortm
 https://tuongbongda.000webhostapp.com/playxembd.php?id=real-madrid-vs-barcelona-luc-03h00-ngay-21-03-2022&.m3u8|Referer=https://xembd.live/
 
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/48/image", -  Everton - Newcastle United
-https://tuongbongda.000webhostapp.com/playvebotv.php?id=everton-newcastle-united-kIURLkf&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2702/image", -  Roma - Vitesse
-https://tuongbongda.000webhostapp.com/playvebotv.php?id=vitesse-roma-7o8iLjL&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/37/image", -  West Ham United - Sevilla
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=west-ham-united-sevilla-cxhaX5T&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/1649/image", -  Olympique Lyonnais - FC Porto
-https://tuongbongda.000webhostapp.com/playvebotv.php?id=fc-porto-olympique-lyonnais-okw1QIr&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2674/image", -  Eintracht Frankfurt - Real Betis Balompié
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=real-betis-balompie-eintracht-frankfurt-v9diCgB&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/3/image",19/03/2022 - 03:00 Wolverhampton - Leeds United
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=leeds-united-wolverhampton-DcJxubS&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/40/image",19/03/2022 - 19:30 Aston Villa - Arsenal
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=arsenal-aston-villa-e7ZdQWJ&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/36/image",20/03/2022 - 00:15 Middlesbrough - Chelsea
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=chelsea-middlesbrough-dm4voiI&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/7/image",20/03/2022 - 19:30 Crystal Palace - Everton
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=crystal-palace-everton-b3oySlM&.m3u8|Referer=https://vebotv.tv/
 
 {SAOKETV_PLACEHOLDER}
 
@@ -183,14 +171,6 @@ https://tuongbongda.000webhostapp.com/playvebotv.php?id=leeds-united-wolverhampt
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=west-ham-utd-vs-sevilla-0300-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/08/366.png",Hôm nay - 03:00  E. Frankfurt - Real Betis
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=e-frankfurt-vs-real-betis-0300-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/12/79.png",Hôm nay - 03:00  Lyonnais - Porto
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=olympique-lyonnais-vs-porto-0300-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2019/12/2402.png",Hôm nay - 03:00  Gent - PAOK
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=gent-vs-paok-0300-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="http://cdn.mitom1.tv/2019/12/37.png",Hôm nay - 03:00  Roma - Vitesse
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=roma-vs-vitesse-0300-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/01/3369.png",Hôm nay - 03:00  LASK Linz - Slavia Praha
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=lask-linz-vs-slavia-praha-0300-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2019/12/538.png",Hôm nay - 10:05  Querétaro - Atl. San Luis
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=queretaro-vs-atl-san-luis-1005-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="http://cdn.mitom1.tv/2019/12/557.png",Hôm nay - 15:45  Newcastle Jets - Wellington Phoenix
@@ -224,14 +204,12 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=puebla-vs-santos-laguna
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",02h45 18/03: Everton - Newcastle
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f6b017b4fa14404a503de&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/crd7Y2B.png",03h00 18/03: West Ham - Sevilla
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f69db7b4fa14404a503db&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/crd7Y2B.png",03h00 18/03: Frankfurt - Real Betis
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f69d17b4fa14404a503d5&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/crd7Y2B.png",03h00 18/03: Lyon - FC Porto
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f69d67b4fa14404a503d8&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/crd7Y2B.png",03h00 18/03: West Ham - Sevilla
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f69db7b4fa14404a503db&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/Xvjl8PW.png",03h00 18/03: Feyenoord - Partizan Beograd
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f6b207b4fa14404a503e9&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/Xvjl8PW.png",03h00 18/03: Gent - PAOK Thessaloniki FC
