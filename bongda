@@ -6,6 +6,8 @@
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/4zSXh9p.png", One Bóng đáTV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Tobol Kostanay - FC Kyzylzhar Petropavlovsk
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/287880_small.png",21h00 17/03: Cook Islands - Solomon Islands
@@ -117,6 +119,8 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=lask-linz-vs-slavia-pra
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=feyenoord-vs-partizan-0300-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2019/12/538.png",Ngày mai - 10:05  Querétaro - Atl. San Luis
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=queretaro-vs-atl-san-luis-1005-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2019/12/1041.png",19/03/2022 - 00:00  Rizespor - Trabzonspor
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=rizespor-vs-trabzonspor-0000-19-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
 
