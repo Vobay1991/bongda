@@ -6,6 +6,8 @@
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/4zSXh9p.png", One Bóng đáTV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Tahiti - Vanuatu
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8391_small.png",00h45 18/03: København - PSV
