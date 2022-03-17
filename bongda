@@ -39,6 +39,12 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=62310ec7baf5f939c69dfa2c&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10235_small.png",03h00 18/03: Feyenoord - Partizan
 https://tuongbongda.000webhostapp.com/play90p.php?id=62310f903679ef42e3971513&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_468.png",FK Crvena Zvezda - Rangers
+https://tuongbongda.000webhostapp.com/playxembd.php?id=fk-crvena-zvezda-vs-rangers-luc-00h45-ngay-18-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_84.png",Monaco - SC Braga
+https://tuongbongda.000webhostapp.com/playxembd.php?id=monaco-vs-sc-braga-luc-00h45-ngay-18-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_100.png",Bayer Leverkusen - Atalanta
+https://tuongbongda.000webhostapp.com/playxembd.php?id=bayer-leverkusen-vs-atalanta-luc-00h45-ngay-18-03-2022&.m3u8|Referer=https://xembd.live/
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_127.png",18/03 - 00:45 Galatasaray - Barcelona
 https://tuongbongda.000webhostapp.com/playxembd.php?id=galatasaray-vs-barcelona-luc-00h45-ngay-18-03-2022&.m3u8|Referer=https://xembd.live/
@@ -148,12 +154,12 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=puebla-vs-santos-laguna
 
 
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/crd7Y2B.png",00h45 18/03: Galatasaray - Barcelona
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f69b47b4fa14404a503b6&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/crd7Y2B.png",00h45 18/03: Leverkusen - Atalanta
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f69a87b4fa14404a503ae&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/crd7Y2B.png",00h45 18/03: FK Crvena Zvezda - Rangers
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f69af7b4fa14404a503b1&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/crd7Y2B.png",00h45 18/03: Galatasaray - Barcelona
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f69b47b4fa14404a503b6&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/crd7Y2B.png",00h45 18/03: Monaco - Braga
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=622f69bb7b4fa14404a503c2&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/Xvjl8PW.png",00h45 18/03: AZ Alkmaar - Bodø/Glimt
