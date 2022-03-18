@@ -7,8 +7,6 @@
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Queretaro - San Luis
-https://jq9sucdqmfliv.vcdn.cloud/may91/index.m3u8	|Referer= https://xoilac.90phutttttttt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://scontent-xx-sta-vn.90p.tech/8-2021/81edfc4f8cdda93c3dad3fd324b1e3d7.png",10h05 18/03: Queretaro - San Luis
 https://tuongbongda.000webhostapp.com/play90p.php?id=623356e9baf5f939c69dfa33&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
@@ -32,6 +30,8 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6233b998c6aff63667deb32d&.m
 
 
 
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2021/08/29.png",Ngày mai - 03:00  Wolverhampton - Leeds United
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=wolverhampton-vs-leeds-united-0300-19-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/02/94336.png",Hôm nay - 15:30  Dandenong City - Eastern Lions
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=dandenong-city-vs-eastern-lions-1530-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/02/10526.png",Hôm nay - 15:30  Melbourne Knights - Heidelberg Utd
@@ -70,8 +70,6 @@ https://tuongbongda.000webhostapp.com/playvebotv.php?id=smouha-vs-al-damanhour-2
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=etar-vs-botev-plovdiv-ii-2030-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/09/7639.png",Hôm nay - 20:30  Dobrudzha 1919 - CSKA 1948 Sofia
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=dobrudzha-1919-vs-cska-1948-sofia-2030-18-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://cdn.mitom1.tv/2020/03/3009.png",Hôm nay - 21:00  İstanbulspor - Keçiörengücü
-https://tuongbongda.000webhostapp.com/playvebotv.php?id=istanbulspor-vs-keciorengucu-0000-12-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 {SAOKETV_PLACEHOLDER}
 
