@@ -6,8 +6,6 @@
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/4zSXh9p.png", One Bóng đáTV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Elche - Valencia
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Lens - Clermont Foot
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Inter - Fiorentina
@@ -20,17 +18,19 @@ https://bb5iqwas4fliv.vcdn.cloud/paosd2/index.m3u8|Referer=https://xem.rakhoi1.t
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Inter - Fiorentina
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Bayern München - Union Berlin
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Bayern München - Union Berlin
+https://bb5iqwas4fliv.vcdn.cloud/lechhd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Bayern München - Union Berlin
+https://bb5iqwas4fliv.vcdn.cloud/lechsd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Bayern München - Union Berlin
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Bayern München - Union Berlin
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechsd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Osasuna - Levante
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/5VOae7i.png",SD1 Elche - Valencia (Người Cồn)
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/MDbZtbY.png",SD2 Elche - Valencia (Người Cồn)
-https://jq9sucdqmfliv.vcdn.cloud/may2SD/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/1L5DQ80/IMG-20211223-104019.png",HD Elche - Valencia (Người Cồn)
-https://179235864.global.cdnfastest.com/live/1835978343a56044e44ac7f11057e93569a/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/HiGJYbg.png",FullHD Elche - Valencia (Người Cồn)
-https://livestream.socialstreaming.tv/live/6235eeddd85997001ce98336/6235eeddd85997001ce98336.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Elche - Valencia (Người Cồn)
-https://jq9sucdqmfliv.vcdn.cloud/may91/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Tondela - Arouca
 https://jq9sucdqmfliv.vcdn.cloud/may11/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Lens - Clermont
@@ -53,9 +53,19 @@ https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc
 https://livestream.socialstreaming.tv/live/62360771693847001c816b90/62360771693847001c816b90.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Middlesbrough - Chelsea (Liu men)
 https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Osasuna - Levante
+https://jq9sucdqmfliv.vcdn.cloud/may91/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/5VOae7i.png",SD1 Bayern - Union Berlin (Thỏ)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/MDbZtbY.png",SD2 Bayern - Union Berlin (Thỏ)
+https://jq9sucdqmfliv.vcdn.cloud/may3SD/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/1L5DQ80/IMG-20211223-104019.png",HD Bayern - Union Berlin (Thỏ)
+https://179386814.global.cdnfastest.com//live/183945d1d7223f3493d81064fefb1004018/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/HiGJYbg.png",FullHD Bayern - Union Berlin (Thỏ)
+https://livestream.socialstreaming.tv/live/62360eff795ec5001c1f8481/62360eff795ec5001c1f8481.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Bayern - Union Berlin (Thỏ)
+https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/uyyqqxLIYT_lQIXRyMI_RA_96x96.png",22h15 19/03: Elche - Valencia (Người Cồn)
-https://tuongbongda.000webhostapp.com/play90p.php?id=6234783abaf5f939c69dfa37&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/188163_small.png",22h30 19/03: Tondela - Arouca
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234785b3679ef42e397151b&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",23h00 19/03: Lens - Clermont
@@ -64,10 +74,10 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=623478773679ef42e397151c&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234b9bf74dd7b31c399b3b3&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/tSAATe0_UkCtEX0hgEdyTg_96x96.png",00h15 20/03: Middlesbrough - Chelsea (Liu men)
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234bcb392893b39d1704b75&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",00h30 20/03: Bayern - Union Berlin (Thỏ)
-https://tuongbongda.000webhostapp.com/play90p.php?id=6234ba69baf5f939c69dfa39&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",00h30 20/03: Osasuna - Levante
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234b8e38bb98639dd59c8d9&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",00h30 20/03: Bayern - Union Berlin (Thỏ)
+https://tuongbongda.000webhostapp.com/play90p.php?id=6234ba69baf5f939c69dfa39&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/KPnQQv6PNQxcHPlpi4rC-g_96x96.png",00h45 20/03: Go Ahead Eagles - Cambuur
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234bd4028d9a539bbd2ac5e&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png",01h00 20/03: Santa Clara - Belenenses SAD
@@ -76,12 +86,12 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6234bad0c6aff63667deb330&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234bd5b28d9a539bbd2ac5f&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8529_small.png",02h45 20/03: Cagliari - Milan (Âu men)
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234b9dc28d9a539bbd2ac5a&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/i5LifmxEVIl0sbvIysiyhw_96x96.png",03h00 20/03: Rayo - Atletico (Người Cồn)
-https://tuongbongda.000webhostapp.com/play90p.php?id=6234b8ff8bb98639dd59c8da&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",03h00 20/03: Nantes - Lille
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234bb6974dd7b31c399b3b4&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8464_small.png",03h00 20/03: NEC Nijmegen - Sparta Rotterdam
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234bd79c6aff63667deb331&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/i5LifmxEVIl0sbvIysiyhw_96x96.png",03h00 20/03: Rayo - Atletico (Người Cồn)
+https://tuongbongda.000webhostapp.com/play90p.php?id=6234b8ff8bb98639dd59c8da&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7844_small.png",03h30 20/03: Vitoria de Guimaraes - Sporting CP
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234baeb92893b39d1704b73&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9908_small.png",18h15 20/03: FC Utrecht - FC Groningen
@@ -92,14 +102,14 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6234ba023679ef42e397151d&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234bb898bb98639dd59c8dc&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",19h30 20/03: Crystal Palace - Everton
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234bcd792893b39d1704b76&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",20h00 20/03: Espanyol - Mallorca
+https://tuongbongda.000webhostapp.com/play90p.php?id=6234b91a92893b39d1704b71&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 {XEMBD_PLACEHOLDER}
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png", -  Elche CF - Valencia
-https://tuongbongda.000webhostapp.com/playvebotv.php?id=elche-cf-valencia-XcFNpYQ&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png", -  Inter - Fiorentina
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=inter-fiorentina-dCHulA7&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",20/03/2022 - 00:15 Middlesbrough - Chelsea
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png", -  Middlesbrough - Chelsea
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=chelsea-middlesbrough-dm4voiI&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",20/03/2022 - 00:30 Bayern München - 1. FC Union Berlin
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=bayern-munchen-1-fc-union-berlin-LEtTTkf&.m3u8|Referer=https://vebotv.tv/
@@ -107,10 +117,10 @@ https://tuongbongda.000webhostapp.com/playvebotv.php?id=bayern-munchen-1-fc-unio
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=cagliari-milan-8XXcvMm&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",20/03/2022 - 03:00 Rayo Vallecano - Atlético Madrid
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=atletico-madrid-rayo-vallecano-Uc2iIML&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",20/03/2022 - 19:30 Crystal Palace - Everton
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=crystal-palace-everton-b3oySlM&.m3u8|Referer=https://vebotv.tv/
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",19/03/2022 - 22:15  Elche - Valencia
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=elche-vs-valencia-2215-19-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",19/03/2022 - 23:00  Lens - Clermont
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=lens-vs-clermont-2300-19-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 00:00  Inter - Fiorentina
@@ -194,8 +204,6 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=tijuana-vs-juarez-1006-
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",22h15 19/03: Elche - Valencia
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6231ab440688c5459c870ded&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",23h00 19/03: Lens - Clermont Foot
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6231abae0688c5459c870df5&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",00h00 20/03: Inter - Fiorentina
