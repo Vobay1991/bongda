@@ -6,14 +6,6 @@
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/4zSXh9p.png", One Bóng đáTV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Greuther Fürth - Freiburg
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Hertha BSC - Hoffenheim
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Mainz - Arminia Bielefeld
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài VfB Stuttgart - Augsburg
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Reading - Blackburn
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Elche - Valencia
@@ -21,14 +13,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Lens - Clermont Foot
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Greuther Fürth - Freiburg
-https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài VfB Stuttgart - Augsburg
-https://jq9sucdqmfliv.vcdn.cloud/may71/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Mainz 05 - Bielefeld
-https://jq9sucdqmfliv.vcdn.cloud/may61/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Hertha BSC - Hoffenheim
-https://179235864.global.cdnfastest.com//live/18399715b0af17e423a8e406afb2a451b76/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Reading - Blackburn
 https://jq9sucdqmfliv.vcdn.cloud/may10/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/5VOae7i.png",SD1 Elche - Valencia (Người Cồn)
@@ -46,14 +30,6 @@ https://jq9sucdqmfliv.vcdn.cloud/may11/index.m3u8|Referer= https://xoilac.90phut
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Lens - Clermont
 https://jq9sucdqmfliv.vcdn.cloud/may7/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8357_small.png",21h30 19/03: Greuther Fürth - Freiburg
-https://tuongbongda.000webhostapp.com/play90p.php?id=6234774d28d9a539bbd2ac57&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",21h30 19/03: VfB Stuttgart - Augsburg
-https://tuongbongda.000webhostapp.com/play90p.php?id=62347763baf5f939c69dfa35&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",21h30 19/03: Mainz 05 - Bielefeld
-https://tuongbongda.000webhostapp.com/play90p.php?id=6234777a28d9a539bbd2ac58&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8177_small.png",21h30 19/03: Hertha BSC - Hoffenheim
-https://tuongbongda.000webhostapp.com/play90p.php?id=62347803baf5f939c69dfa36&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Hạng Nhất Anh" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9798_small.png",22h00 19/03: Reading - Blackburn
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234781f28d9a539bbd2ac59&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/uyyqqxLIYT_lQIXRyMI_RA_96x96.png",22h15 19/03: Elche - Valencia (Người Cồn)
@@ -109,14 +85,6 @@ https://tuongbongda.000webhostapp.com/playvebotv.php?id=cagliari-milan-8XXcvMm&.
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=atletico-madrid-rayo-vallecano-Uc2iIML&.m3u8|Referer=https://vebotv.tv/
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 21:30  VfB Stuttgart - FC Augsburg
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=vfb-stuttgart-vs-fc-augsburg-2130-19-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 21:30  FSV Mainz 05 - A. Bielefeld
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=fsv-mainz-05-vs-a-bielefeld-2130-19-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 21:30  Hertha BSC - Hoffenheim
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=hertha-bsc-vs-hoffenheim-2130-19-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 21:30  Greuther Fürth - SC Freiburg
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=greuther-furth-vs-sc-freiburg-2130-19-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 22:15  Elche - Valencia
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=elche-vs-valencia-2215-19-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 23:00  Lens - Clermont
@@ -202,14 +170,6 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=tijuana-vs-juarez-1006-
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",21h30 19/03: Greuther Fürth - Freiburg
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6231ab390688c5459c870ddc&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",21h30 19/03: Hertha BSC - Hoffenheim
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6231ab3b0688c5459c870ddf&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",21h30 19/03: Mainz - Arminia Bielefeld
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6231ab3d0688c5459c870de2&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",21h30 19/03: VfB Stuttgart - Augsburg
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6231ab3f0688c5459c870de5&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",22h00 19/03: Reading - Blackburn
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6232f0ac0688c5459c87108c&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",22h15 19/03: Elche - Valencia
