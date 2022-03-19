@@ -6,8 +6,6 @@
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/4zSXh9p.png", One Bóng đáTV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Lens - Clermont Foot
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Inter - Fiorentina
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Inter - Fiorentina
@@ -123,8 +121,6 @@ https://tuongbongda.000webhostapp.com/playvebotv.php?id=atletico-madrid-rayo-val
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=crystal-palace-everton-b3oySlM&.m3u8|Referer=https://vebotv.tv/
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",19/03/2022 - 23:00  Lens - Clermont
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=lens-vs-clermont-2300-19-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 00:00  Inter - Fiorentina
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=inter-vs-fiorentina-0000-20-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 00:15  Middlesbrough - Chelsea
@@ -206,8 +202,6 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=tijuana-vs-juarez-1006-
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",23h00 19/03: Lens - Clermont Foot
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6231abae0688c5459c870df5&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",00h00 20/03: Inter - Fiorentina
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6231a1f40688c5459c870d5f&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",00h30 20/03: Bayern München - Union Berlin
