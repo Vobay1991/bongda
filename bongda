@@ -6,24 +6,38 @@
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/4zSXh9p.png", One Bóng đáTV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Cagliari - Milan
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Cagliari - Milan
+https://bb5iqwas4fliv.vcdn.cloud/cayhd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Cagliari - Milan
+https://bb5iqwas4fliv.vcdn.cloud/caysd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Cagliari - Milan
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Cagliari - Milan
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Osasuna - Levante
-https://jq9sucdqmfliv.vcdn.cloud/may91/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Go Ahead Eagles - Cambuur
-https://jq9sucdqmfliv.vcdn.cloud/may10/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Santa Clara - Belenenses SAD
 https://jq9sucdqmfliv.vcdn.cloud/may7/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài FC Twente - PEC Zwolle
 https://jq9sucdqmfliv.vcdn.cloud/may71/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Werder Bremen - Darmstadt
+https://jq9sucdqmfliv.vcdn.cloud/may61/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/7eL8byS.png",SD Cagliari - Milan (Âu men)
+https://jq9sucdqmfliv.vcdn.cloud/123SD/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8529_small.png",HĐ Cagliari - Milan (Âu men)
+https://179910612.global.cdnfastest.com/live/183116676476b44487da6090d3613448beb/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/HiGJYbg.png",FullHD Cagliari - Milan (Âu men)
+https://livestream-2.socialstreaming.tv/live/62362b4aa0e3ea001cb7f988/62362b4aa0e3ea001cb7f988.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Cagliari - Milan (Âu men)
+https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",00h30 20/03: Osasuna - Levante
-https://tuongbongda.000webhostapp.com/play90p.php?id=6234b8e38bb98639dd59c8d9&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/KPnQQv6PNQxcHPlpi4rC-g_96x96.png",00h45 20/03: Go Ahead Eagles - Cambuur
-https://tuongbongda.000webhostapp.com/play90p.php?id=6234bd4028d9a539bbd2ac5e&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/i0cKD3neXF2M09arqLQO5g_96x96.png",01h00 20/03: Santa Clara - Belenenses SAD
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234bad0c6aff63667deb330&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/APPtKtO4wP6dQme5I1MSlA_96x96.png",02h00 20/03: FC Twente - PEC Zwolle
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234bd5b28d9a539bbd2ac5f&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://scontent-xx-sta-vn.90p.tech/7-2019/8f7824c26f3400038d22500554f015e2.png",02h30 20/03: Werder Bremen - Darmstadt
+https://tuongbongda.000webhostapp.com/play90p.php?id=6236324f3679ef42e3971523&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8529_small.png",02h45 20/03: Cagliari - Milan (Âu men)
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234b9dc28d9a539bbd2ac5a&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",03h00 20/03: Nantes - Lille
@@ -73,8 +87,6 @@ https://tuongbongda.000webhostapp.com/playvebotv.php?id=west-ham-united-tottenha
 
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 02:00  Toronto - DC United
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=toronto-vs-dc-united-0200-20-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 02:30  LA Galaxy - Orlando City
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=la-galaxy-vs-orlando-city-0230-20-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 02:45  Cagliari - Milan
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=cagliari-vs-milan-0245-20-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 03:00  Nantes - Lille
