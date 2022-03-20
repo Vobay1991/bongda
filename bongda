@@ -6,16 +6,6 @@
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/4zSXh9p.png", One Bóng đáTV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Monaco - PSG
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Monaco - PSG
-https://bb5iqwas4fliv.vcdn.cloud/luhd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Monaco - PSG
-https://bb5iqwas4fliv.vcdn.cloud/lusd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Monaco - PSG
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Monaco - PSG
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Espanyol - Mallorca
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Juventus - Salernitana
@@ -41,18 +31,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Empoli - Hellas Verona
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Venezia - Sampdoria
-https://jq9sucdqmfliv.vcdn.cloud/may7/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/5VOae7i.png",SD1 Monaco - PSG (Thỏ)
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/MDbZtbY.png",SD2 Monaco - PSG (Thỏ)
-https://jq9sucdqmfliv.vcdn.cloud/may2SD/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/1L5DQ80/IMG-20211223-104019.png",HD Monaco - PSG (Thỏ)
-https://179235864.global.cdnfastest.com/live/1835978343a56044e44ac7f11057e93569a/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/svD-B0kpoDlKfZuiJxMs4Q_96x96.png",FHD Monaco - PSG (Thỏ)
-https://livestream-2.socialstreaming.tv/live/623711d4a0e3ea001cb7fa09/623711d4a0e3ea001cb7fa09.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/svD-B0kpoDlKfZuiJxMs4Q_96x96.png",Nhà Đài Monaco - PSG (Thỏ)
-https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/5VOae7i.png",SD1 Crystal Palace - Everton (Thần Cồn)
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/MDbZtbY.png",SD2 Crystal Palace - Everton (Thần Cồn)
@@ -66,15 +44,9 @@ https://jq9sucdqmfliv.vcdn.cloud/may11/index.m3u8|Referer= https://xoilac.90phut
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Espanyol - Mallorca
 https://jq9sucdqmfliv.vcdn.cloud/may9/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Ajax - Feyenoord
-https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+https://jq9sucdqmfliv.vcdn.cloud/may41/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Empoli - Hellas Verona
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may7/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Lorient - Strasbourg
-https://jq9sucdqmfliv.vcdn.cloud/may91/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Bordeaux - Montpellier
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may10/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Rennes - Metz
-https://jq9sucdqmfliv.vcdn.cloud/may111/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/5VOae7i.png",SD1 Juventus - Salernitana (Mới)
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/MDbZtbY.png",SD2 Juventus - Salernitana (Mới)
@@ -85,11 +57,13 @@ https://179386814.global.cdnfastest.com//live/183945d1d7223f3493d81064fefb100401
 https://livestream.socialstreaming.tv/live/62372fba43d81a001cb383b0/62372fba43d81a001cb383b0.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",Nhà Đài Juventus - Salernitana (Mới)
 https://jq9sucdqmfliv.vcdn.cloud/may7/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Rennes - Metz
+https://jq9sucdqmfliv.vcdn.cloud/may111/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Bordeaux - Montpellier
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may10/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Lorient - Strasbourg
+https://jq9sucdqmfliv.vcdn.cloud/may91/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7881_small.png",18h30 20/03: Venezia - Sampdoria
-https://tuongbongda.000webhostapp.com/play90p.php?id=6234ba023679ef42e397151d&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/svD-B0kpoDlKfZuiJxMs4Q_96x96.png",19h00 20/03: Monaco - PSG (Thỏ)
-https://tuongbongda.000webhostapp.com/play90p.php?id=6234bb898bb98639dd59c8dc&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",19h30 20/03: Crystal Palace - Everton (Thần Cồn)
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234bcd792893b39d1704b76&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",20h00 20/03: Espanyol - Mallorca
@@ -98,19 +72,19 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6234b91a92893b39d1704b71&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234bdb674dd7b31c399b3b6&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",21h00 20/03: Empoli - Hellas Verona
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234ba203679ef42e397151e&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/bbYkAWWtD6lpK5KyGfr1vA_96x96.png",21h00 20/03: Lorient - Strasbourg
-https://tuongbongda.000webhostapp.com/play90p.php?id=6234bbdf28d9a539bbd2ac5c&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8121_small.png",21h00 20/03: Angers - Brest
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234bbc174dd7b31c399b3b5&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9827_small.png",21h00 20/03: Bordeaux - Montpellier
-https://tuongbongda.000webhostapp.com/play90p.php?id=6234bbf928d9a539bbd2ac5d&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",21h00 20/03: Rennes - Metz
-https://tuongbongda.000webhostapp.com/play90p.php?id=6234bba8e0d4672fc68e6f0f&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",21h00 20/03: Juventus - Salernitana (Mới)
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234ba4728d9a539bbd2ac5b&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",21h00 20/03: Rennes - Metz
+https://tuongbongda.000webhostapp.com/play90p.php?id=6234bba8e0d4672fc68e6f0f&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9827_small.png",21h00 20/03: Bordeaux - Montpellier
+https://tuongbongda.000webhostapp.com/play90p.php?id=6234bbf928d9a539bbd2ac5d&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/bbYkAWWtD6lpK5KyGfr1vA_96x96.png",21h00 20/03: Lorient - Strasbourg
+https://tuongbongda.000webhostapp.com/play90p.php?id=6234bbdf28d9a539bbd2ac5c&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",21h30 20/03: Leicester - Brentford (Nện)
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234b831c6aff63667deb32e&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",21h30 20/03: RB Leipzig - Frankfurt
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",21h30 20/03: RB Leipzig - Frankfurt (Cồn)
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234ba8892893b39d1704b72&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",22h00 20/03: Southampton - Man City
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234bd0992893b39d1704b77&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
@@ -124,6 +98,8 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6234bb488bb98639dd59c8db&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234bdfdc6aff63667deb332&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8640_small.png",22h45 20/03: PSV Eindhoven - Fortuna Sittard
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234bde292893b39d1704b78&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",23h05 20/03: Reims - Lyon
+https://tuongbongda.000webhostapp.com/play90p.php?id=6234bc2f3679ef42e397151f&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png", -  Crystal Palace - Everton
@@ -213,8 +189,6 @@ https://tuongbongda.000webhostapp.com/playbongdatv.php?id=west-ham-united-totten
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",19h00 20/03: Monaco - PSG
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6231a3bc0688c5459c870d84&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",20h00 20/03: Espanyol - Mallorca
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6231a3c40688c5459c870d8d&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",21h00 20/03: Juventus - Salernitana
