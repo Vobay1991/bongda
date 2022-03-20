@@ -7,21 +7,17 @@
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Pachuca - Cruz Azul
-https://jq9sucdqmfliv.vcdn.cloud/may61/index.m3u8	|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Nagoya Grampus - Kashiwa Reysol
+https://jq9sucdqmfliv.vcdn.cloud/may9/index.m3u8	|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Suwon FC - Daegu FC
+https://jq9sucdqmfliv.vcdn.cloud/may91/index.m3u8	|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Melbourne City FC (W) - Melbourne Victory (W)
+https://jq9sucdqmfliv.vcdn.cloud/may7/index.m3u8	|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://scontent-xx-sta-vn.90p.tech/7-2021/00e6d284e3760e226dde80f0e46eb0e5.png",08h30 20/03: Salt Lake - Nashville SC
-https://tuongbongda.000webhostapp.com/play90p.php?id=6236769bbaf5f939c69dfa3e&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://scontent-xx-sta-vn.90p.tech/6-2021/e3af950998eb7ccb510a0273ea11a429.png",09h00 20/03: Las Vegas Lights FC - Phoenix Rising FC
-https://tuongbongda.000webhostapp.com/play90p.php?id=623676ca28d9a539bbd2ac66&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/267813_small.png",09h00 20/03: Orange County SC - Rio Grande Valley FC
-https://tuongbongda.000webhostapp.com/play90p.php?id=623676dde0d4672fc68e6f15&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://scontent-xx-sta-vn.90p.tech/6-2021/fbb9d75c3ce46475cd4e99a7b56ed99f.png",09h00 20/03: San Diego Loyal - Sacramento Republic FC
-https://tuongbongda.000webhostapp.com/play90p.php?id=623676f1e0d4672fc68e6f16&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7848_small.png",10h00 20/03: Pachuca - Cruz Azul
-https://tuongbongda.000webhostapp.com/play90p.php?id=623677078bb98639dd59c8e1&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8006_small.png",12h00 20/03: Nagoya Grampus - Kashiwa Reysol
 https://tuongbongda.000webhostapp.com/play90p.php?id=62367775e0d4672fc68e6f17&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://scontent-xx-sta-vn.90p.tech/7-2020/1700dafb12de9cbbb0c4bf29e5abe1ba.png",12h00 20/03: Suwon FC - Daegu FC
+https://tuongbongda.000webhostapp.com/play90p.php?id=6236b6acc6aff63667deb334&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/203576_small.png",12h05 20/03: Melbourne City FC (W) - Melbourne Victory (W)
 https://tuongbongda.000webhostapp.com/play90p.php?id=62367758baf5f939c69dfa3f&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9908_small.png",18h15 20/03: FC Utrecht - FC Groningen
@@ -48,6 +44,12 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6234bba8e0d4672fc68e6f0f&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234bbc174dd7b31c399b3b5&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",21h00 20/03: Empoli - Hellas Verona
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234ba203679ef42e397151e&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/bbYkAWWtD6lpK5KyGfr1vA_96x96.png",21h00 20/03: Lorient - Strasbourg
+https://tuongbongda.000webhostapp.com/play90p.php?id=6234bbdf28d9a539bbd2ac5c&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",21h30 20/03: RB Leipzig - Frankfurt
+https://tuongbongda.000webhostapp.com/play90p.php?id=6234ba8892893b39d1704b72&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",21h30 20/03: Leicester - Brentford
+https://tuongbongda.000webhostapp.com/play90p.php?id=6234b831c6aff63667deb32e&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 {VOPHUTV_PLACEHOLDER}
 
@@ -65,8 +67,6 @@ https://tuongbongda.000webhostapp.com/playvebotv.php?id=west-ham-united-tottenha
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=liverpool-nottingham-forest-kL6Nbgf&.m3u8|Referer=https://vebotv.tv/
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 10:00  Pachuca - Cruz Azul
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=pachuca-vs-cruz-azul-1000-20-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 14:30  Ulsan - Pohang Steelers
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=ulsan-vs-pohang-steelers-1430-20-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 15:05  Western Sydney - Adelaide United
