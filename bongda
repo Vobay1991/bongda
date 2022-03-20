@@ -33,8 +33,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài RB Leipzig - Frankfurt
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Espanyol - Mallorca
-https://jq9sucdqmfliv.vcdn.cloud/may9/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Ajax - Feyenoord
 https://jq9sucdqmfliv.vcdn.cloud/may41/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/7eL8byS.png",SD Leicester - Brentford (Nện)
@@ -81,9 +79,11 @@ https://179910612.global.cdnfastest.com/live/183116676476b44487da6090d3613448beb
 https://livestream-2.socialstreaming.tv/live/62373685693847001c816bf4/62373685693847001c816bf4.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Southampton - Man City (Old)
 https://jq9sucdqmfliv.vcdn.cloud/may10/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Cadiz - Villarreal
+https://jq9sucdqmfliv.vcdn.cloud/may9/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Celta Vigo - Real Betis
+https://jq9sucdqmfliv.vcdn.cloud/may11/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",20h00 20/03: Espanyol - Mallorca
-https://tuongbongda.000webhostapp.com/play90p.php?id=6234b91a92893b39d1704b71&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",20h30 20/03: Ajax - Feyenoord
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234bdb674dd7b31c399b3b6&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",21h00 20/03: Leicester - Brentford (Nện)
@@ -138,7 +138,7 @@ https://tuongbongda.000webhostapp.com/playvebotv.php?id=brentford-leicester-city
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=salernitana-juventus-TQctVgM&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png", -  RB Leipzig - Eintracht Frankfurt
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=rb-leipzig-eintracht-frankfurt-mJopnZt&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",20/03/2022 - 22:00 Southampton - Manchester City
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png", -  Southampton - Manchester City
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=southampton-manchester-city-cxDNt3X&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",20/03/2022 - 23:30 Tottenham - West Ham United
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=west-ham-united-tottenham-x0dLUcD&.m3u8|Referer=https://vebotv.tv/
@@ -146,8 +146,6 @@ https://tuongbongda.000webhostapp.com/playvebotv.php?id=west-ham-united-tottenha
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=liverpool-nottingham-forest-kL6Nbgf&.m3u8|Referer=https://vebotv.tv/
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 20:00  Espanyol - Mallorca
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=espanyol-vs-mallorca-2000-20-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 21:00  Angers SCO - Brest
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=angers-sco-vs-brest-2100-20-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 21:00  Lorient - Strasbourg
@@ -208,7 +206,7 @@ https://tuongbongda.000webhostapp.com/playbongdatv.php?id=brentford-leicester-ci
 https://tuongbongda.000webhostapp.com/playbongdatv.php?id=salernitana-juventus-TQctVgM&.m3u8|Referer=https://banhkhuc.live/
 #EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/36360/image", -  RB Leipzig - Eintracht Frankfurt
 https://tuongbongda.000webhostapp.com/playbongdatv.php?id=rb-leipzig-eintracht-frankfurt-mJopnZt&.m3u8|Referer=https://banhkhuc.live/
-#EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/45/image",20/03/2022 - 22:00 Southampton - Manchester City
+#EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/45/image", -  Southampton - Manchester City
 https://tuongbongda.000webhostapp.com/playbongdatv.php?id=southampton-manchester-city-cxDNt3X&.m3u8|Referer=https://banhkhuc.live/
 #EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/33/image",20/03/2022 - 23:30 Tottenham - West Ham United
 https://tuongbongda.000webhostapp.com/playbongdatv.php?id=west-ham-united-tottenham-x0dLUcD&.m3u8|Referer=https://banhkhuc.live/
