@@ -132,24 +132,22 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=bologna-vs-atalanta-024
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=real-madrid-vs-barcelona-0300-21-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Ngày mai - 03:00  Portimonense - Sporting Braga
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=portimonense-vs-sporting-braga-0300-21-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Ngày mai - 10:00  Mazatlán - León
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=mazatlan-vs-leon-1000-21-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Ngày mai - 10:06  Tijuana - Juárez
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=tijuana-vs-juarez-1006-21-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
 
 
+#EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/1653/image", -  AS Monaco - Paris Saint-Germain
+https://tuongbongda.000webhostapp.com/playbongdatv.php?id=as-monaco-paris-saint-germain-6qrk35J&.m3u8|Referer=https://banhkhuc.live/
 #EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/7/image",20/03/2022 - 19:30 Crystal Palace - Everton
 https://tuongbongda.000webhostapp.com/playbongdatv.php?id=crystal-palace-everton-b3oySlM&.m3u8|Referer=https://banhkhuc.live/
 #EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/31/image",20/03/2022 - 21:00 Leicester City - Brentford
 https://tuongbongda.000webhostapp.com/playbongdatv.php?id=brentford-leicester-city-2wUxuIR&.m3u8|Referer=https://banhkhuc.live/
-#EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/36360/image",20/03/2022 - 21:30 RB Leipzig - Eintracht Frankfurt
-https://tuongbongda.000webhostapp.com/playbongdatv.php?id=rb-leipzig-eintracht-frankfurt-mJopnZt&.m3u8|Referer=https://banhkhuc.live/
 #EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/45/image",20/03/2022 - 22:00 Southampton - Manchester City
 https://tuongbongda.000webhostapp.com/playbongdatv.php?id=southampton-manchester-city-cxDNt3X&.m3u8|Referer=https://banhkhuc.live/
 #EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/33/image",20/03/2022 - 23:30 Tottenham - West Ham United
 https://tuongbongda.000webhostapp.com/playbongdatv.php?id=west-ham-united-tottenham-x0dLUcD&.m3u8|Referer=https://banhkhuc.live/
-#EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2833/image",21/03/2022 - 00:30 Sevilla - Real Sociedad
-https://tuongbongda.000webhostapp.com/playbongdatv.php?id=sevilla-real-sociedad-evJC6gj&.m3u8|Referer=https://banhkhuc.live/
+#EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/14/image",21/03/2022 - 01:00 Nottingham Forest - Liverpool
+https://tuongbongda.000webhostapp.com/playbongdatv.php?id=liverpool-nottingham-forest-kL6Nbgf&.m3u8|Referer=https://banhkhuc.live/
 
 
 
