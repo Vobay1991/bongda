@@ -12,6 +12,16 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Bologna - Atalanta
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Real Madrid - Barcelona
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Real Madrid - Barcelona
+https://bb5iqwas4fliv.vcdn.cloud/paohd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Real Madrid - Barcelona
+https://bb5iqwas4fliv.vcdn.cloud/paosd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Real Madrid - Barcelona
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Real Madrid - Barcelona
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Benfica - Estoril
 https://jq9sucdqmfliv.vcdn.cloud/may10/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
@@ -94,10 +104,10 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=623783a9e0d4672fc68e6f1d&.m
 
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png", -  SL Benfica - Estoril Praia
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=estoril-praia-sl-benfica-RBh66Fg&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png", -  Nottingham Forest - Liverpool
-https://tuongbongda.000webhostapp.com/playvebotv.php?id=liverpool-nottingham-forest-kL6Nbgf&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png", -  1. FC Köln - Borussia Dortmund
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=borussia-dortmund-1-fc-koln-xz4k43l&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png", -  Willem II Tilburg - AZ Alkmaar
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=willem-ii-tilburg-az-alkmaar-XTrd4oB&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png", -  Olympique de Marseille - OGC Nice
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=ogc-nice-olympique-de-marseille-heZvvhr&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png", -  Bologna - Atalanta
@@ -106,8 +116,6 @@ https://tuongbongda.000webhostapp.com/playvebotv.php?id=atalanta-bologna-iiO5w4t
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=real-madrid-barcelona-M7nlFkC&.m3u8|Referer=https://vebotv.tv/
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 01:00  Nottingham - Liverpool
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=nottingham-vs-liverpool-0100-21-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 01:30  FC Koln - B. Dortmund
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=fc-koln-vs-b-dortmund-0130-21-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 02:45  Bologna - Atalanta
