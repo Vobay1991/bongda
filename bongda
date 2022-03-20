@@ -6,16 +6,6 @@
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/4zSXh9p.png", One Bóng đáTV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Tottenham - West Ham
-https://bb5iqwas4fliv.vcdn.cloud/m301nd/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Tottenham - West Ham
-https://bb5iqwas4fliv.vcdn.cloud/paohd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Tottenham - West Ham
-https://bb5iqwas4fliv.vcdn.cloud/paosd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Tottenham - West Ham
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Tottenham - West Ham
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Wolfsburg - Leverkusen
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Roma - Lazio
@@ -30,21 +20,9 @@ https://bb5iqwas4fliv.vcdn.cloud/lechsd2/index.m3u8|Referer=https://xem.rakhoi1.
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Sevilla - Real Sociedad
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechsd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Köln - Dortmund
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Reims - Lyon
-https://jq9sucdqmfliv.vcdn.cloud/may61/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/5VOae7i.png",SD1 Tottenham - West Ham (Thỏ)
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/MDbZtbY.png",SD2 Tottenham - West Ham (Thỏ)
-https://jq9sucdqmfliv.vcdn.cloud/may1SD/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/1L5DQ80/IMG-20211223-104019.png",HD Tottenham - West Ham (Thỏ)
-https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",FHD Tottenham - West Ham (Thỏ)
-https://livestream.socialstreaming.tv/live/623763ded85997001ce983d3/623763ded85997001ce983d3.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",Nhà Đài Tottenham - West Ham (Thỏ)
-https://jq9sucdqmfliv.vcdn.cloud/may8/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Wolfsburg - Leverkusen
-https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/7eL8byS.png",SD Roma - Lazio (Người Nện)
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@nenSD/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/1L5DQ80/IMG-20211223-104019.png",HD Roma - Lazio (Người Nện)
@@ -84,12 +62,6 @@ https://livestream-2.socialstreaming.tv/live/62376ce3795ec5001c1f8535/62376ce379
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/W94hx-q1SdXOZBrW6RSSVg_96x96.png",Nhà Đài Köln - Dortmund (Âu men)
 https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",23h05 20/03: Reims - Lyon
-https://tuongbongda.000webhostapp.com/play90p.php?id=6234bc2f3679ef42e397151f&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",23h30 20/03: Tottenham - West Ham (Thỏ)
-https://tuongbongda.000webhostapp.com/play90p.php?id=6234b8c092893b39d1704b70&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",23h30 20/03: Wolfsburg - Leverkusen
-https://tuongbongda.000webhostapp.com/play90p.php?id=6234bab0e0d4672fc68e6f0e&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",00h00 21/03: Roma - Lazio (Người Nện)
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234be9be0d4672fc68e6f11&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",00h30 21/03: Sevilla - Sociedad (Thần Cồn)
@@ -124,8 +96,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6237172ac6aff63667deb335&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=6234bfce3679ef42e3971522&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png", -  Tottenham - West Ham United
-https://tuongbongda.000webhostapp.com/playvebotv.php?id=west-ham-united-tottenham-x0dLUcD&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png", -  Roma - Lazio
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=roma-lazio-x7Wtz78&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png", -  Sevilla - Real Sociedad
@@ -134,14 +104,12 @@ https://tuongbongda.000webhostapp.com/playvebotv.php?id=sevilla-real-sociedad-ev
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=liverpool-nottingham-forest-kL6Nbgf&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",21/03/2022 - 01:30 1. FC Köln - Borussia Dortmund
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=borussia-dortmund-1-fc-koln-xz4k43l&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",21/03/2022 - 02:45 Bologna - Atalanta
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=atalanta-bologna-iiO5w4t&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",21/03/2022 - 03:00 Real Madrid - Barcelona
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=real-madrid-barcelona-M7nlFkC&.m3u8|Referer=https://vebotv.tv/
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",20/03/2022 - 23:30  Tottenham - West Ham Utd
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=tottenham-vs-west-ham-utd-2330-20-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",20/03/2022 - 23:30  Wolfsburg - B. Leverkusen
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=wolfsburg-vs-b-leverkusen-2330-20-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 00:00  Roma - Lazio
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=roma-vs-lazio-0000-21-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 00:30  Sevilla - Real Sociedad
@@ -176,8 +144,6 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=pumas-tabasco-vs-cimarr
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=dorados-vs-celaya-1005-23-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
 
 
-#EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/33/image", -  Tottenham - West Ham United
-https://tuongbongda.000webhostapp.com/playbongdatv.php?id=west-ham-united-tottenham-x0dLUcD&.m3u8|Referer=https://banhkhuc.live/
 #EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2702/image", -  Roma - Lazio
 https://tuongbongda.000webhostapp.com/playbongdatv.php?id=roma-lazio-x7Wtz78&.m3u8|Referer=https://banhkhuc.live/
 #EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2833/image", -  Sevilla - Real Sociedad
@@ -186,13 +152,13 @@ https://tuongbongda.000webhostapp.com/playbongdatv.php?id=sevilla-real-sociedad-
 https://tuongbongda.000webhostapp.com/playbongdatv.php?id=liverpool-nottingham-forest-kL6Nbgf&.m3u8|Referer=https://banhkhuc.live/
 #EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2671/image",21/03/2022 - 01:30 1. FC Köln - Borussia Dortmund
 https://tuongbongda.000webhostapp.com/playbongdatv.php?id=borussia-dortmund-1-fc-koln-xz4k43l&.m3u8|Referer=https://banhkhuc.live/
+#EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2685/image",21/03/2022 - 02:45 Bologna - Atalanta
+https://tuongbongda.000webhostapp.com/playbongdatv.php?id=atalanta-bologna-iiO5w4t&.m3u8|Referer=https://banhkhuc.live/
 #EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2829/image",21/03/2022 - 03:00 Real Madrid - Barcelona
 https://tuongbongda.000webhostapp.com/playbongdatv.php?id=real-madrid-barcelona-M7nlFkC&.m3u8|Referer=https://banhkhuc.live/
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",23h30 20/03: Tottenham - West Ham
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6231a4010688c5459c870dcc&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",23h30 20/03: Wolfsburg - Leverkusen
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6231a4030688c5459c870dcf&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",00h00 21/03: Roma - Lazio
