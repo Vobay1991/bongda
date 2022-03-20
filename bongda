@@ -84,7 +84,7 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6234b980c6aff63667deb32f&.m
 
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png", -  AS Monaco - Paris Saint-Germain
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=as-monaco-paris-saint-germain-6qrk35J&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",20/03/2022 - 19:30 Crystal Palace - Everton
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png", -  Crystal Palace - Everton
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=crystal-palace-everton-b3oySlM&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",20/03/2022 - 21:00 Leicester City - Brentford
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=brentford-leicester-city-2wUxuIR&.m3u8|Referer=https://vebotv.tv/
@@ -96,8 +96,6 @@ https://tuongbongda.000webhostapp.com/playvebotv.php?id=rb-leipzig-eintracht-fra
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=southampton-manchester-city-cxDNt3X&.m3u8|Referer=https://vebotv.tv/
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 17:30  Antalyaspor - Giresunspor
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=antalyaspor-vs-giresunspor-1730-20-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 18:00  Ufa - Krasnodar
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=ufa-vs-krasnodar-1800-20-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 18:30  Venezia - Sampdoria
@@ -164,7 +162,7 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=dorados-vs-celaya-1005-
 
 #EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/1653/image", -  AS Monaco - Paris Saint-Germain
 https://tuongbongda.000webhostapp.com/playbongdatv.php?id=as-monaco-paris-saint-germain-6qrk35J&.m3u8|Referer=https://banhkhuc.live/
-#EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/7/image",20/03/2022 - 19:30 Crystal Palace - Everton
+#EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/7/image", -  Crystal Palace - Everton
 https://tuongbongda.000webhostapp.com/playbongdatv.php?id=crystal-palace-everton-b3oySlM&.m3u8|Referer=https://banhkhuc.live/
 #EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/31/image",20/03/2022 - 21:00 Leicester City - Brentford
 https://tuongbongda.000webhostapp.com/playbongdatv.php?id=brentford-leicester-city-2wUxuIR&.m3u8|Referer=https://banhkhuc.live/
