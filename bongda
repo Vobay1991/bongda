@@ -6,18 +6,12 @@
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/4zSXh9p.png", One Bóng đáTV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Sevilla - Real Sociedad
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Sevilla - Real Sociedad
-https://bb5iqwas4fliv.vcdn.cloud/lechhd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Sevilla - Real Sociedad
-https://bb5iqwas4fliv.vcdn.cloud/lechsd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Sevilla - Real Sociedad
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Sevilla - Real Sociedad
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechsd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Köln - Dortmund
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Marseille - Nice
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Bologna - Atalanta
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Benfica - Estoril
 https://jq9sucdqmfliv.vcdn.cloud/may10/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
@@ -135,8 +129,6 @@ https://tuongbongda.000webhostapp.com/playbongdatv.php?id=real-madrid-barcelona-
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",00h30 21/03: Sevilla - Real Sociedad
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=62337cef02ab8d3a96c4d4a3&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",01h30 21/03: Köln - Dortmund
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=62337cf402ab8d3a96c4d4ab&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",02h45 21/03: Marseille - Nice
