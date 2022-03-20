@@ -6,46 +6,8 @@
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/4zSXh9p.png", One Bóng đáTV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Marseille - Nice
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Bologna - Atalanta
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Real Madrid - Barcelona
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Real Madrid - Barcelona
-https://bb5iqwas4fliv.vcdn.cloud/paohd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Real Madrid - Barcelona
-https://bb5iqwas4fliv.vcdn.cloud/paosd2/index.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Real Madrid - Barcelona
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Real Madrid - Barcelona
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Bologna - Atalanta
-https://jq9sucdqmfliv.vcdn.cloud/may7/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Marseille - Nice
-https://jq9sucdqmfliv.vcdn.cloud/may5/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/5VOae7i.png",SD1 Real Madrid - Barcelona (Thỏ + Liu)
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/MDbZtbY.png",SD2 Real Madrid - Barcelona (Thỏ + Liu)
-https://jq9sucdqmfliv.vcdn.cloud/may1SD/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/1L5DQ80/IMG-20211223-104019.png",HD Real Madrid - Barcelona (Thỏ + Liu)
-https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",FHD Real Madrid - Barcelona (Thỏ + Liu)
-https://livestream.socialstreaming.tv/live/62377c20795ec5001c1f8539/62377c20795ec5001c1f8539.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",Nhà Đài Real Madrid - Barcelona (Thỏ + Liu)
-https://jq9sucdqmfliv.vcdn.cloud/may9/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Portimonense - Braga
-https://jq9sucdqmfliv.vcdn.cloud/may101/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",02h45 21/03: Bologna - Atalanta
-https://tuongbongda.000webhostapp.com/play90p.php?id=6234beba92893b39d1704b79&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",02h45 21/03: Marseille - Nice
-https://tuongbongda.000webhostapp.com/play90p.php?id=6234bf3228d9a539bbd2ac62&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",03h00 21/03: Real Madrid - Barcelona (Thỏ + Liu)
-https://tuongbongda.000webhostapp.com/play90p.php?id=6234be7e3679ef42e3971521&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9765_small.png",03h00 21/03: Portimonense - Braga
-https://tuongbongda.000webhostapp.com/play90p.php?id=6234bf1628d9a539bbd2ac61&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://scontent-xx-sta-vn.90p.tech/7-2021/f5d5d81c514ec6b8c15a831d8bfb204d.png",06h00 21/03: América - Toluca
 https://tuongbongda.000webhostapp.com/play90p.php?id=623716d128d9a539bbd2ac68&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1170234_small.png",06h00 21/03: Mazatlan FC - León
@@ -70,24 +32,20 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6237835c28d9a539bbd2ac6a&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=623783a9e0d4672fc68e6f1d&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png", -  Olympique de Marseille - OGC Nice
-https://tuongbongda.000webhostapp.com/playvebotv.php?id=ogc-nice-olympique-de-marseille-heZvvhr&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png", -  Bologna - Atalanta
-https://tuongbongda.000webhostapp.com/playvebotv.php?id=atalanta-bologna-iiO5w4t&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png", -  Real Madrid - Barcelona
-https://tuongbongda.000webhostapp.com/playvebotv.php?id=real-madrid-barcelona-M7nlFkC&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png", -  Portimonense - Sporting Braga
-https://tuongbongda.000webhostapp.com/playvebotv.php?id=portimonense-sporting-braga-c72Cjr3&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png", -  Boavista - FC Porto
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=fc-porto-boavista-Xb7C3cF&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",21/03/2022 - 06:30 Everton de Viña del Mar - Audax Italiano
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=everton-de-vina-del-mar-audax-italiano-SL5bKOL&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",21/03/2022 - 09:00 Los Angeles FC - Vancouver Whitecaps
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=los-angeles-fc-vancouver-whitecaps-SDxcBH7&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",21/03/2022 - 21:00 Papua New Guinea - New Caledonia
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=new-caledonia-papua-new-guinea-lf5OipG&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",22/03/2022 - 00:00 New Zealand - Fiji
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=fiji-new-zealand-ZldSp3V&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",22/03/2022 - 04:00 CD Antofagasta - Unión La Calera
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=cd-antofagasta-union-la-calera-VVp9SYc&.m3u8|Referer=https://vebotv.tv/
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 03:00  Real Madrid - Barcelona
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=real-madrid-vs-barcelona-0300-21-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 03:00  Portimonense - Sporting Braga
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=portimonense-vs-sporting-braga-0300-21-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 10:06  Tijuana - Juárez
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=tijuana-vs-juarez-1006-21-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Hôm nay - 16:00  Persija - PSM
@@ -106,27 +64,21 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=pumas-tabasco-vs-cimarr
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=dorados-vs-celaya-1005-23-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
 
 
-#EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/1641/image", -  Olympique de Marseille - OGC Nice
-https://tuongbongda.000webhostapp.com/playbongdatv.php?id=ogc-nice-olympique-de-marseille-heZvvhr&.m3u8|Referer=https://banhkhuc.live/
-#EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2685/image", -  Bologna - Atalanta
-https://tuongbongda.000webhostapp.com/playbongdatv.php?id=atalanta-bologna-iiO5w4t&.m3u8|Referer=https://banhkhuc.live/
-#EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2829/image", -  Real Madrid - Barcelona
-https://tuongbongda.000webhostapp.com/playbongdatv.php?id=real-madrid-barcelona-M7nlFkC&.m3u8|Referer=https://banhkhuc.live/
-#EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/3026/image", -  Portimonense - Sporting Braga
-https://tuongbongda.000webhostapp.com/playbongdatv.php?id=portimonense-sporting-braga-c72Cjr3&.m3u8|Referer=https://banhkhuc.live/
 #EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2995/image", -  Boavista - FC Porto
 https://tuongbongda.000webhostapp.com/playbongdatv.php?id=fc-porto-boavista-Xb7C3cF&.m3u8|Referer=https://banhkhuc.live/
+#EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/5032/image",21/03/2022 - 06:30 Everton de Viña del Mar - Audax Italiano
+https://tuongbongda.000webhostapp.com/playbongdatv.php?id=everton-de-vina-del-mar-audax-italiano-SL5bKOL&.m3u8|Referer=https://banhkhuc.live/
+#EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/274650/image",21/03/2022 - 09:00 Los Angeles FC - Vancouver Whitecaps
+https://tuongbongda.000webhostapp.com/playbongdatv.php?id=los-angeles-fc-vancouver-whitecaps-SDxcBH7&.m3u8|Referer=https://banhkhuc.live/
 #EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/23495/image",21/03/2022 - 21:00 Papua New Guinea - New Caledonia
 https://tuongbongda.000webhostapp.com/playbongdatv.php?id=new-caledonia-papua-new-guinea-lf5OipG&.m3u8|Referer=https://banhkhuc.live/
+#EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4784/image",22/03/2022 - 00:00 New Zealand - Fiji
+https://tuongbongda.000webhostapp.com/playbongdatv.php?id=fiji-new-zealand-ZldSp3V&.m3u8|Referer=https://banhkhuc.live/
+#EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/5601/image",22/03/2022 - 04:00 CD Antofagasta - Unión La Calera
+https://tuongbongda.000webhostapp.com/playbongdatv.php?id=cd-antofagasta-union-la-calera-VVp9SYc&.m3u8|Referer=https://banhkhuc.live/
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",02h45 21/03: Marseille - Nice
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=62337cf702ab8d3a96c4d4af&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",02h45 21/03: Bologna - Atalanta
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=62337cfa02ab8d3a96c4d4b4&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",03h00 21/03: Real Madrid - Barcelona
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=62337cfc02ab8d3a96c4d4b9&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",16h10 24/03: Australia - Japan
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=623695e202ab8d3a96c4de97&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",18h00 24/03: South Korea - Iran
