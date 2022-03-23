@@ -7,7 +7,29 @@
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Tapatio - Alebrijes
+https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8	|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Pumas Tabasco - Cimarrones
+https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8	|Referer= https://xoilac.90phutttttttt.xyz/
 
+#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162404_small.png",06h00 23/03: Tapatio - Alebrijes
+https://tuongbongda.000webhostapp.com/play90p.php?id=6239ec8174dd7b31c399b3be&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1175653_small.png",08h05 23/03: Pumas Tabasco - Cimarrones
+https://tuongbongda.000webhostapp.com/play90p.php?id=6239ec9f8bb98639dd59c8e3&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://scontent-xx-sta-vn.90p.tech/8-2020/33a01f7f9c1e1d91120a72e11123bdaa.png",10h05 23/03: Dorados - Celaya
+https://tuongbongda.000webhostapp.com/play90p.php?id=6239ecb228d9a539bbd2ac6c&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/by4OltvtZz7taxuQtkiP3A_96x96.png",19h00 23/03: U23 Nhật Bản - U23 Croatia
+https://tuongbongda.000webhostapp.com/play90p.php?id=623a65c6c6aff63667deb336&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/v_vORXEGt13cTEb-zw7yWA_96x96.png",19h00 23/03: U23 UAE - U23 Trung Quốc
+https://tuongbongda.000webhostapp.com/play90p.php?id=623a65e374dd7b31c399b3bf&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/QoAJxO46fHid3_T-7nRZ0Q_96x96.png",19h00 23/03: U23 Saudi Arabia - U23 Uzbekistan
+https://tuongbongda.000webhostapp.com/play90p.php?id=623a65fb92893b39d1704b80&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/aEBU_ri8U6F06oTqWmKY5g_96x96.png",23h00 23/03: U23 Thái Lan - U23 Qatar
+https://tuongbongda.000webhostapp.com/play90p.php?id=623a6618e0d4672fc68e6f1e&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/IUYV_ZAMxDdabQPzSpTJtg_96x96.png",23h00 23/03: U23 Việt Nam - U23 Iraq
+https://tuongbongda.000webhostapp.com/play90p.php?id=623a66383679ef42e397152b&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/2Um-MqOV3Z_IuTtGfoeTIg_96x96.png",00h00 24/03: Gibraltar - Grenada
+https://tuongbongda.000webhostapp.com/play90p.php?id=623a678abaf5f939c69dfa40&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_96x96.png",16h10 24/03: Australia - Japan
 https://tuongbongda.000webhostapp.com/play90p.php?id=623782b028d9a539bbd2ac69&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Uu5pwNmMHGd5bCooKrS3Lw_96x96.png",18h00 24/03: South Korea - Iran
@@ -18,31 +40,33 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6237833c3679ef42e397152a&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=6237835c28d9a539bbd2ac6a&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/8Cr5Gw-79PpIX2rIEZ7Pvg_96x96.png",22h00 24/03: China - Saudi Arabia
 https://tuongbongda.000webhostapp.com/play90p.php?id=623783a9e0d4672fc68e6f1d&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/oVYdBtXnJXYVX_OM4U75Ww_96x96.png",23h00 24/03: Armenia - Montenegro
+https://tuongbongda.000webhostapp.com/play90p.php?id=623a67d128d9a539bbd2ac6e&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",24/03/2022 - 16:10 Australia - Japan
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=japan-australia-3btVbDS&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",24/03/2022 - 18:00 South Korea - Iran
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=iran-south-korea-X5J5Rwf&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",24/03/2022 - 19:00 Lebanon - Syria
-https://tuongbongda.000webhostapp.com/playvebotv.php?id=lebanon-syria-1uFqPCI&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",24/03/2022 - 19:00 Việt Nam - Oman
-https://tuongbongda.000webhostapp.com/playvebotv.php?id=vietnam-oman-ZFVREV5&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",24/03/2022 - 21:00 Vanuatu - Cook Islands
-https://tuongbongda.000webhostapp.com/playvebotv.php?id=vanuatu-cook-islands-xYyQidc&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",24/03/2022 - 22:00 China - Saudi Arabia
-https://tuongbongda.000webhostapp.com/playvebotv.php?id=saudi-arabia-china-fkVuIes&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",25/03/2022 - 06:30 Brazil - Chile
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=chile-brazil-9NcBiHY&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",25/03/2022 - 06:30 Paraguay - Ecuador
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=paraguay-ecuador-QX0TCXF&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",25/03/2022 - 06:30 Uruguay - Peru
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=peru-uruguay-TArZQ4e&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",25/03/2022 - 06:30 Colombia - Bolivia
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=colombia-bolivia-lu6u6AJ&.m3u8|Referer=https://vebotv.tv/
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",24/03/2022 - 16:10  Australia - Nhật Bản
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Ngày mai - 16:10  Australia - Nhật Bản
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=australia-vs-nhat-ban-1610-24-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",24/03/2022 - 18:00  Hàn Quốc - IR Iran
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Ngày mai - 18:00  Hàn Quốc - IR Iran
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=han-quoc-vs-ir-iran-1800-24-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",24/03/2022 - 19:00  Lebanon - Syria
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Ngày mai - 19:00  Lebanon - Syria
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=lebanon-vs-syria-1900-24-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",24/03/2022 - 19:00  Việt Nam - Oman
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Ngày mai - 19:00  Việt Nam - Oman
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=viet-nam-vs-oman-1900-24-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",24/03/2022 - 22:00  Trung Quốc - Ả Rập Xê Út
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",Ngày mai - 22:00  Trung Quốc - Ả Rập Xê Út
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=trung-quoc-vs-a-rap-xe-ut-2200-24-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/klBRD92.png",25/03/2022 - 00:00  Iraq - UAE
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=iraq-vs-uae-0000-25-03&.m3u8|Referer=https://playmt.fastlycdn.xyz
@@ -88,19 +112,21 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=argentina-vs-venezuela-
 https://tuongbongda.000webhostapp.com/playbongdatv.php?id=japan-australia-3btVbDS&.m3u8|Referer=https://banhkhuc.live/
 #EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4735/image",24/03/2022 - 18:00 South Korea - Iran
 https://tuongbongda.000webhostapp.com/playbongdatv.php?id=iran-south-korea-X5J5Rwf&.m3u8|Referer=https://banhkhuc.live/
-#EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4774/image",24/03/2022 - 19:00 Lebanon - Syria
-https://tuongbongda.000webhostapp.com/playbongdatv.php?id=lebanon-syria-1uFqPCI&.m3u8|Referer=https://banhkhuc.live/
-#EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/7050/image",24/03/2022 - 19:00 Việt Nam - Oman
-https://tuongbongda.000webhostapp.com/playbongdatv.php?id=vietnam-oman-ZFVREV5&.m3u8|Referer=https://banhkhuc.live/
-#EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/8046/image",24/03/2022 - 21:00 Vanuatu - Cook Islands
-https://tuongbongda.000webhostapp.com/playbongdatv.php?id=vanuatu-cook-islands-xYyQidc&.m3u8|Referer=https://banhkhuc.live/
-#EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4755/image",24/03/2022 - 22:00 China - Saudi Arabia
-https://tuongbongda.000webhostapp.com/playbongdatv.php?id=saudi-arabia-china-fkVuIes&.m3u8|Referer=https://banhkhuc.live/
+#EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4748/image",25/03/2022 - 06:30 Brazil - Chile
+https://tuongbongda.000webhostapp.com/playbongdatv.php?id=chile-brazil-9NcBiHY&.m3u8|Referer=https://banhkhuc.live/
+#EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4789/image",25/03/2022 - 06:30 Paraguay - Ecuador
+https://tuongbongda.000webhostapp.com/playbongdatv.php?id=paraguay-ecuador-QX0TCXF&.m3u8|Referer=https://banhkhuc.live/
+#EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4725/image",25/03/2022 - 06:30 Uruguay - Peru
+https://tuongbongda.000webhostapp.com/playbongdatv.php?id=peru-uruguay-TArZQ4e&.m3u8|Referer=https://banhkhuc.live/
+#EXTINF:-1 group-title="vophuTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4820/image",25/03/2022 - 06:30 Colombia - Bolivia
+https://tuongbongda.000webhostapp.com/playbongdatv.php?id=colombia-bolivia-lu6u6AJ&.m3u8|Referer=https://banhkhuc.live/
 
 
 
 
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",20h30 23/03: CR Belouizdad - MC Alger
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6239f129fa2b83159cacf980&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",16h10 24/03: Australia - Japan
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=623695e202ab8d3a96c4de97&.m3u8|Referer=https://xem.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",18h00 24/03: South Korea - Iran
