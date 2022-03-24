@@ -131,6 +131,8 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=honduras-vs-mexico-0605
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_174.png",Iraq - United Arab Emirates
+https://tuongbongda.000webhostapp.com/playxembd.php?id=iraq-vs-united-arab-emirates-luc-00h00-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_179.png",China - Saudi Arabia
 https://tuongbongda.000webhostapp.com/playxembd.php?id=china-vs-saudi-arabia-luc-22h00-ngay-24-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_198.png",Armenia - Montenegro
@@ -138,8 +140,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=armenia-vs-montenegro-luc
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1840.png",25/03 - 00:00 New Zealand - New Caledonia
 https://tuongbongda.000webhostapp.com/playxembd.php?id=new-zealand-vs-new-caledonia-luc-00h00-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_174.png",25/03 - 00:00 Iraq - United Arab Emirates
-https://tuongbongda.000webhostapp.com/playxembd.php?id=iraq-vs-united-arab-emirates-luc-00h00-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_239.png",25/03 - 02:45 Wales - Austria
 https://tuongbongda.000webhostapp.com/playxembd.php?id=wales-vs-austria-luc-02h45-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_214.png",25/03 - 02:45 Italy - FYR Macedonia
@@ -160,12 +160,10 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=liechtenstein-vs-cape-ver
 https://tuongbongda.000webhostapp.com/playxembd.php?id=cameroon-vs-algeria-luc-00h00-ngay-26-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1290.png",26/03 - 00:00 Mali - Tunisia
 https://tuongbongda.000webhostapp.com/playxembd.php?id=mali-vs-tunisia-luc-00h00-ngay-26-03-2022&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1282.png",26/03 - 02:30 Ghana - Nigeria
-https://tuongbongda.000webhostapp.com/playxembd.php?id=ghana-vs-nigeria-luc-02h30-ngay-26-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_112.png",26/03 - 02:30 Egypt - Senegal
 https://tuongbongda.000webhostapp.com/playxembd.php?id=egypt-vs-senegal-luc-02h30-ngay-26-03-2022&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_229.png",26/03 - 02:45 Bosnia &amp; Herzegovina - Georgia
-https://tuongbongda.000webhostapp.com/playxembd.php?id=bosnia-herzegovina-vs-georgia-luc-00h00-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1282.png",26/03 - 02:30 Ghana - Nigeria
+https://tuongbongda.000webhostapp.com/playxembd.php?id=ghana-vs-nigeria-luc-02h30-ngay-26-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_259.png",26/03 - 06:30 Argentina - Venezuela
 https://tuongbongda.000webhostapp.com/playxembd.php?id=argentina-vs-venezuela-luc-06h30-ngay-26-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_179.png",26/03 - 19:00 China - Thailand
@@ -176,6 +174,10 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=iraq-vs-saudi-arabia&.m3u
 https://tuongbongda.000webhostapp.com/playxembd.php?id=gibraltar-vs-faroe-islands-luc-00h00-ngay-27-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_226.png",27/03 - 00:30 England - Switzerland
 https://tuongbongda.000webhostapp.com/playxembd.php?id=england-vs-switzerland-luc-00h30-ngay-27-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_190.png",28/03 - 06:00 USA - Panama
+https://tuongbongda.000webhostapp.com/playxembd.php?id=usa-vs-panama-luc-06h00-ngay-28-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_188.png",28/03 - 06:05 Honduras - Mexico
+https://tuongbongda.000webhostapp.com/playxembd.php?id=honduras-vs-mexico-luc-06h05-ngay-28-03-2022&.m3u8|Referer=https://xembd.live/
 
 
 
