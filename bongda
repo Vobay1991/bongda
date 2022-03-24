@@ -16,8 +16,6 @@ https://bb5iqwas4fliv.vcdn.cloud/caysd2/index.m3u8|Referer=https://live.rakhoi1.
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Iraq - UAE
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Fiji - Papua New Guinea
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài New Zealand - New Caledonia
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 
@@ -86,8 +84,6 @@ https://tuongbongda.000webhostapp.com/playvebotv.php?id=colombia-bolivia-lu6u6AJ
 
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 00:00  Iraq - UAE
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=iraq-vs-uae-0000-25-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 00:00  Moldova - Kazakhstan
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=moldova-vs-kazakhstan-0000-25-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 00:00  Estonia - Cyprus
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=estonia-vs-cyprus-0000-25-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 02:45  Xứ Wales - Áo
@@ -139,12 +135,6 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=honduras-vs-mexico-0605
 https://tuongbongda.000webhostapp.com/playxembd.php?id=iraq-vs-united-arab-emirates-luc-00h00-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_227.png",Hungary - Serbia
 https://tuongbongda.000webhostapp.com/playxembd.php?id=hungary-vs-serbia-luc-01h30-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1840.png",New Zealand - New Caledonia
-https://tuongbongda.000webhostapp.com/playxembd.php?id=new-zealand-vs-new-caledonia-luc-00h00-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1844.png",Fiji - Papua New Guinea
-https://tuongbongda.000webhostapp.com/playxembd.php?id=fiji-vs-papua-new-guinea-luc-00h00-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_247.png",Kosovo - Burkina Faso
-https://tuongbongda.000webhostapp.com/playxembd.php?id=kosovo-vs-burkina-faso-luc-00h00-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_239.png",25/03 - 02:45 Wales - Austria
 https://tuongbongda.000webhostapp.com/playxembd.php?id=wales-vs-austria-luc-02h45-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
@@ -168,10 +158,10 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=liechtenstein-vs-cape-ver
 https://tuongbongda.000webhostapp.com/playxembd.php?id=cameroon-vs-algeria-luc-00h00-ngay-26-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1290.png",26/03 - 00:00 Mali - Tunisia
 https://tuongbongda.000webhostapp.com/playxembd.php?id=mali-vs-tunisia-luc-00h00-ngay-26-03-2022&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_112.png",26/03 - 02:30 Egypt - Senegal
-https://tuongbongda.000webhostapp.com/playxembd.php?id=egypt-vs-senegal-luc-02h30-ngay-26-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1282.png",26/03 - 02:30 Ghana - Nigeria
 https://tuongbongda.000webhostapp.com/playxembd.php?id=ghana-vs-nigeria-luc-02h30-ngay-26-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_112.png",26/03 - 02:30 Egypt - Senegal
+https://tuongbongda.000webhostapp.com/playxembd.php?id=egypt-vs-senegal-luc-02h30-ngay-26-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_259.png",26/03 - 06:30 Argentina - Venezuela
 https://tuongbongda.000webhostapp.com/playxembd.php?id=argentina-vs-venezuela-luc-06h30-ngay-26-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_179.png",26/03 - 19:00 China - Thailand
@@ -192,8 +182,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=honduras-vs-mexico-luc-06
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",00h00 25/03: Iraq - UAE
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=62392fbffa2b83159cacf6e2&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",00h00 25/03: Fiji - Papua New Guinea
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=62392fc3fa2b83159cacf6e6&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",00h00 25/03: New Zealand - New Caledonia
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=62392fccfa2b83159cacf6ea&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",02h45 25/03: Portugal - Turkey
