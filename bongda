@@ -153,6 +153,8 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=honduras-vs-mexico-0605
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live/https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/2560px-Flag_of_Vietnam.svg.png",Vietnam - Oman
 https://tuongbongda.000webhostapp.com/playxembd.php?id=vietnam-vs-oman-luc-19h00-ngay-24-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1380.png",PS TIRA - Arema FC
+https://tuongbongda.000webhostapp.com/playxembd.php?id=ps-tira-vs-arema-fc-luc-20h30-ngay-24-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_175.png",Lebanon - Syria
 https://tuongbongda.000webhostapp.com/playxembd.php?id=lebanon-vs-syria-luc-19h00-ngay-24-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_809.png",Thailand - Nepal
