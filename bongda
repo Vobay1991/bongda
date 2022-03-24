@@ -16,6 +16,18 @@ https://bb5iqwas4fliv.vcdn.cloud/lusd2/index.m3u8|Referer=https://live.rakhoi1.t
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 South Korea - Iran
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Vietnam - Oman
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Vietnam - Oman
+https://bb5iqwas4fliv.vcdn.cloud/cakhiahd2/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Vietnam - Oman
+https://bb5iqwas4fliv.vcdn.cloud/cakhiasd2/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Vietnam - Oman
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Vietnam - Oman
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Lebanon - Syria
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Uu5pwNmMHGd5bCooKrS3Lw_96x96.png",SD1 South Korea - Iran (Người Mới)
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
@@ -164,10 +176,10 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=mexico-vs-usa-luc-09h00-n
 https://tuongbongda.000webhostapp.com/playxembd.php?id=congo-dr-vs-morocco-luc-22h00-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_218.png",25/03 - 23:00 Liechtenstein - Cape Verde Islands
 https://tuongbongda.000webhostapp.com/playxembd.php?id=liechtenstein-vs-cape-verde-islands-luc-23h00-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1290.png",26/03 - 00:00 Mali - Tunisia
-https://tuongbongda.000webhostapp.com/playxembd.php?id=mali-vs-tunisia-luc-00h00-ngay-26-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1297.png",26/03 - 00:00 Cameroon - Algeria
 https://tuongbongda.000webhostapp.com/playxembd.php?id=cameroon-vs-algeria-luc-00h00-ngay-26-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1290.png",26/03 - 00:00 Mali - Tunisia
+https://tuongbongda.000webhostapp.com/playxembd.php?id=mali-vs-tunisia-luc-00h00-ngay-26-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_112.png",26/03 - 02:30 Egypt - Senegal
 https://tuongbongda.000webhostapp.com/playxembd.php?id=egypt-vs-senegal-luc-02h30-ngay-26-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1282.png",26/03 - 02:30 Ghana - Nigeria
