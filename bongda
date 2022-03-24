@@ -6,16 +6,6 @@
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/4zSXh9p.png", One Bóng đáTV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài China - Saudi Arabia
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 China - Saudi Arabia
-https://bb5iqwas4fliv.vcdn.cloud/lechhd2/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 China - Saudi Arabia
-https://bb5iqwas4fliv.vcdn.cloud/lechsd2/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 China - Saudi Arabia
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 China - Saudi Arabia
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechsd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Iraq - UAE
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Iraq - UAE
@@ -98,47 +88,47 @@ https://tuongbongda.000webhostapp.com/playvebotv.php?id=colombia-bolivia-lu6u6AJ
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=argentina-venezuela-21kDyIw&.m3u8|Referer=https://vebotv.tv/
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 00:00  Iraq - UAE
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 00:00  Iraq - UAE
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=iraq-vs-uae-0000-25-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 00:00  Moldova - Kazakhstan
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 00:00  Moldova - Kazakhstan
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=moldova-vs-kazakhstan-0000-25-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 00:00  Estonia - Cyprus
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 00:00  Estonia - Cyprus
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=estonia-vs-cyprus-0000-25-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 02:45  Xứ Wales - Áo
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 02:45  Xứ Wales - Áo
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=xu-wales-vs-ao-0245-25-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 02:45  Thụy Điển - Cộng Hòa Séc
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 02:45  Thụy Điển - Cộng Hòa Séc
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=thuy-dien-vs-cong-hoa-sec-0245-25-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 02:45  Italia - Bắc Macedonia
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 02:45  Italia - Bắc Macedonia
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=italia-vs-bac-macedonia-0245-25-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 02:45  Bồ Đào Nha - Thổ Nhĩ Kỳ
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 02:45  Bồ Đào Nha - Thổ Nhĩ Kỳ
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=bo-dao-nha-vs-tho-nhi-ky-0245-25-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 06:05  Jamaica - El Salvador
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 06:05  Jamaica - El Salvador
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=jamaica-vs-el-salvador-0605-25-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 06:30  Uruguay - Peru
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 06:30  Uruguay - Peru
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=uruguay-vs-peru-0630-25-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 06:30  Colombia - Bolivia
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 06:30  Colombia - Bolivia
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=colombia-vs-bolivia-0630-25-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 06:30  Brazil - Chile
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 06:30  Brazil - Chile
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=brazil-vs-chile-0630-25-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 06:30  Paraguay - Ecuador
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 06:30  Paraguay - Ecuador
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=paraguay-vs-ecuador-0630-25-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 08:05  Panama - Honduras
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 08:05  Panama - Honduras
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=panama-vs-honduras-0805-25-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 09:00  Mexico - United States
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 09:00  Mexico - United States
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=mexico-vs-united-states-0900-25-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 09:05  Costa Rica - Canada
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 09:05  Costa Rica - Canada
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=costa-rica-vs-canada-0905-25-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",26/03/2022 - 00:00  Cameroon - Algeria
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 00:00  Cameroon - Algeria
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=cameroon-vs-algeria-0000-26-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",26/03/2022 - 00:00  Mali - Tunisia
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 00:00  Mali - Tunisia
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=mali-vs-tunisia-0000-26-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",26/03/2022 - 02:30  Ai Cập - Senegal
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 02:30  Ai Cập - Senegal
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=ai-cap-vs-senegal-0230-26-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",26/03/2022 - 02:30  Ghana - Nigeria
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 02:30  Ghana - Nigeria
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=ghana-vs-nigeria-0230-26-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",26/03/2022 - 06:30  Argentina - Venezuela
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 06:30  Argentina - Venezuela
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=argentina-vs-venezuela-0630-26-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",26/03/2022 - 19:00  U23 Croatia - U23 Việt Nam
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 19:00  U23 Croatia - U23 Việt Nam
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=u23-croatia-vs-u23-viet-nam-1900-26-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",28/03/2022 - 03:05  Canada - Jamaica
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=canada-vs-jamaica-0305-28-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
@@ -158,12 +148,12 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=fiji-vs-papua-new-guinea-
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_198.png",Armenia - Montenegro
 https://tuongbongda.000webhostapp.com/playxembd.php?id=armenia-vs-montenegro-luc-23h00-ngay-24-03-2022&.m3u8|Referer=https://xembd.live/
 
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_239.png",25/03 - 02:45 Wales - Austria
+https://tuongbongda.000webhostapp.com/playxembd.php?id=wales-vs-austria-luc-02h45-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_214.png",25/03 - 02:45 Italy - FYR Macedonia
 https://tuongbongda.000webhostapp.com/playxembd.php?id=italy-vs-fyr-macedonia-luc-02h45-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_207.png",25/03 - 02:45 Portugal - Turkey
 https://tuongbongda.000webhostapp.com/playxembd.php?id=portugal-vs-turkey-luc-02h45-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_239.png",25/03 - 02:45 Wales - Austria
-https://tuongbongda.000webhostapp.com/playxembd.php?id=wales-vs-austria-luc-02h45-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_253.png",25/03 - 06:30 Uruguay - Peru
 https://tuongbongda.000webhostapp.com/playxembd.php?id=uruguay-vs-peru-luc-06h30-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_254.png",25/03 - 06:30 Brazil - Chile
@@ -202,8 +192,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=honduras-vs-mexico-luc-06
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",22h00 24/03: China - Saudi Arabia
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=623695fa02ab8d3a96c4deac&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",00h00 25/03: Iraq - UAE
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=62392fbffa2b83159cacf6e2&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",00h00 25/03: Fiji - Papua New Guinea
