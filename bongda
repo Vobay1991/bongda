@@ -9,25 +9,31 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http:/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Jamaica - El Salvador
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://scontent-xx-sta-vn.90p.tech/10-2021/8b36a7b76416c2e3726215df249f2aa3.png",Nhà đài Tlaxcala F.C. - Correcaminos
+https://jq9sucdqmfliv.vcdn.cloud/may61/index.m3u8	|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/4HCKfsNJNHDY-vWSEzLbeQ_96x96.png",Nhà đài Jamaica - El Salvador
 https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
+#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://scontent-xx-sta-vn.90p.tech/10-2021/8b36a7b76416c2e3726215df249f2aa3.png",06h00 25/03: Tlaxcala F.C. - Correcaminos
+https://tuongbongda.000webhostapp.com/play90p.php?id=623cf93ce0d4672fc68e6f24&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/4HCKfsNJNHDY-vWSEzLbeQ_96x96.png",06h05 25/03: Jamaica - El Salvador
 https://tuongbongda.000webhostapp.com/play90p.php?id=623bc8f2e0d4672fc68e6f22&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_96x96.png",06h30 25/03: Brazil - Chile
-https://tuongbongda.000webhostapp.com/play90p.php?id=623bc95692893b39d1704b81&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/KnSUdQWiGRoy89q4x85IgA_96x96.png",06h30 25/03: Uruguay - Peru
-https://tuongbongda.000webhostapp.com/play90p.php?id=623bc93d3679ef42e3971530&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/tXHnA_tDylayacdjWQCJvw_96x96.png",06h30 25/03: Colombia - Bolivia
 https://tuongbongda.000webhostapp.com/play90p.php?id=623bc90dc6aff63667deb33d&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/-FN-y84Al3dbth0hW1t5Qg_96x96.png",06h30 25/03: Paraguay - Ecuador
 https://tuongbongda.000webhostapp.com/play90p.php?id=623bc9233679ef42e397152f&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/KnSUdQWiGRoy89q4x85IgA_96x96.png",06h30 25/03: Uruguay - Peru (Cáp Tần)
+https://tuongbongda.000webhostapp.com/play90p.php?id=623bc93d3679ef42e3971530&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_96x96.png",06h30 25/03: Brazil - Chile (Liu Men)
+https://tuongbongda.000webhostapp.com/play90p.php?id=623bc95692893b39d1704b81&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/JIn8OwxL6KFFiYrKGnL2RQ_96x96.png",08h05 25/03: Panama - Honduras
 https://tuongbongda.000webhostapp.com/play90p.php?id=623bc9b03679ef42e3971531&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/yJF9xqmUGenD8108FJbg9A_96x96.png",09h00 25/03: Mexico - USA
+#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/yJF9xqmUGenD8108FJbg9A_96x96.png",09h00 25/03: Mexico - USA (Người Thỏ)
 https://tuongbongda.000webhostapp.com/play90p.php?id=623bc9cf74dd7b31c399b3c0&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/ixZiM5pj2IvvYc15k-zfeQ_96x96.png",09h05 25/03: Costa Rica - Canada
 https://tuongbongda.000webhostapp.com/play90p.php?id=623bca41baf5f939c69dfa44&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6454_small.png",15h45 25/03: Newcastle Jets - Sydney FC
+https://tuongbongda.000webhostapp.com/play90p.php?id=623cf961baf5f939c69dfa4c&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/haAD1SXbO8U5DrW0FjJCPw_96x96.png",19h00 25/03: Latvia - Kuwait
 https://tuongbongda.000webhostapp.com/play90p.php?id=623bcbd028d9a539bbd2ac71&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/8ubHACvf85jReRY73jY5jA_96x96.png",22h00 25/03: Congo DR - Morocco
@@ -95,6 +101,8 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=honduras-vs-mexico-0605
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_254.png",Brazil - Chile
+https://tuongbongda.000webhostapp.com/playxembd.php?id=brazil-vs-chile-luc-06h30-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_258.png",Colombia - Bolivia
 https://tuongbongda.000webhostapp.com/playxembd.php?id=colombia-vs-bolivia-luc-06h30-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_255.png",Paraguay - Ecuador
@@ -104,8 +112,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=jamaica-vs-el-salvador-lu
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_253.png",25/03 - 06:30 Uruguay - Peru
 https://tuongbongda.000webhostapp.com/playxembd.php?id=uruguay-vs-peru-luc-06h30-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_254.png",25/03 - 06:30 Brazil - Chile
-https://tuongbongda.000webhostapp.com/playxembd.php?id=brazil-vs-chile-luc-06h30-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_191.png",25/03 - 09:00 Mexico - USA
 https://tuongbongda.000webhostapp.com/playxembd.php?id=mexico-vs-usa-luc-09h00-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_192.png",25/03 - 09:05 Costa Rica - Canada
@@ -114,10 +120,10 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=costa-rica-vs-canada-luc-
 https://tuongbongda.000webhostapp.com/playxembd.php?id=congo-dr-vs-morocco-luc-22h00-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_218.png",25/03 - 23:00 Liechtenstein - Cape Verde Islands
 https://tuongbongda.000webhostapp.com/playxembd.php?id=liechtenstein-vs-cape-verde-islands-luc-23h00-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1290.png",26/03 - 00:00 Mali - Tunisia
-https://tuongbongda.000webhostapp.com/playxembd.php?id=mali-vs-tunisia-luc-00h00-ngay-26-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1297.png",26/03 - 00:00 Cameroon - Algeria
 https://tuongbongda.000webhostapp.com/playxembd.php?id=cameroon-vs-algeria-luc-00h00-ngay-26-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1290.png",26/03 - 00:00 Mali - Tunisia
+https://tuongbongda.000webhostapp.com/playxembd.php?id=mali-vs-tunisia-luc-00h00-ngay-26-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_112.png",26/03 - 02:30 Egypt - Senegal
 https://tuongbongda.000webhostapp.com/playxembd.php?id=egypt-vs-senegal-luc-02h30-ngay-26-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1282.png",26/03 - 02:30 Ghana - Nigeria
@@ -142,6 +148,8 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=albania-vs-georgia-luc-00
 https://tuongbongda.000webhostapp.com/playxembd.php?id=japan-vs-vietnam-luc-17h35-ngay-29-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_180.png",29/03 - 18:30 Iran - Lebanon
 https://tuongbongda.000webhostapp.com/playxembd.php?id=iran-vs-lebanon-luc-18h30-ngay-29-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_182.png",29/03 - 20:45 United Arab Emirates - South Korea
+https://tuongbongda.000webhostapp.com/playxembd.php?id=united-arab-emirates-vs-south-korea-luc-20h45-ngay-29-03-2022&.m3u8|Referer=https://xembd.live/
 
 
 
