@@ -8,8 +8,6 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http:/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Solomon Islands - Tahiti
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Vanuatu - Cook Islands
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m204nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/IUYV_ZAMxDdabQPzSpTJtg_96x96.png",SD1 Việt Nam - Oman (Cáp + Thỏ)
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
@@ -131,6 +129,8 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=honduras-vs-mexico-0605
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1836.png",Solomon Islands - Tahiti
+https://tuongbongda.000webhostapp.com/playxembd.php?id=solomon-islands-vs-tahiti-luc-21h00-ngay-24-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1380.png",PS TIRA - Arema FC
 https://tuongbongda.000webhostapp.com/playxembd.php?id=ps-tira-vs-arema-fc-luc-20h30-ngay-24-03-2022&.m3u8|Referer=https://xembd.live/
 
@@ -150,14 +150,14 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=mexico-vs-usa-luc-09h00-n
 https://tuongbongda.000webhostapp.com/playxembd.php?id=congo-dr-vs-morocco-luc-22h00-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_218.png",25/03 - 23:00 Liechtenstein - Cape Verde Islands
 https://tuongbongda.000webhostapp.com/playxembd.php?id=liechtenstein-vs-cape-verde-islands-luc-23h00-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1297.png",26/03 - 00:00 Cameroon - Algeria
-https://tuongbongda.000webhostapp.com/playxembd.php?id=cameroon-vs-algeria-luc-00h00-ngay-26-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1290.png",26/03 - 00:00 Mali - Tunisia
 https://tuongbongda.000webhostapp.com/playxembd.php?id=mali-vs-tunisia-luc-00h00-ngay-26-03-2022&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1282.png",26/03 - 02:30 Ghana - Nigeria
-https://tuongbongda.000webhostapp.com/playxembd.php?id=ghana-vs-nigeria-luc-02h30-ngay-26-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1297.png",26/03 - 00:00 Cameroon - Algeria
+https://tuongbongda.000webhostapp.com/playxembd.php?id=cameroon-vs-algeria-luc-00h00-ngay-26-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_112.png",26/03 - 02:30 Egypt - Senegal
 https://tuongbongda.000webhostapp.com/playxembd.php?id=egypt-vs-senegal-luc-02h30-ngay-26-03-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1282.png",26/03 - 02:30 Ghana - Nigeria
+https://tuongbongda.000webhostapp.com/playxembd.php?id=ghana-vs-nigeria-luc-02h30-ngay-26-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_229.png",26/03 - 02:45 Bosnia &amp; Herzegovina - Georgia
 https://tuongbongda.000webhostapp.com/playxembd.php?id=bosnia-herzegovina-vs-georgia-luc-00h00-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_240.png",27/03 - 00:00 Gibraltar - Faroe Islands
@@ -180,8 +180,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=united-arab-emirates-vs-s
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",21h00 24/03: Solomon Islands - Tahiti
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=623695f302ab8d3a96c4dea7&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",21h00 24/03: Vanuatu - Cook Islands
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=623695f702ab8d3a96c4deab&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",22h00 24/03: China - Saudi Arabia
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=623695fa02ab8d3a96c4deac&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",00h00 25/03: Iraq - UAE
