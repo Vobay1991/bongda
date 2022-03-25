@@ -6,34 +6,8 @@
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/4zSXh9p.png", One Bóng đáTV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Mexico - USA
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Mexico - USA
-https://bb5iqwas4fliv.vcdn.cloud/cayhd2/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Mexico - USA
-https://bb5iqwas4fliv.vcdn.cloud/caysd2/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Mexico - USA
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Mexico - USA
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Costa Rica - Canada
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/yJF9xqmUGenD8108FJbg9A_96x96.png",SD1 Mexico - USA (Cáp Tần)
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/yJF9xqmUGenD8108FJbg9A_96x96.png",SD2 Mexico - USA (Cáp Tần)
-https://jq9sucdqmfliv.vcdn.cloud/may1SD/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/yJF9xqmUGenD8108FJbg9A_96x96.png",HD Mexico - USA (Cáp Tần)
-https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/yJF9xqmUGenD8108FJbg9A_96x96.png",FullHD Mexico - USA (Cáp Tần)
-https://livestream-2.socialstreaming.tv/live/623d1d3ebcb248001d98a23b/623d1d3ebcb248001d98a23b.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/ixZiM5pj2IvvYc15k-zfeQ_96x96.png",Nhà đài Costa Rica - Canada
-https://179235864.global.cdnfastest.com//live/18399715b0af17e423a8e406afb2a451b76/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/yJF9xqmUGenD8108FJbg9A_96x96.png",09h00 25/03: Mexico - USA (Cáp Tần)
-https://tuongbongda.000webhostapp.com/play90p.php?id=623bc9cf74dd7b31c399b3c0&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/ixZiM5pj2IvvYc15k-zfeQ_96x96.png",09h05 25/03: Costa Rica - Canada
-https://tuongbongda.000webhostapp.com/play90p.php?id=623bca41baf5f939c69dfa44&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6454_small.png",15h45 25/03: Newcastle Jets - Sydney FC
 https://tuongbongda.000webhostapp.com/play90p.php?id=623cf961baf5f939c69dfa4c&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/haAD1SXbO8U5DrW0FjJCPw_96x96.png",19h00 25/03: Latvia - Kuwait
@@ -66,24 +40,20 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=623ce0d53679ef42e3971535&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=623ce0bebaf5f939c69dfa48&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png", -  Mexico - USA
-https://tuongbongda.000webhostapp.com/playvebotv.php?id=mexico-usa-abrVLMe&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png", -  Costa Rica - Canada
-https://tuongbongda.000webhostapp.com/playvebotv.php?id=costa-rica-canada-NgOWcUm&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",25/03/2022 - 22:00 DR Congo - Morocco
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=dr-congo-morocco-Lkz9j70&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",26/03/2022 - 00:00 Mali - Tunisia
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=mali-tunisia-6Hwtce4&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",26/03/2022 - 00:00 Cameroon - Algeria
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=cameroon-algeria-DJpBE7j&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",26/03/2022 - 02:30 Ghana - Nigeria
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=nigeria-ghana-6CDLlOy&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",26/03/2022 - 02:30 Egypt - Senegal
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=egypt-senegal-dyT7zGc&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/Nn91GM7.png",26/03/2022 - 06:30 Argentina - Venezuela
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=argentina-venezuela-21kDyIw&.m3u8|Referer=https://vebotv.tv/
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 09:00  Mexico - United States
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=mexico-vs-united-states-0900-25-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 09:05  Costa Rica - Canada
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=costa-rica-vs-canada-0905-25-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 00:00  Cameroon - Algeria
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=cameroon-vs-algeria-0000-26-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 00:00  Mali - Tunisia
@@ -105,10 +75,6 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=honduras-vs-mexico-0605
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_192.png",Costa Rica - Canada
-https://tuongbongda.000webhostapp.com/playxembd.php?id=costa-rica-vs-canada-luc-09h05-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_191.png",Mexico - USA
-https://tuongbongda.000webhostapp.com/playxembd.php?id=mexico-vs-usa-luc-09h00-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1845.png",25/03 - 22:00 Congo DR - Morocco
 https://tuongbongda.000webhostapp.com/playxembd.php?id=congo-dr-vs-morocco-luc-22h00-ngay-25-03-2022&.m3u8|Referer=https://xembd.live/
@@ -154,10 +120,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=nigeria-vs-ghana-luc-00h0
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",09h00 25/03: Mexico - USA
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=62393059fa2b83159cacf729&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",09h05 25/03: Costa Rica - Canada
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6239305dfa2b83159cacf72d&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",22h00 25/03: DR Congo - Morocco
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=62393066fa2b83159cacf735&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/OjikGcl.png",00h00 26/03: Cameroon - Algeria
