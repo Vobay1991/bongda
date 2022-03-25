@@ -120,9 +120,9 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=algeria-vs-cameroon-luc-0
 https://tuongbongda.000webhostapp.com/playxembd.php?id=spain-vs-iceland-luc-02h45-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4831/image",26/03/2022 - 00:00 Mali - Tunisia
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4831/image", -  Mali - Tunisia
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=mali-tunisia-6Hwtce4&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4751/image",26/03/2022 - 00:00 Cameroon - Algeria
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4751/image", -  Cameroon - Algeria
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=cameroon-algeria-DJpBE7j&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4764/image",26/03/2022 - 02:30 Ghana - Nigeria
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=nigeria-ghana-6CDLlOy&.m3u8|Referer=https://vebotv.tv/
