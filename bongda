@@ -7,8 +7,6 @@
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Bosnia and Herzegovina - Georgia
-https://jq9sucdqmfliv.vcdn.cloud/may8/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/5VOae7i.png",SD1 France - Ivory Coast (Liu)
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/MDbZtbY.png",SD2 France - Ivory Coast (Liu)
@@ -20,8 +18,6 @@ https://livestream-2.socialstreaming.tv/live/623e1dd161200d001c998cf4/623e1dd161
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_96x96.png",Nhà Đài France - Ivory Coast (Liu)
 https://jq9sucdqmfliv.vcdn.cloud/may11/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/em3xOvyKQEgz1IIYI8GO9w_96x96.png",02h45 26/03: Bosnia and Herzegovina - Georgia
-https://tuongbongda.000webhostapp.com/play90p.php?id=623e0e223679ef42e3971538&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_96x96.png",03h15 26/03: France - Ivory Coast (Liu)
 https://tuongbongda.000webhostapp.com/play90p.php?id=623c5788c6aff63667deb340&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_96x96.png",06h30 26/03: Argentina - Venezuela
@@ -57,10 +53,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=623ce43174dd7b31c399b3c6&.m
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_235.png",France - Ivory Coast
 https://tuongbongda.000webhostapp.com/playxembd.php?id=france-vs-ivory-coast-luc-03h15-ngay-26-03-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1913.png",Dordrecht - ADO Den Haag
-https://tuongbongda.000webhostapp.com/playxembd.php?id=dordrecht-vs-ado-den-haag-luc-03h00-ngay-26-03-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1904.png",FC Eindhoven - De Graafschap
-https://tuongbongda.000webhostapp.com/playxembd.php?id=fc-eindhoven-vs-de-graafschap-luc-03h00-ngay-26-03-2022&.m3u8|Origin=https://xembd.live
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_259.png",26/03 - 06:30 Argentina - Venezuela
 https://tuongbongda.000webhostapp.com/playxembd.php?id=argentina-vs-venezuela-luc-06h30-ngay-26-03-2022&.m3u8|Origin=https://xembd.live
@@ -98,10 +90,10 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=senegal-vs-egypt-luc-00h0
 https://tuongbongda.000webhostapp.com/playxembd.php?id=nigeria-vs-ghana-luc-00h00-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1284.png",30/03 - 02:30 Algeria - Cameroon
 https://tuongbongda.000webhostapp.com/playxembd.php?id=algeria-vs-cameroon-luc-02h30-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_226.png",30/03 - 02:45 England - Ivory Coast
+https://tuongbongda.000webhostapp.com/playxembd.php?id=england-vs-ivory-coast-luc-02h45-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_209.png",30/03 - 02:45 Spain - Iceland
 https://tuongbongda.000webhostapp.com/playxembd.php?id=spain-vs-iceland-luc-02h45-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_245.png",30/03 - 02:45 Netherlands - Germany
-https://tuongbongda.000webhostapp.com/playxembd.php?id=netherlands-vs-germany-luc-02h45-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 
 
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4481/image", -  France - Ivory Coast
