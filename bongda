@@ -7,16 +7,6 @@
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/5VOae7i.png",SD1 Anh - Thụy Sĩ (Cáp Tần)
-https://jq9sucdqmfliv.vcdn.cloud/may1SD/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/MDbZtbY.png",SD2 Anh - Thụy Sĩ (Cáp Tần)
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.ibb.co/1L5DQ80/IMG-20211223-104019.png",HD Anh - Thụy Sĩ (Cáp Tần)
-https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/HiGJYbg.png",FullHD Anh - Thụy Sĩ (Cáp Tần)
-https://livestream-2.socialstreaming.tv/live/623f482ecd6533001d013a59/623f482ecd6533001d013a59.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Anh - Thụy Sĩ (Cáp Tần)
-https://jq9sucdqmfliv.vcdn.cloud/may7/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Qatar - Bulgaria
 https://jq9sucdqmfliv.vcdn.cloud/may91/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/5VOae7i.png",SD1 Spain - Albania (Liu men)
@@ -30,8 +20,6 @@ https://livestream.socialstreaming.tv/live/623f52b07c1a20001c9b5f66/623f52b07c1a
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Spain - Albania (Liu men)
 https://jq9sucdqmfliv.vcdn.cloud/may101/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",00h30 27/03: Anh - Thụy Sĩ (Cáp Tần)
-https://tuongbongda.000webhostapp.com/play90p.php?id=623ce3e7baf5f939c69dfa49&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/h0FNA5YxLzWChHS5K0o4gw_96x96.png",00h30 27/03: Qatar - Bulgaria
 https://tuongbongda.000webhostapp.com/play90p.php?id=623ce403baf5f939c69dfa4a&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/5hLkf7KFHhmpaiOJQv8LmA_96x96.png",01h45 27/03: Spain - Albania (Liu men)
@@ -67,6 +55,8 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=623ef74928d9a539bbd2ac75&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/659098_small.png",10h05 27/03: CD Tepatitlan de Morelos - Atlante
 https://tuongbongda.000webhostapp.com/play90p.php?id=623ef76928d9a539bbd2ac76&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_245.png",Netherlands - Denmark
+https://tuongbongda.000webhostapp.com/playxembd.php?id=netherlands-vs-denmark-luc-02h45-ngay-27-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_210.png",Germany - Israel
 https://tuongbongda.000webhostapp.com/playxembd.php?id=germany-vs-israel-luc-02h45-ngay-27-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1292.png",Mauritania - Mozambique
@@ -76,8 +66,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=spain-vs-albania-luc-01h0
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1912.png",Excelsior - Helmond Sport
 https://tuongbongda.000webhostapp.com/playxembd.php?id=excelsior-vs-helmond-sport-luc-00h45-ngay-27-03-2022&.m3u8|Origin=https://xembd.live
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_245.png",27/03 - 02:45 Netherlands - Denmark
-https://tuongbongda.000webhostapp.com/playxembd.php?id=netherlands-vs-denmark-luc-02h45-ngay-27-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_190.png",28/03 - 06:00 USA - Panama
 https://tuongbongda.000webhostapp.com/playxembd.php?id=usa-vs-panama-luc-06h00-ngay-28-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_188.png",28/03 - 06:05 Honduras - Mexico
@@ -116,12 +104,10 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=barcelona-w-vs-real-madri
 https://tuongbongda.000webhostapp.com/playxembd.php?id=paris-saint-germain-w-vs-bayern-munich-w-luc-02h00-ngay-31-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_192.png",31/03 - 08:05 Costa Rica - USA
 https://tuongbongda.000webhostapp.com/playxembd.php?id=costa-rica-vs-usa-luc-08h05-ngay-31-03-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live/https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/1200px-Logo-VfL-Wolfsburg.svg.png",31/03 - 23:45 VfL Wolfsburg W - Arsenal W
+https://tuongbongda.000webhostapp.com/playxembd.php?id=vfl-wolfsburg-w-vs-arsenal-w-luc-23h45-ngay-31-03-2022&.m3u8|Origin=https://xembd.live
 
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4713/image", -  England - Switzerland
-https://tuongbongda.000webhostapp.com/playvebotv.php?id=england-switzerland-6KQdChd&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4792/image", -  Qatar - Bulgaria
-https://tuongbongda.000webhostapp.com/playvebotv.php?id=qatar-bulgaria-brSW4T0&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4698/image", -  Spain - Albania
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=spain-albania-twKzBVH&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4705/image",27/03/2022 - 02:45 Netherlands - Denmark
@@ -130,6 +116,10 @@ https://tuongbongda.000webhostapp.com/playvebotv.php?id=netherlands-denmark-FpGE
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=germany-israel-WugtQdJ&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4730/image",27/03/2022 - 19:00 Thailand - Suriname
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=thailand-suriname-5H0Ys0c&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4752/image",28/03/2022 - 03:05 Canada - Jamaica
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=jamaica-canada-1KMGDRQ&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4825/image",28/03/2022 - 04:05 El Salvador - Costa Rica
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=el-salvador-costa-rica-eW6g0u5&.m3u8|Referer=https://vebotv.tv/
 
 
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 03:05  Canada - Jamaica
