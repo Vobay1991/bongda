@@ -9,15 +9,17 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http:/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Cancun FC - Pumas Tabasco
 https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8	|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Celaya - Tapatio
+https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://scontent-xx-sta-vn.90p.tech/8-2021/e95d21c237c7e6363f370fd0e0cf5c2e.png",08h00 26/03: Cancun FC - Pumas Tabasco
 https://tuongbongda.000webhostapp.com/play90p.php?id=623e4a10e0d4672fc68e6f26&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://scontent-xx-sta-vn.90p.tech/10-2021/cb9eeac58e95793a85387a1e7a59f4b7.png",10h00 26/03: Celaya - Tapatio
 https://tuongbongda.000webhostapp.com/play90p.php?id=623e4a2c92893b39d1704b83&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/8Cr5Gw-79PpIX2rIEZ7Pvg_96x96.png",19h00 26/03: U23 Trung Quốc - U23 Thái Lan
-https://tuongbongda.000webhostapp.com/play90p.php?id=623ce09cbaf5f939c69dfa47&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/S5ivsscrfCG1mgqceKMPlQ_96x96.png",19h00 26/03: U23 Iraq - U23 Ả Rập Xê Út
 https://tuongbongda.000webhostapp.com/play90p.php?id=623ce0d53679ef42e3971535&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/8Cr5Gw-79PpIX2rIEZ7Pvg_96x96.png",19h00 26/03: U23 Trung Quốc - U23 Thái Lan
+https://tuongbongda.000webhostapp.com/play90p.php?id=623ce09cbaf5f939c69dfa47&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/9toerdOg8xW4CRhDaZxsyw_96x96.png",19h00 26/03: U23 Croatia - U23 Việt Nam
 https://tuongbongda.000webhostapp.com/play90p.php?id=623ce0bebaf5f939c69dfa48&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/9toerdOg8xW4CRhDaZxsyw_96x96.png",21h00 26/03: Croatia - Slovenia
@@ -42,6 +44,8 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=623ce403baf5f939c69dfa4a&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=623ce4143679ef42e3971537&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/h1FhPLmDg9AHXzhygqvVPg_96x96.png",02h45 27/03: Germany - Israel
 https://tuongbongda.000webhostapp.com/play90p.php?id=623ce43174dd7b31c399b3c6&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_96x96.png",02h45 27/03: Netherlands - Denmark
+https://tuongbongda.000webhostapp.com/play90p.php?id=623ce48ebaf5f939c69dfa4b&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_212.png",26/03 - 20:00 Croatia - Vietnam
