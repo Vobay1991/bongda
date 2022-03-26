@@ -6,16 +6,6 @@
 #EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.imgur.com/4zSXh9p.png", One Bóng đáTV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Argentina - Venezuela
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Argentina - Venezuela
-https://bb5iqwas4fliv.vcdn.cloud/cayhd2/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Argentina - Venezuela
-https://bb5iqwas4fliv.vcdn.cloud/caysd2/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Argentina - Venezuela
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Argentina - Venezuela
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/5VOae7i.png",SD1 Argentina - Venezuela (Cáp Tần)
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
@@ -59,8 +49,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=623ce3e7baf5f939c69dfa49&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/h0FNA5YxLzWChHS5K0o4gw_96x96.png",00h30 27/03: Qatar - Bulgaria
 https://tuongbongda.000webhostapp.com/play90p.php?id=623ce403baf5f939c69dfa4a&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_259.png",Argentina - Venezuela
-https://tuongbongda.000webhostapp.com/playxembd.php?id=argentina-vs-venezuela-luc-06h30-ngay-26-03-2022&.m3u8|Origin=https://xembd.live
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_212.png",26/03 - 20:00 Croatia - Vietnam
 https://tuongbongda.000webhostapp.com/playxembd.php?id=croatia-vs-vietnam&.m3u8|Origin=https://xembd.live
@@ -104,10 +92,10 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=netherlands-vs-germany-lu
 https://tuongbongda.000webhostapp.com/playxembd.php?id=england-vs-ivory-coast-luc-02h45-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4819/image", -  Argentina - Venezuela
-https://tuongbongda.000webhostapp.com/playvebotv.php?id=argentina-venezuela-21kDyIw&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/49052/image",26/03/2022 - 19:00 Iraq U23 - Saudi Arabia U23
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=saudi-arabia-u23-iraq-u23-1IPSh03&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/189464/image",26/03/2022 - 19:00 Croatia U23 - Vietnam U23
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=vietnam-u23-croatia-u23-G6axe6X&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4752/image",28/03/2022 - 03:05 Canada - Jamaica
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=jamaica-canada-1KMGDRQ&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4825/image",28/03/2022 - 04:05 El Salvador - Costa Rica
@@ -118,8 +106,6 @@ https://tuongbongda.000webhostapp.com/playvebotv.php?id=panama-usa-tCAzICC&.m3u8
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=honduras-mexico-DHUXvX2&.m3u8|Referer=https://vebotv.tv/
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 06:30  Argentina - Venezuela
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=argentina-vs-venezuela-0630-26-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 20:00  U23 Croatia - U23 Việt Nam
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=u23-croatia-vs-u23-viet-nam-1900-26-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",28/03/2022 - 03:05  Canada - Jamaica
@@ -131,8 +117,6 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=honduras-vs-mexico-0605
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",06h30 26/03: Argentina - Venezuela
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=623931bffa2b83159cacf791&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - U23 Dubai Cup 2022" tvg-logo="https://i.imgur.com/iKwDnNu.png",19h00 26/03: U23 China - U23 Thailand
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=623d6b6efa2b83159cad0111&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - U23 Dubai Cup 2022" tvg-logo="https://i.imgur.com/iKwDnNu.png",19h00 26/03: Qatar - Japan
