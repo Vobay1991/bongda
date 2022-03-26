@@ -88,8 +88,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=costa-rica-vs-usa-luc-08h
 https://tuongbongda.000webhostapp.com/playxembd.php?id=vfl-wolfsburg-w-vs-arsenal-w-luc-23h45-ngay-31-03-2022&.m3u8|Origin=https://xembd.live
 
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4705/image", -  Netherlands - Denmark
-https://tuongbongda.000webhostapp.com/playvebotv.php?id=netherlands-denmark-FpGEaxk&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4730/image",27/03/2022 - 19:00 Thailand - Suriname
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=thailand-suriname-5H0Ys0c&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4752/image",28/03/2022 - 03:05 Canada - Jamaica
@@ -100,6 +98,8 @@ https://tuongbongda.000webhostapp.com/playvebotv.php?id=el-salvador-costa-rica-e
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=vietnam-japan-P8onELl&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4766/image",29/03/2022 - 18:30 Iran - Lebanon
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=lebanon-iran-BB7IcKW&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4727/image",29/03/2022 - 20:45 United Arab Emirates - South Korea
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=south-korea-united-arab-emirates-rZ7442I&.m3u8|Referer=https://vebotv.tv/
 
 
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 03:05  Canada - Jamaica
