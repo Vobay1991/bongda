@@ -134,18 +134,18 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=paris-saint-germain-w-vs-
 https://tuongbongda.000webhostapp.com/playxembd.php?id=costa-rica-vs-usa-luc-08h05-ngay-31-03-2022&.m3u8|Origin=https://xembd.live
 
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4693/image", -  Ireland - Belgium
-https://tuongbongda.000webhostapp.com/playvebotv.php?id=belgium-ireland-Rj6xW7s&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4713/image", -  England - Switzerland
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=england-switzerland-6KQdChd&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4792/image", -  Qatar - Bulgaria
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=qatar-bulgaria-brSW4T0&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4698/image",27/03/2022 - 01:45 Spain - Albania
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4698/image", -  Spain - Albania
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=spain-albania-twKzBVH&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4705/image",27/03/2022 - 02:45 Netherlands - Denmark
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=netherlands-denmark-FpGEaxk&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4711/image",27/03/2022 - 02:45 Germany - Israel
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=germany-israel-WugtQdJ&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4770/image",29/03/2022 - 17:35 Japan - Việt Nam
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=vietnam-japan-P8onELl&.m3u8|Referer=https://vebotv.tv/
 
 
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 03:05  Canada - Jamaica
