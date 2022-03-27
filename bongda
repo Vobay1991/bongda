@@ -7,10 +7,6 @@
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Sporting KC - Salt Lake
-https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Miami FC - Loudoun United
-https://jq9sucdqmfliv.vcdn.cloud/may2/index.m3u8	|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Birmingham Legion - Colorado Springs
 https://jq9sucdqmfliv.vcdn.cloud/may61/index.m3u8	|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Louisville City FC - Indy Eleven
@@ -20,10 +16,6 @@ https://jq9sucdqmfliv.vcdn.cloud/may111/index.m3u8	|Referer= https://xoilac.90ph
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Alebrijes - Dorados
 https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://scontent-xx-sta-vn.90p.tech/6-2021/9e0726eaf0a548d3e99e9de923686740.png",06h00 27/03: Sporting KC - Salt Lake
-https://tuongbongda.000webhostapp.com/play90p.php?id=623ef6653679ef42e397153a&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://scontent-xx-sta-vn.90p.tech/6-2021/52334a64e0f5cc002567191fd4a24d5e.png",06h00 27/03: Miami FC - Loudoun United
-https://tuongbongda.000webhostapp.com/play90p.php?id=623ef692c6aff63667deb343&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://scontent-xx-sta-vn.90p.tech/6-2021/9c7a54e1082c7d80d62789b5512a9d6e.png",06h30 27/03: Birmingham Legion - Colorado Springs
 https://tuongbongda.000webhostapp.com/play90p.php?id=623ef6acc6aff63667deb344&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://scontent-xx-sta-vn.90p.tech/6-2021/5b7a6d2cda59b8d00df261b95e1134f2.png",06h30 27/03: Louisville City FC - Indy Eleven
@@ -80,12 +72,12 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=syria-vs-iraq-luc-23h00-n
 https://tuongbongda.000webhostapp.com/playxembd.php?id=senegal-vs-egypt-luc-00h00-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1286.png",30/03 - 00:00 Nigeria - Ghana
 https://tuongbongda.000webhostapp.com/playxembd.php?id=nigeria-vs-ghana-luc-00h00-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_245.png",30/03 - 02:45 Netherlands - Germany
+https://tuongbongda.000webhostapp.com/playxembd.php?id=netherlands-vs-germany-luc-02h45-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_226.png",30/03 - 02:45 England - Ivory Coast
 https://tuongbongda.000webhostapp.com/playxembd.php?id=england-vs-ivory-coast-luc-02h45-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_209.png",30/03 - 02:45 Spain - Iceland
 https://tuongbongda.000webhostapp.com/playxembd.php?id=spain-vs-iceland-luc-02h45-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_245.png",30/03 - 02:45 Netherlands - Germany
-https://tuongbongda.000webhostapp.com/playxembd.php?id=netherlands-vs-germany-luc-02h45-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_257.png",30/03 - 06:30 Bolivia - Brazil
 https://tuongbongda.000webhostapp.com/playxembd.php?id=bolivia-vs-brazil-luc-06h30-ngay-30-03-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_256.png",30/03 - 06:30 Ecuador - Argentina
@@ -112,8 +104,8 @@ https://tuongbongda.000webhostapp.com/playvebotv.php?id=el-salvador-costa-rica-e
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=vietnam-japan-P8onELl&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4766/image",29/03/2022 - 18:30 Iran - Lebanon
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=lebanon-iran-BB7IcKW&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4727/image",29/03/2022 - 20:45 United Arab Emirates - South Korea
-https://tuongbongda.000webhostapp.com/playvebotv.php?id=south-korea-united-arab-emirates-rZ7442I&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4731/image",29/03/2022 - 20:45 Syria - Iraq
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=iraq-syria-i83AxI2&.m3u8|Referer=https://vebotv.tv/
 
 
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 03:05  Canada - Jamaica
