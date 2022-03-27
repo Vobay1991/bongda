@@ -39,8 +39,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/4J6WdN3.png",BLV: Giàng A Lếch
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Solomon Islands - Papua New Guinea
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m205nd/playlist.m3u8|Referer=https://rakhoi1.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/aEBU_ri8U6F06oTqWmKY5g_96x96.png",19h00 27/03: Thailand - Suriname
@@ -59,27 +57,3 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=623e274cbaf5f939c69dfa4d&.m
 {MITOMTV_PLACEHOLDER}
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",21h00 27/03: Solomon Islands - Papua New Guinea
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=623f2d25402ec94255641e72&.m3u8|Referer=https://rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",00h30 28/03: New Zealand - Tahiti
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=623f12cf402ec94255641c9b&.m3u8|Referer=https://rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",03h05 28/03: Canada - Jamaica
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=623f1343402ec94255641c9f&.m3u8|Referer=https://rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",04h05 28/03: El Salvador - Costa Rica
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=623f1359402ec94255641ca3&.m3u8|Referer=https://rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",06h00 28/03: USA - Panama
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=623f1361402ec94255641ca7&.m3u8|Referer=https://rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",06h05 28/03: Honduras - Mexico
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=623f1368402ec94255641cab&.m3u8|Referer=https://rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",17h35 29/03: Japan - Vietnam
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=623f1451402ec94255641cb7&.m3u8|Referer=https://rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",18h30 29/03: Iran - Lebanon
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=623f1488402ec94255641cc7&.m3u8|Referer=https://rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",20h45 29/03: Syria - Iraq
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=623f14f3402ec94255641cd3&.m3u8|Referer=https://rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",23h00 29/03: Oman - China
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=623f15ee402ec94255641d33&.m3u8|Referer=https://rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",00h00 30/03: Senegal - Egypt
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=623f1734402ec94255641d3b&.m3u8|Referer=https://rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",00h00 30/03: Nigeria - Ghana
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=623f1744402ec94255641d3f&.m3u8|Referer=https://rakhoi1.tv/truc-tiep/
