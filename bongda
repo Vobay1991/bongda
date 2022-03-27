@@ -39,6 +39,16 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlis
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài El Salvador - Costa Rica
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài USA - Panama
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 USA - Panama
+https://bb5iqwas4fliv.vcdn.cloud/luhd2/index.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 USA - Panama
+https://bb5iqwas4fliv.vcdn.cloud/lusd2/index.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 USA - Panama
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 USA - Panama
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Canada - Jamaica
 https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
@@ -46,6 +56,8 @@ https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8|Referer= https://xoilac.90phutt
 https://179746877.global.cdnfastest.com//live/1830285b2124580452fb69b52e96411c76b/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài USA - Panama
 https://179746877.global.cdnfastest.com//live/1830285b2124580452fb69b52e96411c76b/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài Honduras - Mexico
+https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/H23oIEP6qK-zNc3O8abnIA_96x96.png",03h05 28/03: Canada - Jamaica
 https://tuongbongda.000webhostapp.com/play90p.php?id=623e268de0d4672fc68e6f25&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
