@@ -37,6 +37,8 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/4J6WdN3.png",BLV: Giàng A Lếch
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Paradou AC - MC Alger
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/N7eQzihWrRxT4K7ofHt_BA_96x96.png",01h00 29/03: Andorra - Grenada
