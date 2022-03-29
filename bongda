@@ -37,16 +37,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/4J6WdN3.png",BLV: Giàng A Lếch
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Iran - Lebanon
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Iran - Lebanon
-https://bb5iqwas4fliv.vcdn.cloud/cayhd2/index.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Iran - Lebanon
-https://bb5iqwas4fliv.vcdn.cloud/caysd2/index.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Iran - Lebanon
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Iran - Lebanon
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Uzbekistan - Việt Nam
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Uzbekistan - Việt Nam
@@ -80,6 +70,8 @@ https://jq9sucdqmfliv.vcdn.cloud/may71/index.m3u8|Referer= https://xoilac.90phut
 https://179235864.global.cdnfastest.com//live/18399715b0af17e423a8e406afb2a451b76/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài U23 Thái Lan - U23 Iraq
 https://jq9sucdqmfliv.vcdn.cloud/may8/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/a7YT5iB.png",Nhà đài UAE - Korea Republic
+https://jq9sucdqmfliv.vcdn.cloud/may9/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/berApj5NasbKnE8ykdBZ1w_96x96.png",18h00 29/03: Azerbaijan - Latvia
 https://tuongbongda.000webhostapp.com/play90p.php?id=6241a588baf5f939c69dfa50&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
@@ -120,19 +112,19 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6241ab0c74dd7b31c399b3d2&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/QoAJxO46fHid3_T-7nRZ0Q_96x96.png",01h00 30/03: Saudi Arabia - Australia
 https://tuongbongda.000webhostapp.com/play90p.php?id=6241a73ac6aff63667deb34a&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/eM7X6Fx.png",United Arab Emirates - South Korea
+https://tuongbongda.000webhostapp.com/playxembd.php?id=united-arab-emirates-vs-south-korea-luc-20h45-ngay-29-03-2022&.m3u8|Origin=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/eM7X6Fx.png",Vietnam - Uzbekistan
 https://tuongbongda.000webhostapp.com/playxembd.php?id=vietnam-vs-uzbekistan&.m3u8|Origin=https://xembd.live/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/eM7X6Fx.png",Syria - Iraq
+https://tuongbongda.000webhostapp.com/playxembd.php?id=syria-vs-iraq-luc-23h00-ngay-29-03-2022&.m3u8|Origin=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/eM7X6Fx.png",Persepam Madura Utd - PS TIRA
 https://tuongbongda.000webhostapp.com/playxembd.php?id=persepam-madura-utd-vs-ps-tira-luc-19h30-ngay-29-03-2022&.m3u8|Origin=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/eM7X6Fx.png",United Arab Emirates - China
 https://tuongbongda.000webhostapp.com/playxembd.php?id=united-arab-emirates-vs-china-2&.m3u8|Origin=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/eM7X6Fx.png",Iraq - Thailand
 https://tuongbongda.000webhostapp.com/playxembd.php?id=iraq-vs-thailand&.m3u8|Origin=https://xembd.live/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/eM7X6Fx.png",Iran - Lebanon
-https://tuongbongda.000webhostapp.com/playxembd.php?id=iran-vs-lebanon-luc-18h30-ngay-29-03-2022&.m3u8|Origin=https://xembd.live/truc-tiep/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_182.png",29/03 - 20:45 United Arab Emirates - South Korea
-https://tuongbongda.000webhostapp.com/playxembd.php?id=united-arab-emirates-vs-south-korea-luc-20h45-ngay-29-03-2022&.m3u8|Origin=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_212.png",29/03 - 21:00 Croatia - Bulgaria
 https://tuongbongda.000webhostapp.com/playxembd.php?id=croatia-vs-bulgaria-luc-22h00-ngay-29-03-2022&.m3u8|Origin=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_1276.png",30/03 - 00:00 Senegal - Egypt
@@ -171,10 +163,10 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=liverpool-vs-watford-luc-
 https://tuongbongda.000webhostapp.com/playxembd.php?id=burnley-vs-manchester-city-luc-21h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_41.png",02/04 - 21:00 Chelsea - Brentford
 https://tuongbongda.000webhostapp.com/playxembd.php?id=chelsea-vs-brentford-luc-21h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live/truc-tiep/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_42.png",02/04 - 23:30 Manchester United - Leicester
+https://tuongbongda.000webhostapp.com/playxembd.php?id=manchester-united-vs-leicester-luc-23h30-ngay-02-04-2022&.m3u8|Origin=https://xembd.live/truc-tiep/
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 18:30  Iran - Lebanon
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=iran-vs-lebanon-1830-29-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 19:00  U23 Việt Nam - U23 Uzbekistan
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=u23-viet-nam-vs-u23-uzbekistan-1900-29-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Hôm nay - 20:45  UAE - Hàn Quốc
@@ -224,8 +216,6 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=costa-rica-vs-my-0805-3
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",18h30 29/03: Iran - Lebanon
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=623f1488402ec94255641cc7&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - U23 Dubai Cup 2022" tvg-logo="https://i.imgur.com/iKwDnNu.png",19h00 29/03: Uzbekistan - Việt Nam
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6241c4655036e9026b1d2c23&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - U23 Dubai Cup 2022" tvg-logo="https://i.imgur.com/iKwDnNu.png",19h00 29/03: UAE - China
