@@ -39,6 +39,14 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlis
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Solomon Islands - New Zealand
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/FYO5Rnp.png",HD 2 Solomon Islands - New Zealand
+https://bb5iqwas4fliv.vcdn.cloud/luhd2/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3jIbaST.png",SD 2 Solomon Islands - New Zealand
+https://bb5iqwas4fliv.vcdn.cloud/lusd2/index.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/uFFN6D9.png",HD 1 Solomon Islands - New Zealand
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/ju1DtB0.png",SD 1 Solomon Islands - New Zealand
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/sVs7mg9.png",Nhà đài Barcelona (W) - Real Madrid (W)
 https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
@@ -63,6 +71,8 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6241abce74dd7b31c399b3d3&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=6241abf33679ef42e3971541&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/wLDX7dx.png",08h05 31/03: Costa Rica - USA
 https://tuongbongda.000webhostapp.com/play90p.php?id=6241ac16baf5f939c69dfa52&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://i.imgur.com/X9phJtd.png",14h00 31/03: PSG (W) - Bayern München	(W)
+https://tuongbongda.000webhostapp.com/play90p.php?id=624489c98bb98639dd59c8f2&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/wLDX7dx.png",23h00 01/04: Bốc thăm World Cup 2022
 https://tuongbongda.000webhostapp.com/play90p.php?id=62447e78c6aff63667deb354&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
@@ -81,13 +91,13 @@ https://tuongbongda.000webhostapp.com/playvebotv.php?id=costa-rica-usa-btjdaN7&.
 https://tuongbongda.000webhostapp.com/playvebotv.php?id=honduras-jamaica-zJE7vyh&.m3u8|Referer=https://vebotv.tv/
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/P0n9CX0.png",Ngày mai - 08:05  Panama - Canada
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/P0n9CX0.png",Hôm nay - 08:05  Panama - Canada
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=panama-vs-canada-0805-31-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/P0n9CX0.png",Ngày mai - 08:05  Jamaica - Honduras
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/P0n9CX0.png",Hôm nay - 08:05  Jamaica - Honduras
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=jamaica-vs-honduras-0805-31-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/P0n9CX0.png",Ngày mai - 08:05  Mexico - El Salvador
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/P0n9CX0.png",Hôm nay - 08:05  Mexico - El Salvador
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=mexico-vs-el-salvador-0805-31-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/P0n9CX0.png",Ngày mai - 08:05  Costa Rica - Mỹ
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/P0n9CX0.png",Hôm nay - 08:05  Costa Rica - Mỹ
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=costa-rica-vs-my-0805-31-03&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/P0n9CX0.png",02/04/2022 - 18:30  Liverpool - Watford
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=liverpool-vs-watford-1830-02-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
