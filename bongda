@@ -99,10 +99,10 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=cong-an-nhan-dan-vs-dak-l
 https://tuongbongda.000webhostapp.com/playxembd.php?id=phu-tho-vs-quang-nam-luc-16h00-ngay-01-04-2022&.m3u8|Origin=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_93.png",02/04 - 18:30 Liverpool - Watford
 https://tuongbongda.000webhostapp.com/playxembd.php?id=liverpool-vs-watford-luc-18h30-ngay-02-04-2022&.m3u8|Origin=https://xembd.live/truc-tiep/
-#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_41.png",02/04 - 21:00 Chelsea - Brentford
-https://tuongbongda.000webhostapp.com/playxembd.php?id=chelsea-vs-brentford-luc-21h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_144.png",02/04 - 21:00 Burnley - Manchester City
 https://tuongbongda.000webhostapp.com/playxembd.php?id=burnley-vs-manchester-city-luc-21h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live/truc-tiep/
+#EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_41.png",02/04 - 21:00 Chelsea - Brentford
+https://tuongbongda.000webhostapp.com/playxembd.php?id=chelsea-vs-brentford-luc-21h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_42.png",02/04 - 23:30 Manchester United - Leicester
 https://tuongbongda.000webhostapp.com/playxembd.php?id=manchester-united-vs-leicester-luc-23h30-ngay-02-04-2022&.m3u8|Origin=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_104.png",03/04 - 02:00 Atletico Madrid - Alaves
@@ -123,6 +123,20 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=barcelona-vs-sevilla-luc-
 https://tuongbongda.000webhostapp.com/playxembd.php?id=crystal-palace-vs-arsenal-luc-02h00-ngay-05-04-2022&.m3u8|Origin=https://xembd.live/truc-tiep/
 #EXTINF:-1 group-title="XEMBD by VoPhu - VO PHU" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_116.png",06/04 - 02:00 Manchester City - Atletico Madrid
 https://tuongbongda.000webhostapp.com/playxembd.php?id=manchester-city-vs-atletico-madrid-luc-02h00-ngay-06-04-2022&.m3u8|Origin=https://xembd.live/truc-tiep/
+
+
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/23471/image",31/03/2022 - 00:00 Solomon Islands - New Zealand
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=new-zealand-solomon-islands-elsgFAn&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4781/image",31/03/2022 - 04:00 Mexico - El Salvador
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=el-salvador-mexico-SEtQ7i6&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/5164/image",31/03/2022 - 04:00 Panama - Canada
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=panama-canada-Y4gEWlK&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4756/image",31/03/2022 - 04:00 Costa Rica - USA
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=costa-rica-usa-btjdaN7&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/4769/image",31/03/2022 - 04:00 Jamaica - Honduras
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=honduras-jamaica-zJE7vyh&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.com/api/v1/team/2595/image",01/04/2022 - 23:30 Dynamo Dresden - FC Schalke 04
+https://tuongbongda.000webhostapp.com/playvebotv.php?id=dynamo-dresden-fc-schalke-04-1ERyUke&.m3u8|Referer=https://vebotv.tv/
 
 
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/EtlEltw.png",Ngày mai - 08:05  Panama - Canada
