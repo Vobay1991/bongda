@@ -38,6 +38,8 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/sVs7mg9.png",Nhà đài Barcelona (W) - Real Madrid (W)
+https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - VO PHU" tvg-logo="https://i.imgur.com/X9phJtd.png",23h45 30/03: Barcelona (W) - Real Madrid (W)
 https://tuongbongda.000webhostapp.com/play90p.php?id=624483463679ef42e3971545&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
@@ -110,10 +112,10 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=62433c455036e9026b1d3137
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=62433c495036e9026b1d313b&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",21h00 31/03: RC Relizane - HB Chelghoum Laid
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6243b7e25036e9026b1d348c&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",22h00 31/03: Asante Kotoko SC - Karela United
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=6241d6b95036e9026b1d2d0a&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",22h00 31/03: Accra Lions - Bibiani Gold Stars
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6243b7ef5036e9026b1d349c&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",01h00 01/04: Asante Kotoko SC - Karela United
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6241d6b95036e9026b1d2d0a&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",01h30 02/04: Union Berlin - Köln
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6242ace55036e9026b1d2f53&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",01h45 02/04: Hull - Huddersfield
