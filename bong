@@ -37,8 +37,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/4J6WdN3.png",BLV: Giàng A Lếch
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bZ2zUUv.png",Nhà đài RC Relizane - HB Chelghoum Laid
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="MitomTV by VoPhu - VÕ PHÚ" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 23:00  Bốc Thăm Chia Bảng - World Cup 2022
@@ -142,8 +140,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6244a4fabaf5f939c69dfa5a&.m
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",21h00 31/03: RC Relizane - HB Chelghoum Laid
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=62457acabad1e41803b3c719&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",22h00 31/03: Accra Lions - Bibiani Gold Stars
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=62457accbad1e41803b3c71a&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",22h00 31/03: Asante Kotoko SC - Karela United
