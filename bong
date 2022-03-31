@@ -37,10 +37,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/4J6WdN3.png",BLV: Giàng A Lếch
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlist.m3u8|Referer=https://live.rakhoi1.tv/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bZ2zUUv.png",Nhà đài Accra Lions - Bibiani Gold Stars
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bZ2zUUv.png",Nhà đài Asante Kotoko SC - Karela United
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 
 
 #EXTINF:-1 group-title="MitomTV by VoPhu - VÕ PHÚ" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 23:00  Bốc Thăm Chia Bảng - World Cup 2022
@@ -144,10 +140,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6244a4fabaf5f939c69dfa5a&.m
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",22h00 31/03: Accra Lions - Bibiani Gold Stars
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=62457accbad1e41803b3c71a&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",22h00 31/03: Asante Kotoko SC - Karela United
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=62457e8abad1e41803b3c735&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",23h00 01/04: BỐC THĂM - WORLD CUP 2022
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624514bebad1e41803b3c6ac&.m3u8|Referer=https://live.rakhoi1.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",01h30 02/04: Union Berlin - Köln
