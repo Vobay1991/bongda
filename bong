@@ -85,8 +85,6 @@ https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220316/8519552ab7ea
 https://vod06-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220316/2ac52050f27cba958e2089209051f632.mp4/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bZ2zUUv.png",Nhà đài Hull - Huddersfield
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/sVs7mg9.png",Nhà đài Hull City - Huddersfield Town
 https://jq9sucdqmfliv.vcdn.cloud/may7/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
@@ -96,14 +94,6 @@ https://jq9sucdqmfliv.vcdn.cloud/may71/index.m3u8|Referer= https://xoilac.90phut
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png",HD quốc tế Union Berlin - Köln
-https://2459955770.cloud.anycastapnic.com/pep/x3y2/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png",SD quốc tế Union Berlin - Köln
-https://2459955770.cloud.anycastapnic.com/pep/x3y1/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Union Berlin - Köln
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CMp7bE8.png",SD Union Berlin - Köln
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y3/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png",HD quốc tế Braga - Benfica
 https://2459955770.cloud.anycastapnic.com/pep/x5y2/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png",SD quốc tế Braga - Benfica
@@ -113,8 +103,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y4/playlist.m3u8|Refer
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CMp7bE8.png",SD Braga - Benfica
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y3/playlist.m3u8|Referer=https://saokelive.site/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",01h45 02/04: Hull - Huddersfield
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6242ad575036e9026b1d2f83&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",18h30 02/04: Liverpool - Watford
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6242ac9b5036e9026b1d2f23&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",18h30 02/04: Blackpool - Nottm Forest
@@ -284,8 +272,6 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=crystal-palace-vs-arsen
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",05/04/2022 - 02:00  Real Sociedad - Espanyol
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=real-sociedad-vs-espanyol-0200-05-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",01h30 02/04: Union Berlin - Köln
-https://tuongbongda.000webhostapp.com/playsaoke.php?id=623f83b4c96bfc12b53bc8ae&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h15 02/04: Braga - Benfica
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=623f83c0c96bfc12b53bc8ca&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",10h05 02/04: Western United FC - Central Coast Mariners
