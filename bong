@@ -92,14 +92,6 @@ https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8	|Referer= https://xoilac.90phut
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/KqsOjA8.png",HD Quốc Tế Avispa Fukuoka - Sagan Tosu
-https://2459955770.cloud.anycastapnic.com/pep/x2y2/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Jeae58P.png",SD Quốc Tế Avispa Fukuoka - Sagan Tosu
-https://2459955770.cloud.anycastapnic.com/pep/x2y1/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Avispa Fukuoka - Sagan Tosu
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CMp7bE8.png",SD Avispa Fukuoka - Sagan Tosu
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/KqsOjA8.png",HD Quốc Tế Mekelakeya - Arba Minch Kenema
 https://2459955770.cloud.anycastapnic.com/pep/x5y2/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Jeae58P.png",SD Quốc Tế Mekelakeya - Arba Minch Kenema
@@ -284,8 +276,6 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=crystal-palace-vs-arsen
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",05/04/2022 - 02:00  Real Sociedad - Espanyol
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=real-sociedad-vs-espanyol-0200-05-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",17h00 01/04: Avispa Fukuoka - Sagan Tosu
-https://tuongbongda.000webhostapp.com/playsaoke.php?id=623b8e08dc8d5156d694b738&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",19h00 01/04: Mekelakeya - Arba Minch Kenema
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=623b8e7fdc8d5156d694b73c&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",21h00 01/04: Pakhtakor - Navbahor
