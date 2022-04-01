@@ -93,8 +93,6 @@ https://jq9sucdqmfliv.vcdn.cloud/may61/index.m3u8	|Referer= https://xoilac.90phu
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 América W - Juárez W
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=america-w-vs-juarez-w-0445-02-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Cerro Porteño - 12 de Octubre
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=cerro-porteno-vs-12-de-octubre-0500-02-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Patronato - U. Santa Fe
@@ -239,8 +237,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6246fec9e0d4672fc68e6f37&.m
 
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 04:45  América W - Juárez W
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=america-w-vs-juarez-w-0445-02-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 05:00  Cerro Porteño - 12 de Octubre
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=cerro-porteno-vs-12-de-octubre-0500-02-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 05:00  Patronato - U. Santa Fe
