@@ -93,8 +93,6 @@ https://jq9sucdqmfliv.vcdn.cloud/may61/index.m3u8	|Referer= https://xoilac.90phu
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Cerro Porteño - 12 de Octubre
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=cerro-porteno-vs-12-de-octubre-0500-02-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Patronato - U. Santa Fe
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=patronato-vs-u-santa-fe-0500-02-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Central Córdoba - Huracán
@@ -109,6 +107,16 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=rentistas-vs-penarol-06
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=ohiggins-vs-coquimbo-unido-0630-02-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Dep. La Guaira - Es. Mérida
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=dep-la-guaira-vs-es-merida-0630-02-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Univ. Guadalajara - Tampico Madero
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=univ-guadalajara-vs-tampico-madero-0700-02-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Univ. Guadalajara - Tampico Madero
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=univ-guadalajara-vs-tampico-madero-0700-02-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Uni. Catolica - Barcelona SC
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=uni-catolica-vs-barcelona-sc-0700-02-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Sport Huancayo - Alianza Lima
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=sport-huancayo-vs-alianza-lima-0700-02-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Es. Río Cuarto - Atletico Rafaela
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=es-rio-cuarto-vs-atletico-rafaela-0700-02-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",18h30 02/04: Liverpool - Watford
@@ -237,8 +245,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6246fec9e0d4672fc68e6f37&.m
 
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 05:00  Cerro Porteño - 12 de Octubre
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=cerro-porteno-vs-12-de-octubre-0500-02-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 05:00  Patronato - U. Santa Fe
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=patronato-vs-u-santa-fe-0500-02-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 05:00  Central Córdoba - Huracán
