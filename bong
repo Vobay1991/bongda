@@ -96,14 +96,6 @@ https://179746877.global.cdnfastest.com//live/1830285b2124580452fb69b52e96411c76
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Bốc Thăm Chia Bảng - World Cup 2022
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=boc-tham-chia-bang-vs-world-cup-2022-2300-01-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/KqsOjA8.png",HD Quốc Tế Rubin - Khimki
-https://2459955770.cloud.anycastapnic.com/pep/x4y2/playlist.m3u8|Origin=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Jeae58P.png",SD Quốc Tế Rubin - Khimki
-https://2459955770.cloud.anycastapnic.com/pep/x4y1/playlist.m3u8|Origin=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Rubin - Khimki
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CMp7bE8.png",SD Rubin - Khimki
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y3/playlist.m3u8|Referer=https://saokelive.site/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",01h30 02/04: Union Berlin - Köln
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6242ace55036e9026b1d2f53&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
@@ -282,8 +274,6 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=crystal-palace-vs-arsen
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",05/04/2022 - 02:00  Real Sociedad - Espanyol
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=real-sociedad-vs-espanyol-0200-05-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",23h00 01/04: Rubin - Khimki
-https://tuongbongda.000webhostapp.com/playsaoke.php?id=623b8c78dc8d5156d694b6ee&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",01h30 02/04: Union Berlin - Köln
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=623f83b4c96bfc12b53bc8ae&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h15 02/04: Braga - Benfica
