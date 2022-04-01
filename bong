@@ -85,8 +85,6 @@ https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220316/8519552ab7ea
 https://vod06-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220316/2ac52050f27cba958e2089209051f632.mp4/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bZ2zUUv.png",Nhà đài Union Berlin - Köln
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bZ2zUUv.png",Nhà đài Hull - Huddersfield
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
@@ -115,8 +113,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y4/playlist.m3u8|Refer
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CMp7bE8.png",SD Braga - Benfica
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y3/playlist.m3u8|Referer=https://saokelive.site/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",01h30 02/04: Union Berlin - Köln
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6242ace55036e9026b1d2f53&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",01h45 02/04: Hull - Huddersfield
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6242ad575036e9026b1d2f83&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",18h30 02/04: Liverpool - Watford
