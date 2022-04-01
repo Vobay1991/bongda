@@ -85,6 +85,8 @@ https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220316/8519552ab7ea
 https://vod06-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220316/2ac52050f27cba958e2089209051f632.mp4/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/WNnBfQD.png",Nhà đài Phú Thọ - Quang Nam
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/sVs7mg9.png",Nhà đài Avispa Fukuoka - Sagan Tosu
 https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8	|Referer= https://xoilac.90phutttttttt.xyz/
@@ -109,6 +111,8 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CMp7bE8.png",SD Avispa Fukuoka - Sagan Tosu
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://saokelive.site/
 
+#EXTINF:-1 group-title="CakhiaTV by VoPhu - V-League 2" tvg-logo="https://i.imgur.com/3r5WAjO.png",16h00 01/04: Phú Thọ - Quang Nam
+https://tuongbongda.000webhostapp.com/playcakhia.php?id=624630e9bad1e41803b3c98e&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - World Cup 2022" tvg-logo="https://i.imgur.com/SEmkx2Q.png",23h00 01/04: BỐC THĂM - WORLD CUP 2022
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=624514bebad1e41803b3c6ac&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",01h30 02/04: Union Berlin - Köln
