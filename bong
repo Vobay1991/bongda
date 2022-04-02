@@ -94,8 +94,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=lille-vs-bordeaux-luc-00h
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Man United - Leicester
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saokelive.site/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",00h00 03/04: Lille - Bordeaux
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6245e8fbbad1e41803b3c89f&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
@@ -222,8 +220,6 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=crystal-palace-vs-arsen
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",05/04/2022 - 02:00  Real Sociedad - Espanyol
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=real-sociedad-vs-espanyol-0200-05-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",23h30 02/04: Man United - Leicester
-https://tuongbongda.000webhostapp.com/playsaoke.php?id=623f839fc96bfc12b53bc88b&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 03/04: Atletico Madrid - Deportivo Alaves
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=623f85d6c96bfc12b53bc93f&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",06h00 03/04: Cruz Azul - Atlas
