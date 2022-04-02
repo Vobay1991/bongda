@@ -108,8 +108,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=levante-vs-villarreal-luc
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Chelsea - Brentford
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y4/playlist.m3u8|Referer=https://saokelive.site/
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Championship" tvg-logo="https://i.imgur.com/OblcRny.png",21h00 02/04: Coventry - Blackburn
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6242ad5a5036e9026b1d2f85&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
@@ -188,14 +186,14 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6244a59574dd7b31c399b3d5&.m
 https://tuongbongda.000webhostapp.com/play90p.php?id=6244a42dc6aff63667deb357&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/5MAG9lT.png",22h00 02/04: Nice - Rennes
 https://tuongbongda.000webhostapp.com/play90p.php?id=6244a54c28d9a539bbd2ac81&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/EOlb003.png",23h00 02/04: Lazio - Sassuolo (Nện)
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/EOlb003.png",23h00 02/04: Lazio - Sassuolo
 https://tuongbongda.000webhostapp.com/play90p.php?id=6244a47828d9a539bbd2ac7f&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.imgur.com/uX8ZrwK.png",23h30 02/04: Celta Vigo - Real Madrid (Liu)
-https://tuongbongda.000webhostapp.com/play90p.php?id=6244a448baf5f939c69dfa58&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.imgur.com/wR36vcU.png",23h30 02/04: Dortmund - RB Leipzig
-https://tuongbongda.000webhostapp.com/play90p.php?id=6244a50f3679ef42e3971548&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/HDiqZ2R.png",23h30 02/04: Man Utd - Leicester (Bátman + Thỏ)
 https://tuongbongda.000webhostapp.com/play90p.php?id=6244a3e1baf5f939c69dfa57&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.imgur.com/wR36vcU.png",23h30 02/04: Dortmund - RB Leipzig
+https://tuongbongda.000webhostapp.com/play90p.php?id=6244a50f3679ef42e3971548&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.imgur.com/uX8ZrwK.png",23h30 02/04: Celta Vigo - Real Madrid (Liu)
+https://tuongbongda.000webhostapp.com/play90p.php?id=6244a448baf5f939c69dfa58&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/5MAG9lT.png",00h00 03/04: Lille - Bordeaux
 https://tuongbongda.000webhostapp.com/play90p.php?id=62482b3c28d9a539bbd2ac8a&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/EOlb003.png",01h45 03/04: Salernitana - Torino
@@ -262,8 +260,6 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=crystal-palace-vs-arsen
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",05/04/2022 - 02:00  Real Sociedad - Espanyol
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=real-sociedad-vs-espanyol-0200-05-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",21h00 02/04: Chelsea - Brentford
-https://tuongbongda.000webhostapp.com/playsaoke.php?id=623f83a0c96bfc12b53bc88e&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",23h30 02/04: Man United - Leicester
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=623f839fc96bfc12b53bc88b&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",23h30 02/04: Celta Vigo - Real Madrid
