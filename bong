@@ -93,10 +93,6 @@ https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8	|Referer= https://xoilac.90phut
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Atlético San Luis - Mazatlán
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=atletico-san-luis-vs-mazatlan-0900-02-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Atlético San Luis - Mazatlán
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=atletico-san-luis-vs-mazatlan-0900-02-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Western United - Central Coast Mariners
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=western-united-vs-central-coast-mariners-1005-02-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Western United - Central Coast Mariners
@@ -237,8 +233,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6244a35f3679ef42e3971547&.m
 
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 09:00  Atlético San Luis - Mazatlán
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=atletico-san-luis-vs-mazatlan-0900-02-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 10:05  Western United - Central Coast Mariners
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=western-united-vs-central-coast-mariners-1005-02-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 11:30  Jeonnam Dragons - Seoul E.
