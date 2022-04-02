@@ -113,14 +113,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=liverpool-vs-watford-luc-
 https://tuongbongda.000webhostapp.com/playxembd.php?id=spezia-vs-venezia-luc-20h00-ngay-02-04-2022&.m3u8|Origin=https://xembd.live/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Liverpool - Watford
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=liverpool-vs-watford-1830-02-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Liverpool - Watford
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=liverpool-vs-watford-1830-02-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3GZro6J.png",HD 3 Liverpool - Watford
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=liverpool-vs-watford-1830-02-04/?link=2&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/hi8KEyl.png",HD 4 Liverpool - Watford
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=liverpool-vs-watford-1830-02-04/?link=3&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Liverpool - Watford
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saokelive.site/
@@ -281,8 +273,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=barcelona-vs-sevilla-luc-
 https://tuongbongda.000webhostapp.com/playxembd.php?id=crystal-palace-vs-arsenal-luc-02h00-ngay-05-04-2022&.m3u8|Origin=https://xembd.live/
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 18:30  Liverpool - Watford
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=liverpool-vs-watford-1830-02-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 20:30  SC Freiburg - Bayern Munich
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=sc-freiburg-vs-bayern-munich-2030-02-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 21:00  Burnley - Manchester City
