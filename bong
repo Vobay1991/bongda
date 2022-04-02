@@ -97,10 +97,10 @@ https://jq9sucdqmfliv.vcdn.cloud/may71/index.m3u8	|Referer= https://xoilac.90phu
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Univ. Guadalajara - Tampico Madero
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=univ-guadalajara-vs-tampico-madero-0700-02-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Univ. Guadalajara - Tampico Madero
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=univ-guadalajara-vs-tampico-madero-0700-02-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Atlético San Luis - Mazatlán
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=atletico-san-luis-vs-mazatlan-0900-02-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Atlético San Luis - Mazatlán
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=atletico-san-luis-vs-mazatlan-0900-02-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",18h30 02/04: Liverpool - Watford
@@ -235,8 +235,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=6246ff8a28d9a539bbd2ac85&.m
 
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 07:00  Univ. Guadalajara - Tampico Madero
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=univ-guadalajara-vs-tampico-madero-0700-02-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 09:00  Atlético San Luis - Mazatlán
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=atletico-san-luis-vs-mazatlan-0900-02-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 10:05  Western United - Central Coast Mariners
