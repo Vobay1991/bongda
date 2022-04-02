@@ -103,10 +103,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=atletico-madrid-vs-alaves
 https://tuongbongda.000webhostapp.com/playxembd.php?id=salernitana-vs-torino-luc-01h45-ngay-03-04-2022&.m3u8|Origin=https://xembd.live/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Salernitana - Torino
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=salernitana-vs-torino-0145-03-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Salernitana - Torino
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=salernitana-vs-torino-0145-03-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Atletico Madrid - Dep. Alavés
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=atletico-madrid-vs-dep-alaves-0200-03-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Atletico Madrid - Dep. Alavés
@@ -221,8 +217,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=aston-villa-vs-tottenham-
 https://tuongbongda.000webhostapp.com/playxembd.php?id=clermont-foot-vs-paris-saint-germain-luc-02h00-ngay-10-04-2022&.m3u8|Origin=https://xembd.live/
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 01:45  Salernitana - Torino
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=salernitana-vs-torino-0145-03-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 02:00  Atletico Madrid - Dep. Alavés
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=atletico-madrid-vs-dep-alaves-0200-03-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 17:30  Fiorentina - Empoli
