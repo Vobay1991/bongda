@@ -124,8 +124,6 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=sc-freiburg-vs-bayern-m
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 SC Freiburg - Bayern Munich
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=sc-freiburg-vs-bayern-munich-2030-02-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Liverpool - Watford
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Freiburg - Bayern München
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
 
@@ -269,10 +267,10 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=west-ham-vs-everton-luc-2
 https://tuongbongda.000webhostapp.com/playxembd.php?id=atalanta-vs-napoli-luc-20h00-ngay-03-04-2022&.m3u8|Origin=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_92.png",03/04 - 22:30 Tottenham - Newcastle
 https://tuongbongda.000webhostapp.com/playxembd.php?id=tottenham-vs-newcastle-luc-22h30-ngay-03-04-2022&.m3u8|Origin=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_46.png",04/04 - 01:45 Juventus - Inter
-https://tuongbongda.000webhostapp.com/playxembd.php?id=juventus-vs-inter-luc-01h45-ngay-04-04-2022&.m3u8|Origin=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Ligue 1" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_120.png",04/04 - 01:45 Paris Saint Germain - Lorient
 https://tuongbongda.000webhostapp.com/playxembd.php?id=paris-saint-germain-vs-lorient-luc-01h45-ngay-04-04-2022&.m3u8|Origin=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_46.png",04/04 - 01:45 Juventus - Inter
+https://tuongbongda.000webhostapp.com/playxembd.php?id=juventus-vs-inter-luc-01h45-ngay-04-04-2022&.m3u8|Origin=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_43.png",04/04 - 02:00 Barcelona - Sevilla
 https://tuongbongda.000webhostapp.com/playxembd.php?id=barcelona-vs-sevilla-luc-02h00-ngay-04-04-2022&.m3u8|Origin=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_147.png",05/04 - 02:00 Crystal Palace - Arsenal
@@ -318,8 +316,6 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=crystal-palace-vs-arsen
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",05/04/2022 - 02:00  Real Sociedad - Espanyol
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=real-sociedad-vs-espanyol-0200-05-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",18h30 02/04: Liverpool - Watford
-https://tuongbongda.000webhostapp.com/playsaoke.php?id=623f839bc96bfc12b53bc886&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",20h30 02/04: Freiburg - Bayern München
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=623f83b9c96bfc12b53bc8ba&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",21h00 02/04: Burnley - Man City
