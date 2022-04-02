@@ -85,20 +85,12 @@ https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220316/8519552ab7ea
 https://vod06-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220316/2ac52050f27cba958e2089209051f632.mp4/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bZ2zUUv.png",Nhà đài Lazio - Sassuolo
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bZ2zUUv.png",Nhà đài Man United - Leicester
 https://bb5iqwas4fliv.vcdn.cloud/m201nd/index.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/62hEqpy.png",HD 2 Man United - Leicester
 https://bb5iqwas4fliv.vcdn.cloud/cakhiahd2/index.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/dJHCm7w.png",HD 1 Man United - Leicester
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bZ2zUUv.png",Nhà đài Celta Vigo - Real Madrid
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/62hEqpy.png",HD 2 Celta Vigo - Real Madrid
-https://bb5iqwas4fliv.vcdn.cloud/luhd2/index.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/dJHCm7w.png",HD 1 Celta Vigo - Real Madrid
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bZ2zUUv.png",Nhà đài Dortmund - RB Leipzig
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bZ2zUUv.png",Nhà đài Lille - Bordeaux
@@ -117,26 +109,14 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=manchester-united-vs-leic
 https://tuongbongda.000webhostapp.com/playxembd.php?id=lille-vs-bordeaux-luc-00h00-ngay-03-04-2022&.m3u8|Origin=https://xembd.live/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Man Utd - Leicester City
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=man-utd-vs-leicester-city-2330-02-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Man Utd - Leicester City
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=man-utd-vs-leicester-city-2330-02-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3GZro6J.png",HD 3 Man Utd - Leicester City
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=man-utd-vs-leicester-city-2330-02-04/?link=2&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/hi8KEyl.png",HD 4 Man Utd - Leicester City
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=man-utd-vs-leicester-city-2330-02-04/?link=3&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Man United - Leicester
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Celta Vigo - Real Madrid
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/nm5wBbH.png",23h00 02/04: Lazio - Sassuolo
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6242accd5036e9026b1d2f4c&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/9XC0s0N.png",23h30 02/04: Man United - Leicester
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6242aca25036e9026b1d2f35&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/9ZM7PBv.png",23h30 02/04: Celta Vigo - Real Madrid
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6242acb95036e9026b1d2f41&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/npTaUmJ.png",23h30 02/04: Dortmund - RB Leipzig
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6242aced5036e9026b1d2f65&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/AXsfkxa.png",00h00 03/04: Lille - Bordeaux
@@ -245,8 +225,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=southampton-vs-chelsea-lu
 https://tuongbongda.000webhostapp.com/playxembd.php?id=aston-villa-vs-tottenham-luc-23h30-ngay-09-04-2022&.m3u8|Origin=https://xembd.live/
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",02/04/2022 - 23:30  Man Utd - Leicester City
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=man-utd-vs-leicester-city-2330-02-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 01:45  Salernitana - Torino
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=salernitana-vs-torino-0145-03-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 02:00  Atletico Madrid - Dep. Alavés
