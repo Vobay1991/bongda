@@ -97,6 +97,10 @@ https://jq9sucdqmfliv.vcdn.cloud/may6/index.m3u8	|Referer= https://xoilac.90phut
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=western-united-vs-central-coast-mariners-1005-02-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Western United - Central Coast Mariners
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=western-united-vs-central-coast-mariners-1005-02-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Jeonnam Dragons - Seoul E.
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=jeonnam-dragons-vs-seoul-e-1130-02-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Jeonnam Dragons - Seoul E.
+https://tuongbongda.000webhostapp.com/playmitomtv.php?id=jeonnam-dragons-vs-seoul-e-1130-02-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Western United FC - Central Coast Mariners
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y4/playlist.m3u8|Referer=https://saokelive.site/
