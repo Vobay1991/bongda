@@ -85,8 +85,6 @@ https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220316/8519552ab7ea
 https://vod06-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220316/2ac52050f27cba958e2089209051f632.mp4/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bZ2zUUv.png",Nhà đài Sampdoria - Roma
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bZ2zUUv.png",Nhà đài Granada - Rayo Vallecano
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bZ2zUUv.png",Nhà đài Valencia - Cadiz
@@ -103,8 +101,6 @@ https://179746877.global.cdnfastest.com//live/1830285b2124580452fb69b52e96411c76
 https://livestream-2.socialstreaming.tv/live/6249bae59d19fb001d1b8dad/6249bae59d19fb001d1b8dad.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/wEDHypD.png",23h00 03/04: Sampdoria - Roma
-https://tuongbongda.000webhostapp.com/playcakhia.php?id=6246b339bad1e41803b3ca7d&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/L5NYCXJ.png",23h30 03/04: Granada - Rayo Vallecano
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6246b34abad1e41803b3ca81&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/L5NYCXJ.png",23h30 03/04: Valencia - Cadiz
