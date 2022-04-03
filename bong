@@ -110,10 +110,6 @@ https://tuongbongda.000webhostapp.com/playxembd.php?id=strasbourg-vs-lens-luc-18
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Fiorentina - Empoli
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CMp7bE8.png",SD Fiorentina - Empoli
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y3/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/zcMCB4v.png",HD Athletic Club - Elche
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CMp7bE8.png",SD Athletic Club - Elche
@@ -164,8 +160,6 @@ https://tuongbongda.000webhostapp.com/playcakhia.php?id=6246b39abad1e41803b3ca95
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/qOCtXkQ.png",19h15 04/04: Viettel - Ha Noi FC
 https://tuongbongda.000webhostapp.com/playcakhia.php?id=6248acb7bad1e41803b3d1fc&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/EOlb003.png",17h30 03/04: Fiorentina - Empoli
-https://tuongbongda.000webhostapp.com/play90p.php?id=6248291ec6aff63667deb35b&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/5MAG9lT.png",18h00 03/04: Strasbourg - Lens
 https://tuongbongda.000webhostapp.com/play90p.php?id=62482bc8c6aff63667deb35e&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.imgur.com/uX8ZrwK.png",19h00 03/04: Athletic Club - Elche
@@ -250,8 +244,6 @@ https://tuongbongda.000webhostapp.com/playmitomtv.php?id=chelsea-vs-real-madrid-
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",07/04/2022 - 02:00  Villarreal - FC Bayern München
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=villarreal-vs-fc-bayern-munchen-0200-07-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",17h30 03/04: Fiorentina - Empoli
-https://tuongbongda.000webhostapp.com/playsaoke.php?id=623f85dec96bfc12b53bc954&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",19h00 03/04: Athletic Club - Elche
 https://tuongbongda.000webhostapp.com/playsaoke.php?id=623f85d7c96bfc12b53bc942&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",20h00 03/04: West Ham - Everton
