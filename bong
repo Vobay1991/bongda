@@ -112,7 +112,7 @@ https://2459955770.cloud.anycastapnic.com/pep/x5y2/playlist.m3u8|Referer=https:/
 https://2459955770.cloud.anycastapnic.com/pep/x5y1/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png", Milan - Bologna
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CMp7bE8.png",SD Milan - Bologna
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png", Milan - Bologna
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y3/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/gybd29Y.png",HD Crystal Palace - Arsenal
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
@@ -192,9 +192,15 @@ https://hdsd77.000webhostapp.com/playsaoke.php?id=624209a6a7e6a16aaf19e191&.m3u8
 https://hdsd77.000webhostapp.com/playsaoke.php?id=62420a84a7e6a16aaf19e1d9&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",08h00 05/04: Once Caldas - Bucaramanga
 https://hdsd77.000webhostapp.com/playsaoke.php?id=62420a89a7e6a16aaf19e1e6&.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",13h00 05/04: Timor-Leste - Việt Nam
+https://hdsd77.000webhostapp.com/playsaoke.php?id=6248363a93cb8a1d4e5c476d&.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",16h05 05/04: Central Coast Mariners - Wellington Phoenix
+https://hdsd77.000webhostapp.com/playsaoke.php?id=62420a76a7e6a16aaf19e1b7&.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",17h00 05/04: Quang Nam - Binh Duong
+https://hdsd77.000webhostapp.com/playsaoke.php?id=624ac6f893cb8a1d4e5c5490&.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",18h00 05/04: Hong Linh Ha Tinh - Nam Dinh
+https://hdsd77.000webhostapp.com/playsaoke.php?id=624b428f93cb8a1d4e5c570e&.m3u8|Referer=https://saokelive.site/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/EOlb003.png",23h30 04/04: Hellas Verona - Genoa
-https://hdsd77.000webhostapp.com/play90p.php?id=62482eb58bb98639dd59c8fe&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/EOlb003.png",01h45 05/04: Milan - Bologna (BLV Người Thỏ)
 https://hdsd77.000webhostapp.com/play90p.php?id=62482fef92893b39d1704b96&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/HDiqZ2R.png",02h00 05/04: Crystal Palace - Arsenal
