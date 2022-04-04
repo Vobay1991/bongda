@@ -100,10 +100,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tkQXRP2.png",Nhà đài Real Sociedad - Espanyol
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/gybd29Y.png",HD Istanbul Başakşehir - Yeni Malatyaspor
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CMp7bE8.png",SD Istanbul Başakşehir - Yeni Malatyaspor
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y3/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png",Nhà đài Milan - Bologna
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x3/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png", Milan - Bologna
@@ -182,8 +178,6 @@ https://hdsd77.000webhostapp.com/playcakhia.php?id=6249aca3bad1e41803b3d500&.m3u
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/TjNDl6q.png",02h00 07/04: Villarreal - Bayern München
 https://hdsd77.000webhostapp.com/playcakhia.php?id=6249aca6bad1e41803b3d501&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",00h30 05/04: Istanbul Başakşehir - Yeni Malatyaspor
-https://hdsd77.000webhostapp.com/playsaoke.php?id=624209afa7e6a16aaf19e1a1&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",01h45 05/04: Milan - Bologna
 https://hdsd77.000webhostapp.com/playsaoke.php?id=624209a9a7e6a16aaf19e193&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 05/04: Crystal Palace - Arsenal
