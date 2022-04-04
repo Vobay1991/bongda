@@ -92,14 +92,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y4/playlist.m3u8|Refer
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y3/playlist.m3u8|Referer=https://saokelive.site/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Tigres UANL - Tijuana
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=tigres-uanl-vs-tijuana-0700-04-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Tigres UANL - Tijuana
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=tigres-uanl-vs-tijuana-0700-04-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Santos Laguna - Pachuca
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=santos-laguna-vs-pachuca-0700-04-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Santos Laguna - Pachuca
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=santos-laguna-vs-pachuca-0700-04-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
 
@@ -166,10 +158,6 @@ https://tuongbongda.000webhostapp.com/play90p.php?id=62482f9d92893b39d1704b95&.m
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.imgur.com/uX8ZrwK.png",02h00 05/04: Real Sociedad - Espanyol
 https://tuongbongda.000webhostapp.com/play90p.php?id=62482fc528d9a539bbd2ac90&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 07:00  Tigres UANL - Tijuana
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=tigres-uanl-vs-tijuana-0700-04-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 07:00  Santos Laguna - Pachuca
-https://tuongbongda.000webhostapp.com/playmitomtv.php?id=santos-laguna-vs-pachuca-0700-04-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 15:30  Phù Đổng - Phố Hiến
 https://tuongbongda.000webhostapp.com/playmitomtv.php?id=phu-dong-vs-pho-hien-1530-04-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 19:15  Viettel - Ha Noi
