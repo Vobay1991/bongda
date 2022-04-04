@@ -85,8 +85,6 @@ https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220316/8519552ab7ea
 https://vod06-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220316/2ac52050f27cba958e2089209051f632.mp4/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tkQXRP2.png",Nhà đài Hellas Verona - Genoa
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/gybd29Y.png",HD Hellas Verona - Genoa
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saokelive.site/
@@ -98,21 +96,9 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y4/playlist.m3u8|Refer
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y3/playlist.m3u8|Referer=https://saokelive.site/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Hellas Verona - Genoa
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=hellas-verona-vs-genoa-2330-04-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Hellas Verona - Genoa
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=hellas-verona-vs-genoa-2330-04-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3GZro6J.png",HD 3 Hellas Verona - Genoa
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=hellas-verona-vs-genoa-2330-04-04/?link=2&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/hi8KEyl.png",HD 4 Hellas Verona - Genoa
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=hellas-verona-vs-genoa-2330-04-04/?link=3&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Verona - Genoa
-https://hdsd77.000webhostapp.com/playxembd.php?id=verona-vs-genoa-luc-23h30-ngay-04-04-2022&.m3u8|Origin=https://xembd.live/
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/wEDHypD.png",23h30 04/04: Hellas Verona - Genoa
-https://hdsd77.000webhostapp.com/playcakhia.php?id=6249c110bad1e41803b3d56e&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/wEDHypD.png",01h45 05/04: Milan - Bologna
 https://hdsd77.000webhostapp.com/playcakhia.php?id=6249ab87bad1e41803b3d4dc&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",02h00 05/04: Crystal Palace - Arsenal
@@ -170,8 +156,6 @@ https://hdsd77.000webhostapp.com/play90p.php?id=624b004dc6aff63667deb363&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/K0Yghs8/IMG-20211018-153225.png",02h00 07/04: Villarreal - Bayern München
 https://hdsd77.000webhostapp.com/play90p.php?id=624b0090c6aff63667deb364&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",04/04/2022 - 23:30  Hellas Verona - Genoa
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=hellas-verona-vs-genoa-2330-04-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 01:45  Milan - Bologna
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=milan-vs-bologna-0145-05-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 02:00  Crystal Palace - Arsenal
