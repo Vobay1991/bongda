@@ -96,11 +96,25 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlis
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y4/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CMp7bE8.png",SD Istanbul Başakşehir - Yeni Malatyaspor
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y3/playlist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png",Nhà đài Milan - Bologna
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x3/playlist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png", Milan - Bologna
+https://2459955770.cloud.anycastapnic.com/pep/x5y2/playlist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png", Milan - Bologna
+https://2459955770.cloud.anycastapnic.com/pep/x5y1/playlist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png", Milan - Bologna
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y4/playlist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CMp7bE8.png",SD Milan - Bologna
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y3/playlist.m3u8|Referer=https://saokelive.site/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/qwI2A9W.png",HD Milan - Bologna (BLV Người Thỏ)
 https://179235864.global.cdnfastest.com/live/1835978343a56044e44ac7f11057e93569a/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/23tFuty.png",FHD Milan - Bologna (BLV Người Thỏ)
 https://livestream-2.socialstreaming.tv/live/624b32969aaf60001c9949f5/624b32969aaf60001c9949f5.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/qwI2A9W.png",HD Crystal Palace - Arsenal
+https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/23tFuty.png",FHD Crystal Palace - Arsenal
+https://livestream.socialstreaming.tv/live/624b34b0793b03001c8297f5/624b34b0793b03001c8297f5.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Milan - Bologna
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=milan-vs-bologna-0145-05-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
@@ -113,6 +127,8 @@ https://hdsd77.000webhostapp.com/playmitomtv.php?id=milan-vs-bologna-0145-05-04/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Real Sociedad - Espanyol
 https://hdsd77.000webhostapp.com/playxembd.php?id=real-sociedad-vs-espanyol-luc-02h00-ngay-05-04-2022&.m3u8|Origin=https://xembd.live/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Crystal Palace - Arsenal
+https://hdsd77.000webhostapp.com/playxembd.php?id=crystal-palace-vs-arsenal-luc-02h00-ngay-05-04-2022&.m3u8|Origin=https://xembd.live/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",AC Milan - Bologna
 https://hdsd77.000webhostapp.com/playxembd.php?id=ac-milan-vs-bologna-luc-01h45-ngay-05-04-2022&.m3u8|Origin=https://xembd.live/
 
@@ -201,8 +217,6 @@ https://hdsd77.000webhostapp.com/playmitomtv.php?id=sporting-braga-vs-rangers-02
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",08/04/2022 - 02:00  Leicester City - PSV
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=leicester-city-vs-psv-0200-08-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_147.png",05/04 - 02:00 Crystal Palace - Arsenal
-https://hdsd77.000webhostapp.com/playxembd.php?id=crystal-palace-vs-arsenal-luc-02h00-ngay-05-04-2022&.m3u8|Origin=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_89.png",09/04 - 18:30 Everton - Manchester United
 https://hdsd77.000webhostapp.com/playxembd.php?id=everton-vs-manchester-united-luc-18h30-ngay-09-04-2022&.m3u8|Origin=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_60.png",09/04 - 21:00 Arsenal - Brighton
