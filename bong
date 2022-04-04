@@ -85,12 +85,6 @@ https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220316/8519552ab7ea
 https://vod06-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220316/2ac52050f27cba958e2089209051f632.mp4/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tkQXRP2.png",Nhà đài Milan - Bologna
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/62hEqpy.png",HD 2 Milan - Bologna
-https://bb5iqwas4fliv.vcdn.cloud/lechhd2/index.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/73iKsfa.png",HD 1 Milan - Bologna
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tkQXRP2.png",Nhà đài Crystal Palace - Arsenal
 https://bb5iqwas4fliv.vcdn.cloud/m201nd/index.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/62hEqpy.png",HD 2 Crystal Palace - Arsenal
@@ -100,16 +94,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tkQXRP2.png",Nhà đài Real Sociedad - Espanyol
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png",Nhà đài Milan - Bologna
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@saoke3x3/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png", Milan - Bologna
-https://2459955770.cloud.anycastapnic.com/pep/x5y2/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png", Milan - Bologna
-https://2459955770.cloud.anycastapnic.com/pep/x5y1/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png", Milan - Bologna
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png", Milan - Bologna
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y3/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/gybd29Y.png",HD Crystal Palace - Arsenal
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/CMp7bE8.png",SD Crystal Palace - Arsenal
@@ -124,14 +108,6 @@ https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/23tFuty.png",FHD Crystal Palace - Arsenal
 https://livestream.socialstreaming.tv/live/624b34b0793b03001c8297f5/624b34b0793b03001c8297f5.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Milan - Bologna
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=milan-vs-bologna-0145-05-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Milan - Bologna
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=milan-vs-bologna-0145-05-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/3GZro6J.png",HD 3 Milan - Bologna
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=milan-vs-bologna-0145-05-04/?link=2&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/hi8KEyl.png",HD 4 Milan - Bologna
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=milan-vs-bologna-0145-05-04/?link=3&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Crystal Palace - Arsenal
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=crystal-palace-vs-arsenal-0200-05-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Crystal Palace - Arsenal
@@ -157,8 +133,6 @@ https://hdsd77.000webhostapp.com/playxembd.php?id=real-sociedad-vs-espanyol-luc-
 https://hdsd77.000webhostapp.com/playxembd.php?id=ac-milan-vs-bologna-luc-01h45-ngay-05-04-2022&.m3u8|Origin=https://xembd.live/
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/wEDHypD.png",01h45 05/04: Milan - Bologna
-https://hdsd77.000webhostapp.com/playcakhia.php?id=6249ab87bad1e41803b3d4dc&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",02h00 05/04: Crystal Palace - Arsenal
 https://hdsd77.000webhostapp.com/playcakhia.php?id=6249ab89bad1e41803b3d4dd&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/L5NYCXJ.png",02h00 05/04: Real Sociedad - Espanyol
@@ -178,8 +152,6 @@ https://hdsd77.000webhostapp.com/playcakhia.php?id=6249aca3bad1e41803b3d500&.m3u
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/TjNDl6q.png",02h00 07/04: Villarreal - Bayern München
 https://hdsd77.000webhostapp.com/playcakhia.php?id=6249aca6bad1e41803b3d501&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",01h45 05/04: Milan - Bologna
-https://hdsd77.000webhostapp.com/playsaoke.php?id=624209a9a7e6a16aaf19e193&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 05/04: Crystal Palace - Arsenal
 https://hdsd77.000webhostapp.com/playsaoke.php?id=624209a6a7e6a16aaf19e191&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",04h00 05/04: Cortulua - Deportivo Pasto
@@ -228,8 +200,6 @@ https://hdsd77.000webhostapp.com/play90p.php?id=624b004dc6aff63667deb363&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.ibb.co/K0Yghs8/IMG-20211018-153225.png",02h00 07/04: Villarreal - Bayern München
 https://hdsd77.000webhostapp.com/play90p.php?id=624b0090c6aff63667deb364&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 01:45  Milan - Bologna
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=milan-vs-bologna-0145-05-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 02:00  Crystal Palace - Arsenal
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=crystal-palace-vs-arsenal-0200-05-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 02:00  Real Sociedad - Espanyol
