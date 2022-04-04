@@ -85,8 +85,6 @@ https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220316/8519552ab7ea
 https://vod06-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220316/2ac52050f27cba958e2089209051f632.mp4/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/tkQXRP2.png",Nhà đài Tobol Kostanay - FC Turan
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/gybd29Y.png",HD Vozdovac - FK Radnik Surdulica
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y4/playlist.m3u8|Referer=https://saokelive.site/
@@ -97,8 +95,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y3/playlist.m3u8|Refer
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",20h00 04/04: Tobol Kostanay - FC Turan
-https://hdsd77.000webhostapp.com/playcakhia.php?id=6249d117bad1e41803b3d5ba&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/wEDHypD.png",23h30 04/04: Hellas Verona - Genoa
 https://hdsd77.000webhostapp.com/playcakhia.php?id=6249c110bad1e41803b3d56e&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/wEDHypD.png",01h45 05/04: Milan - Bologna
