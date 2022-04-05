@@ -85,10 +85,6 @@ https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220316/8519552ab7ea
 https://vod06-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220316/2ac52050f27cba958e2089209051f632.mp4/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/g9ZQu3p.png",HD Sarawak United - Penang FC
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/7GipKaV.png",SD Sarawak United - Penang FC
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechsd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
 
 
@@ -102,8 +98,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Refer
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y3/playlist.m3u8|Referer=https://saokelive.site/
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/uB4cWUM.png",20h15 05/04: Sarawak United - Penang FC
-https://hdsd77.000webhostapp.com/playcakhia.php?id=624b700fbad1e41803b3db58&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/uB4cWUM.png",21h00 05/04: Melaka United - Sabah FA
 https://hdsd77.000webhostapp.com/playcakhia.php?id=624b7011bad1e41803b3db5c&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/uB4cWUM.png",21h00 05/04: Negeri Sembilan - Selangor
@@ -183,8 +177,6 @@ https://hdsd77.000webhostapp.com/playcakhia.php?id=624c3bacbad1e41803b3dd4e&.m3u
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/uB4cWUM.png",23h45 07/04: Feyenoord - Slavia Prague
 https://hdsd77.000webhostapp.com/playcakhia.php?id=624c3bc0bad1e41803b3dd52&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",20h15 05/04: Sarawak United - Penang FC
-https://hdsd77.000webhostapp.com/playcakhia.php?id=624b700fbad1e41803b3db58&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",21h00 05/04: Melaka United - Sabah FA
 https://hdsd77.000webhostapp.com/playcakhia.php?id=624b7011bad1e41803b3db5c&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",21h00 05/04: Negeri Sembilan - Selangor
@@ -264,8 +256,6 @@ https://hdsd77.000webhostapp.com/playcakhia.php?id=624c3bacbad1e41803b3dd4e&.m3u
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",23h45 07/04: Feyenoord - Slavia Prague
 https://hdsd77.000webhostapp.com/playcakhia.php?id=624c3bc0bad1e41803b3dd52&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",20h15 05/04: Sarawak United - Penang FC
-https://hdsd77.000webhostapp.com/playcakhia.php?id=624b700fbad1e41803b3db58&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",21h00 05/04: Melaka United - Sabah FA
 https://hdsd77.000webhostapp.com/playcakhia.php?id=624b7011bad1e41803b3db5c&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",21h00 05/04: Negeri Sembilan - Selangor
