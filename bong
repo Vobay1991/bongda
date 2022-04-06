@@ -122,8 +122,6 @@ https://jq9sucdqmfliv.vcdn.cloud/may11/index.m3u8|Referer= https://xoilac.90phut
 https://hdsd77.000webhostapp.com/playxembd.php?id=chelsea-vs-real-madrid-luc-02h00-ngay-07-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Villarreal - Bayern Munich
 https://hdsd77.000webhostapp.com/playxembd.php?id=villarreal-vs-bayern-munich-luc-02h00-ngay-07-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Burnley - Everton
-https://hdsd77.000webhostapp.com/playxembd.php?id=burnley-vs-everton-luc-01h30-ngay-07-04-2022&.m3u8|Origin=https://xembd.live
 
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",01h30 07/04: Burnley - Everton
@@ -509,17 +507,15 @@ https://hdsd77.000webhostapp.com/playxembd.php?id=manchester-city-vs-liverpool-l
 https://hdsd77.000webhostapp.com/playxembd.php?id=levante-vs-barcelona-luc-02h00-ngay-11-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_154.png",12/04 - 02:00 Rayo Vallecano - Valencia
 https://hdsd77.000webhostapp.com/playxembd.php?id=rayo-vallecano-vs-valencia-luc-02h00-ngay-12-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_124.png",13/04 - 02:00 Real Madrid - Chelsea
-https://hdsd77.000webhostapp.com/playxembd.php?id=real-madrid-vs-chelsea-luc-02h00-ngay-13-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_32.png",13/04 - 02:00 Bayern Munich - Villarreal
 https://hdsd77.000webhostapp.com/playxembd.php?id=bayern-munich-vs-villarreal-luc-02h00-ngay-13-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_124.png",13/04 - 02:00 Real Madrid - Chelsea
+https://hdsd77.000webhostapp.com/playxembd.php?id=real-madrid-vs-chelsea-luc-02h00-ngay-13-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_104.png",14/04 - 02:00 Atletico Madrid - Manchester City
 https://hdsd77.000webhostapp.com/playxembd.php?id=atletico-madrid-vs-manchester-city-luc-02h00-ngay-14-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_93.png",14/04 - 02:00 Liverpool - Benfica
 https://hdsd77.000webhostapp.com/playxembd.php?id=liverpool-vs-benfica-luc-02h00-ngay-14-04-2022&.m3u8|Origin=https://xembd.live
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/6/image", -  Burnley - Everton
-https://hdsd77.000webhostapp.com/playvebotv.php?id=burnley-everton-lktWFCK&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2819/image", -  Villarreal - Bayern München
 https://hdsd77.000webhostapp.com/playvebotv.php?id=villarreal-bayern-munchen-ZWXadZS&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/38/image", -  Chelsea - Real Madrid
@@ -530,3 +526,5 @@ https://hdsd77.000webhostapp.com/playvebotv.php?id=rb-leipzig-atalanta-grL9Y5j&.
 https://hdsd77.000webhostapp.com/playvebotv.php?id=west-ham-united-olympique-lyonnais-8Ug9OYK&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2674/image",08/04/2022 - 02:00 Eintracht Frankfurt - Barcelona
 https://hdsd77.000webhostapp.com/playvebotv.php?id=barcelona-eintracht-frankfurt-KsDSy59&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2999/image",08/04/2022 - 02:00 Sporting Braga - Rangers
+https://hdsd77.000webhostapp.com/playvebotv.php?id=sporting-braga-rangers-q07SXfN&.m3u8|Referer=https://vebotv.tv/
