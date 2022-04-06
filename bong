@@ -125,6 +125,7 @@ https://hdsd77.000webhostapp.com/playxembd.php?id=villarreal-vs-bayern-munich-lu
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Burnley - Everton
 https://hdsd77.000webhostapp.com/playxembd.php?id=burnley-vs-everton-luc-01h30-ngay-07-04-2022&.m3u8|Origin=https://xembd.live
 
+
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",01h30 07/04: Burnley - Everton
 https://hdsd77.000webhostapp.com/playcakhia.php?id=6249ac9cbad1e41803b3d4f8&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/TjNDl6q.png",02h00 07/04: Chelsea - Real Madrid
@@ -516,3 +517,16 @@ https://hdsd77.000webhostapp.com/playxembd.php?id=bayern-munich-vs-villarreal-lu
 https://hdsd77.000webhostapp.com/playxembd.php?id=atletico-madrid-vs-manchester-city-luc-02h00-ngay-14-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_93.png",14/04 - 02:00 Liverpool - Benfica
 https://hdsd77.000webhostapp.com/playxembd.php?id=liverpool-vs-benfica-luc-02h00-ngay-14-04-2022&.m3u8|Origin=https://xembd.live
+
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/6/image", -  Burnley - Everton
+https://hdsd77.000webhostapp.com/playvebotv.php?id=burnley-everton-lktWFCK&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2819/image", -  Villarreal - Bayern München
+https://hdsd77.000webhostapp.com/playvebotv.php?id=villarreal-bayern-munchen-ZWXadZS&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/38/image", -  Chelsea - Real Madrid
+https://hdsd77.000webhostapp.com/playvebotv.php?id=chelsea-real-madrid-ym1LCLR&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/36360/image",07/04/2022 - 23:45 RB Leipzig - Atalanta
+https://hdsd77.000webhostapp.com/playvebotv.php?id=rb-leipzig-atalanta-grL9Y5j&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/37/image",08/04/2022 - 02:00 West Ham United - Olympique Lyonnais
+https://hdsd77.000webhostapp.com/playvebotv.php?id=west-ham-united-olympique-lyonnais-8Ug9OYK&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2674/image",08/04/2022 - 02:00 Eintracht Frankfurt - Barcelona
+https://hdsd77.000webhostapp.com/playvebotv.php?id=barcelona-eintracht-frankfurt-KsDSy59&.m3u8|Referer=https://vebotv.tv/
