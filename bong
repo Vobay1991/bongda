@@ -58,25 +58,9 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquahd1/playli
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Thái Lan - Việt Nam
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Thái Lan - Việt Nam
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk3/playlist.m3u8|Referer=https://saokelive.site/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Vietnam - Thailand
-https://hdsd77.000webhostapp.com/playxembd.php?id=vietnam-vs-thailand-3&.m3u8|Referer=https://xembd.live/
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",21h00 08/04: Ararat Armenia - Urartu FC
-https://hdsd77.000webhostapp.com/playcakhia.php?id=624fdfdc5c6de3760c503fd1&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/GxqSdce.png",01h30 09/04: VfB Stuttgart - Dortmund
-https://hdsd77.000webhostapp.com/playcakhia.php?id=624d941c5c6de3760c5038d2&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",02h00 09/04: Newcastle - Wolves
-https://hdsd77.000webhostapp.com/playcakhia.php?id=624d93a35c6de3760c5038a2&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/L5NYCXJ.png",02h00 09/04: Sevilla - Granada
-https://hdsd77.000webhostapp.com/playcakhia.php?id=624d93d85c6de3760c5038ba&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/I4ngAuh.png",02h00 09/04: Lorient - Saint-Etienne
-https://hdsd77.000webhostapp.com/playcakhia.php?id=624d94505c6de3760c5038f2&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/qOCtXkQ.png",17h00 09/04: Hoang Anh Gia Lai - Hong Linh Ha Tinh
 https://hdsd77.000webhostapp.com/playcakhia.php?id=624f220a5c6de3760c503e87&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",18h30 09/04: Everton - Man United
@@ -110,7 +94,7 @@ https://hdsd77.000webhostapp.com/playcakhia.php?id=624d93cd5c6de3760c5038b6&.m3u
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/L5NYCXJ.png",23h30 09/04: Villarreal - Athletic Club
 https://hdsd77.000webhostapp.com/playcakhia.php?id=624d93f15c6de3760c5038c6&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/GxqSdce.png",23h30 09/04: Hertha BSC - Union Berlin
-https://hdsd77.000webhostapp.com/playcakhia.php?id=624d94235c6de3760c5038e3&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+https://hdsd77.000webhostapp.com/playcakhia.php?id=62509ae55c6de3760c504363&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/wEDHypD.png",01h45 10/04: Cagliari - Juventus
 https://hdsd77.000webhostapp.com/playcakhia.php?id=624d952d5c6de3760c503923&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/L5NYCXJ.png",02h00 10/04: Real Madrid - Getafe
@@ -153,19 +137,7 @@ https://hdsd77.000webhostapp.com/playcakhia.php?id=624d94c85c6de3760c503908&.m3u
 https://hdsd77.000webhostapp.com/playcakhia.php?id=624d95785c6de3760c503940&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/wEDHypD.png",23h00 10/04: Roma - Salernitana
 https://hdsd77.000webhostapp.com/playcakhia.php?id=624d953e5c6de3760c503937&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/L5NYCXJ.png",23h30 10/04: Elche - Real Sociedad
-https://hdsd77.000webhostapp.com/playcakhia.php?id=624d94e75c6de3760c503918&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/1vSTtot.png",21h00 08/04: Ararat Armenia - Urartu FC
-https://hdsd77.000webhostapp.com/playcakhia.php?id=624fdfdc5c6de3760c503fd1&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/bfPmRKD.png",01h30 09/04: VfB Stuttgart - Dortmund
-https://hdsd77.000webhostapp.com/playcakhia.php?id=624d941c5c6de3760c5038d2&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/1vSTtot.png",02h00 09/04: Newcastle - Wolves
-https://hdsd77.000webhostapp.com/playcakhia.php?id=624d93a35c6de3760c5038a2&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/LrPcktX.png",02h00 09/04: Sevilla - Granada
-https://hdsd77.000webhostapp.com/playcakhia.php?id=624d93d85c6de3760c5038ba&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/KRbqUt4.png",02h00 09/04: Lorient - Saint-Etienne
-https://hdsd77.000webhostapp.com/playcakhia.php?id=624d94505c6de3760c5038f2&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/V8gupfP.png",17h00 09/04: Hoang Anh Gia Lai - Hong Linh Ha Tinh
 https://hdsd77.000webhostapp.com/playcakhia.php?id=624f220a5c6de3760c503e87&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/1vSTtot.png",18h30 09/04: Everton - Man United
@@ -199,7 +171,7 @@ https://hdsd77.000webhostapp.com/playcakhia.php?id=624d93cd5c6de3760c5038b6&.m3u
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/LrPcktX.png",23h30 09/04: Villarreal - Athletic Club
 https://hdsd77.000webhostapp.com/playcakhia.php?id=624d93f15c6de3760c5038c6&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/bfPmRKD.png",23h30 09/04: Hertha BSC - Union Berlin
-https://hdsd77.000webhostapp.com/playcakhia.php?id=624d94235c6de3760c5038e3&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+https://hdsd77.000webhostapp.com/playcakhia.php?id=62509ae55c6de3760c504363&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/VmkB5bj.png",01h45 10/04: Cagliari - Juventus
 https://hdsd77.000webhostapp.com/playcakhia.php?id=624d952d5c6de3760c503923&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/LrPcktX.png",02h00 10/04: Real Madrid - Getafe
@@ -242,19 +214,7 @@ https://hdsd77.000webhostapp.com/playcakhia.php?id=624d94c85c6de3760c503908&.m3u
 https://hdsd77.000webhostapp.com/playcakhia.php?id=624d95785c6de3760c503940&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/VmkB5bj.png",23h00 10/04: Roma - Salernitana
 https://hdsd77.000webhostapp.com/playcakhia.php?id=624d953e5c6de3760c503937&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/LrPcktX.png",23h30 10/04: Elche - Real Sociedad
-https://hdsd77.000webhostapp.com/playcakhia.php?id=624d94e75c6de3760c503918&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/tVYLz5f.png",21h00 08/04: Ararat Armenia - Urartu FC
-https://hdsd77.000webhostapp.com/playcakhia.php?id=624fdfdc5c6de3760c503fd1&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/HM5t4KB.png",01h30 09/04: VfB Stuttgart - Dortmund
-https://hdsd77.000webhostapp.com/playcakhia.php?id=624d941c5c6de3760c5038d2&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/tVYLz5f.png",02h00 09/04: Newcastle - Wolves
-https://hdsd77.000webhostapp.com/playcakhia.php?id=624d93a35c6de3760c5038a2&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/OCezeBy.png",02h00 09/04: Sevilla - Granada
-https://hdsd77.000webhostapp.com/playcakhia.php?id=624d93d85c6de3760c5038ba&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/wgOO09Z.png",02h00 09/04: Lorient - Saint-Etienne
-https://hdsd77.000webhostapp.com/playcakhia.php?id=624d94505c6de3760c5038f2&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - V-League" tvg-logo="https://i.imgur.com/66eHrae.png",17h00 09/04: Hoang Anh Gia Lai - Hong Linh Ha Tinh
 https://hdsd77.000webhostapp.com/playcakhia.php?id=624f220a5c6de3760c503e87&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/tVYLz5f.png",18h30 09/04: Everton - Man United
@@ -288,7 +248,7 @@ https://hdsd77.000webhostapp.com/playcakhia.php?id=624d93cd5c6de3760c5038b6&.m3u
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/OCezeBy.png",23h30 09/04: Villarreal - Athletic Club
 https://hdsd77.000webhostapp.com/playcakhia.php?id=624d93f15c6de3760c5038c6&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/HM5t4KB.png",23h30 09/04: Hertha BSC - Union Berlin
-https://hdsd77.000webhostapp.com/playcakhia.php?id=624d94235c6de3760c5038e3&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
+https://hdsd77.000webhostapp.com/playcakhia.php?id=62509ae55c6de3760c504363&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/QP2ZyQp.png",01h45 10/04: Cagliari - Juventus
 https://hdsd77.000webhostapp.com/playcakhia.php?id=624d952d5c6de3760c503923&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/OCezeBy.png",02h00 10/04: Real Madrid - Getafe
@@ -331,32 +291,54 @@ https://hdsd77.000webhostapp.com/playcakhia.php?id=624d94c85c6de3760c503908&.m3u
 https://hdsd77.000webhostapp.com/playcakhia.php?id=624d95785c6de3760c503940&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/QP2ZyQp.png",23h00 10/04: Roma - Salernitana
 https://hdsd77.000webhostapp.com/playcakhia.php?id=624d953e5c6de3760c503937&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/OCezeBy.png",23h30 10/04: Elche - Real Sociedad
-https://hdsd77.000webhostapp.com/playcakhia.php?id=624d94e75c6de3760c503918&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",17h00 08/04: Thái Lan - Việt Nam
-https://hdsd77.000webhostapp.com/playsaoke.php?id=624e4f3c6b646d14c6cd7875&.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",19h00 08/04: Kazakhstan (W) - Slovenia (W)
-https://hdsd77.000webhostapp.com/playsaoke.php?id=6248991a93cb8a1d4e5c4c9f&.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",22h00 08/04: Moldova (W) - Croatia (W)
-https://hdsd77.000webhostapp.com/playsaoke.php?id=6248993393cb8a1d4e5c4cd8&.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",00h00 09/04: Italy (W) - Lithuania (W)
-https://hdsd77.000webhostapp.com/playsaoke.php?id=62489bf293cb8a1d4e5c4d45&.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",01h30 09/04: VfB Stuttgart - Dortmund
-https://hdsd77.000webhostapp.com/playsaoke.php?id=624f32b36b646d14c6cd7a96&.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 09/04: Newcastle - Wolves
-https://hdsd77.000webhostapp.com/playsaoke.php?id=62489bec93cb8a1d4e5c4d37&.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",07h00 09/04: Puebla - Pumas
+https://hdsd77.000webhostapp.com/playsaoke.php?id=62489c0d93cb8a1d4e5c4d79&.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",09h00 09/04: Mazatlan FC - Cruz Azul
+https://hdsd77.000webhostapp.com/playsaoke.php?id=62489c0993cb8a1d4e5c4d73&.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",12h00 09/04: Seongnam FC - Jeonbuk FC
+https://hdsd77.000webhostapp.com/playsaoke.php?id=62489c0593cb8a1d4e5c4d6a&.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",14h30 09/04: South Korea - Việt Nam
+https://hdsd77.000webhostapp.com/playsaoke.php?id=62507ef26b646d14c6cd7de5&.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",17h00 09/04: Hoang Anh Gia Lai - Hong Linh Ha Tinh
+https://hdsd77.000webhostapp.com/playsaoke.php?id=624b435a93cb8a1d4e5c5713&.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",18h30 09/04: Everton - Man United
+https://hdsd77.000webhostapp.com/playsaoke.php?id=62489a9d93cb8a1d4e5c4d12&.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",20h30 09/04: Bayern München - Augsburg
+https://hdsd77.000webhostapp.com/playsaoke.php?id=62489a9493cb8a1d4e5c4cf8&.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",21h00 09/04: Arsenal - Brighton
+https://hdsd77.000webhostapp.com/playsaoke.php?id=62489a9e93cb8a1d4e5c4d14&.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",21h00 09/04: Southampton - Chelsea
+https://hdsd77.000webhostapp.com/playsaoke.php?id=62489a9f93cb8a1d4e5c4d17&.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",23h00 09/04: Inter - Hellas Verona
+https://hdsd77.000webhostapp.com/playsaoke.php?id=62489a9393cb8a1d4e5c4cf5&.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",23h30 09/04: Aston Villa - Tottenham
+https://hdsd77.000webhostapp.com/playsaoke.php?id=62489aa293cb8a1d4e5c4d1f&.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 10/04: Real Madrid - Getafe
+https://hdsd77.000webhostapp.com/playsaoke.php?id=624b475d93cb8a1d4e5c5734&.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 10/04: Clermont Foot - PSG
+https://hdsd77.000webhostapp.com/playsaoke.php?id=624b477193cb8a1d4e5c5762&.m3u8|Referer=https://saokelive.site/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.imgur.com/Wr7Djyu.png",01h30 09/04: VfB Stuttgart - Dortmund
-https://hdsd77.000webhostapp.com/play90p.php?id=624f35e78bb98639dd59c909&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/Wr7Djyu.png",02h00 09/04: Lorient - Saint-Etienne
-https://hdsd77.000webhostapp.com/play90p.php?id=624f3714baf5f939c69dfa76&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.imgur.com/Wr7Djyu.png",02h00 09/04: Sevilla - Granada
-https://hdsd77.000webhostapp.com/play90p.php?id=624f3500c6aff63667deb372&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/Wr7Djyu.png",02h00 09/04: Newcastle - Wolves
-https://hdsd77.000webhostapp.com/play90p.php?id=624f34198bb98639dd59c908&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/Wr7Djyu.png",18h30 09/04: Everton - Man United
 https://hdsd77.000webhostapp.com/play90p.php?id=624f3447c6aff63667deb370&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.imgur.com/Wr7Djyu.png",19h00 09/04: Cadiz - Real Betis
+https://hdsd77.000webhostapp.com/play90p.php?id=624f352528d9a539bbd2aca2&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h00 09/04: Empoli - Spezia
+https://hdsd77.000webhostapp.com/play90p.php?id=624f3595c6aff63667deb373&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h30 09/04: Bayern München - Augsburg
+https://hdsd77.000webhostapp.com/play90p.php?id=624f3611baf5f939c69dfa73&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h30 09/04: Wolfsburg - Arminia Bielefeld
+https://hdsd77.000webhostapp.com/play90p.php?id=624f363fc6aff63667deb374&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h30 09/04: Köln - Mainz
+https://hdsd77.000webhostapp.com/play90p.php?id=624f365f74dd7b31c399b3ee&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h30 09/04: Greuther Fürth - M'gladbach
+https://hdsd77.000webhostapp.com/play90p.php?id=624f36848bb98639dd59c90a&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/Wr7Djyu.png",21h00 09/04: Watford - Leeds
+https://hdsd77.000webhostapp.com/play90p.php?id=624f34b0baf5f939c69dfa72&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/Wr7Djyu.png",21h00 09/04: Southampton - Chelsea
+https://hdsd77.000webhostapp.com/play90p.php?id=624f348b3679ef42e397155e&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/Wr7Djyu.png",21h00 09/04: Arsenal - Brighton
+https://hdsd77.000webhostapp.com/play90p.php?id=624f346a28d9a539bbd2aca1&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_89.png",09/04 - 18:30 Everton - Manchester United
 https://hdsd77.000webhostapp.com/playxembd.php?id=everton-vs-manchester-united-luc-18h30-ngay-09-04-2022&.m3u8|Referer=https://xembd.live/
