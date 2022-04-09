@@ -61,6 +61,20 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquahd1/playli
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Daejeon Citizen - Seoul E.
+http://shopphu.tk/playmitomtv.php?id=daejeon-citizen-vs-seoul-e-1400-09-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Daejeon Citizen - Seoul E.
+http://shopphu.tk/playmitomtv.php?id=daejeon-citizen-vs-seoul-e-1400-09-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Western Sydney - Brisbane Roar
+http://shopphu.tk/playmitomtv.php?id=western-sydney-vs-brisbane-roar-1405-09-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Western Sydney - Brisbane Roar
+http://shopphu.tk/playmitomtv.php?id=western-sydney-vs-brisbane-roar-1405-09-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Ulsan - Daegu
+http://shopphu.tk/playmitomtv.php?id=ulsan-vs-daegu-1430-09-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Ulsan - Daegu
+http://shopphu.tk/playmitomtv.php?id=ulsan-vs-daegu-1430-09-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+
+
 
 
 
@@ -116,3 +130,79 @@ http://shopphu.tk/playxembd.php?id=liverpool-vs-benfica-luc-02h00-ngay-14-04-202
 http://shopphu.tk/playxembd.php?id=atalanta-vs-rb-leipzig-luc-23h45-ngay-14-04-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_43.png",15/04 - 02:00 Barcelona - Eintracht Frankfurt
 http://shopphu.tk/playxembd.php?id=barcelona-vs-eintracht-frankfurt-luc-02h00-ngay-15-04-2022&.m3u8|Referer=https://xembd.live/
+
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 14:00  Daejeon Citizen - Seoul E.
+http://shopphu.tk/playmitomtv.php?id=daejeon-citizen-vs-seoul-e-1400-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 14:05  Western Sydney - Brisbane Roar
+http://shopphu.tk/playmitomtv.php?id=western-sydney-vs-brisbane-roar-1405-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 14:30  Ulsan - Daegu
+http://shopphu.tk/playmitomtv.php?id=ulsan-vs-daegu-1430-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 16:45  Melbourne Victory - Melbourne City
+http://shopphu.tk/playmitomtv.php?id=melbourne-victory-vs-melbourne-city-1645-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 16:45  C. Coast Mariners - Sydney
+http://shopphu.tk/playmitomtv.php?id=c-coast-mariners-vs-sydney-1645-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 17:00  Kawasaki Frontale - Kashiwa Reysol
+http://shopphu.tk/playmitomtv.php?id=kawasaki-frontale-vs-kashiwa-reysol-1700-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 18:00  Nizjni Novgorod - Dinamo Moskva
+http://shopphu.tk/playmitomtv.php?id=nizjni-novgorod-vs-dinamo-moskva-1800-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 18:00  Khimki - CSKA Moskva
+http://shopphu.tk/playmitomtv.php?id=khimki-vs-cska-moskva-1800-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 18:30  Everton - Man Utd
+http://shopphu.tk/playmitomtv.php?id=everton-vs-man-utd-1830-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 19:00  Cádiz - Real Betis
+http://shopphu.tk/playmitomtv.php?id=cadiz-vs-real-betis-1900-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 20:00  Empoli - Spezia
+http://shopphu.tk/playmitomtv.php?id=empoli-vs-spezia-2000-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 20:30  Bayern Munich - Augsburg
+http://shopphu.tk/playmitomtv.php?id=bayern-munich-vs-augsburg-2030-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 20:30  Wolfsburg - Arminia Bielefeld
+http://shopphu.tk/playmitomtv.php?id=wolfsburg-vs-arminia-bielefeld-2030-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 20:30  FC Koln - Mainz 05
+http://shopphu.tk/playmitomtv.php?id=fc-koln-vs-mainz-05-2030-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 21:00  Arsenal - Brighton Hove
+http://shopphu.tk/playmitomtv.php?id=arsenal-vs-brighton-hove-2100-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 21:00  Southampton - Chelsea
+http://shopphu.tk/playmitomtv.php?id=southampton-vs-chelsea-2100-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 21:00  Watford - Leeds United
+http://shopphu.tk/playmitomtv.php?id=watford-vs-leeds-united-2100-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 21:15  Mallorca - Atletico Madrid
+http://shopphu.tk/playmitomtv.php?id=mallorca-vs-atletico-madrid-2115-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 22:00  Reims - Rennes
+http://shopphu.tk/playmitomtv.php?id=reims-vs-rennes-2200-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 23:00  Inter - Hellas Verona
+http://shopphu.tk/playmitomtv.php?id=inter-vs-hellas-verona-2300-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 23:30  Aston Villa - Tottenham
+http://shopphu.tk/playmitomtv.php?id=aston-villa-vs-tottenham-2330-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 23:30  Hertha BSC - Union Berlin
+http://shopphu.tk/playmitomtv.php?id=hertha-bsc-vs-union-berlin-2330-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 23:30  Villarreal - Athletic Club
+http://shopphu.tk/playmitomtv.php?id=villarreal-vs-athletic-club-2330-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 23:30  Akhmat Grozny - Zenit
+http://shopphu.tk/playmitomtv.php?id=akhmat-grozny-vs-zenit-2330-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 01:45  Cagliari - Juventus
+http://shopphu.tk/playmitomtv.php?id=cagliari-vs-juventus-0145-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 02:00  Clermont - PSG
+http://shopphu.tk/playmitomtv.php?id=clermont-vs-psg-0200-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 02:00  Real Madrid - Getafe
+http://shopphu.tk/playmitomtv.php?id=real-madrid-vs-getafe-0200-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 05:00  Atlético San Luis - León
+http://shopphu.tk/playmitomtv.php?id=atletico-san-luis-vs-leon-0500-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 09:00  América - Juárez
+http://shopphu.tk/playmitomtv.php?id=america-vs-juarez-0900-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 11:00  Shimizu S-Pulse - Gamba Osaka
+http://shopphu.tk/playmitomtv.php?id=shimizu-s-pulse-vs-gamba-osaka-1100-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 11:30  Bucheon 1995 - Anyang
+http://shopphu.tk/playmitomtv.php?id=bucheon-1995-vs-anyang-1130-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/33125/image",09/04/2022 - 17:00 Hoàng Anh Gia Lai - Hồng Lĩnh Hà Tĩnh
+http://shopphu.tk/playvebotv.php?id=hoang-anh-gia-lai-hong-linh-ha-tinh-IK8zFoL&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/48/image",09/04/2022 - 18:30 Everton - Manchester United
+http://shopphu.tk/playvebotv.php?id=everton-manchester-united-8w3bSgj&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2672/image",09/04/2022 - 20:30 Bayern München - FC Augsburg
+http://shopphu.tk/playvebotv.php?id=bayern-munchen-fc-augsburg-iQHuP48&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/45/image",09/04/2022 - 21:00 Southampton - Chelsea
+http://shopphu.tk/playvebotv.php?id=southampton-chelsea-4gd3eNT&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/24/image",09/04/2022 - 21:00 Watford - Leeds United
+http://shopphu.tk/playvebotv.php?id=leeds-united-watford-NoBHeJ7&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/42/image",09/04/2022 - 21:00 Arsenal - Brighton & Hove Albion
+http://shopphu.tk/playvebotv.php?id=arsenal-brighton-and-hove-albion-VGU5Vcm&.m3u8|Referer=https://vebotv.tv/
