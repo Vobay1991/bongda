@@ -58,10 +58,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquahd1/playli
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Puebla - Pumas
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Puebla - Pumas
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y3/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Mazatlan FC - Cruz Azul
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Mazatlan FC - Cruz Azul
@@ -78,8 +74,6 @@ http://shopphu.tk/playmitomtv.php?id=mazatlan-vs-cruz-azul-0900-09-04/?link=1&.m
 
 
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",07h00 09/04: Puebla - Pumas
-http://shopphu.tk/playsaoke.php?id=62489c0d93cb8a1d4e5c4d79&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",09h00 09/04: Mazatlan FC - Cruz Azul
 http://shopphu.tk/playsaoke.php?id=62489c0993cb8a1d4e5c4d73&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",12h00 09/04: Seongnam FC - Jeonbuk FC
