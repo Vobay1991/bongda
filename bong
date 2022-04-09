@@ -61,10 +61,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquahd1/playli
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Daejeon Citizen - Seoul E.
-http://shopphu.tk/playmitomtv.php?id=daejeon-citizen-vs-seoul-e-1400-09-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Daejeon Citizen - Seoul E.
-http://shopphu.tk/playmitomtv.php?id=daejeon-citizen-vs-seoul-e-1400-09-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Western Sydney - Brisbane Roar
 http://shopphu.tk/playmitomtv.php?id=western-sydney-vs-brisbane-roar-1405-09-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Western Sydney - Brisbane Roar
@@ -118,10 +114,10 @@ http://shopphu.tk/playxembd.php?id=manchester-city-vs-liverpool-luc-22h30-ngay-1
 http://shopphu.tk/playxembd.php?id=levante-vs-barcelona-luc-02h00-ngay-11-04-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_154.png",12/04 - 02:00 Rayo Vallecano - Valencia
 http://shopphu.tk/playxembd.php?id=rayo-vallecano-vs-valencia-luc-02h00-ngay-12-04-2022&.m3u8|Referer=https://xembd.live/
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_124.png",13/04 - 02:00 Real Madrid - Chelsea
-http://shopphu.tk/playxembd.php?id=real-madrid-vs-chelsea-luc-02h00-ngay-13-04-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_32.png",13/04 - 02:00 Bayern Munich - Villarreal
 http://shopphu.tk/playxembd.php?id=bayern-munich-vs-villarreal-luc-02h00-ngay-13-04-2022&.m3u8|Referer=https://xembd.live/
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_124.png",13/04 - 02:00 Real Madrid - Chelsea
+http://shopphu.tk/playxembd.php?id=real-madrid-vs-chelsea-luc-02h00-ngay-13-04-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_104.png",14/04 - 02:00 Atletico Madrid - Manchester City
 http://shopphu.tk/playxembd.php?id=atletico-madrid-vs-manchester-city-luc-02h00-ngay-14-04-2022&.m3u8|Referer=https://xembd.live/
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_93.png",14/04 - 02:00 Liverpool - Benfica
@@ -131,8 +127,6 @@ http://shopphu.tk/playxembd.php?id=atalanta-vs-rb-leipzig-luc-23h45-ngay-14-04-2
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_43.png",15/04 - 02:00 Barcelona - Eintracht Frankfurt
 http://shopphu.tk/playxembd.php?id=barcelona-vs-eintracht-frankfurt-luc-02h00-ngay-15-04-2022&.m3u8|Referer=https://xembd.live/
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 14:00  Daejeon Citizen - Seoul E.
-http://shopphu.tk/playmitomtv.php?id=daejeon-citizen-vs-seoul-e-1400-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 14:05  Western Sydney - Brisbane Roar
 http://shopphu.tk/playmitomtv.php?id=western-sydney-vs-brisbane-roar-1405-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 14:30  Ulsan - Daegu
