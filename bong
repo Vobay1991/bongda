@@ -70,10 +70,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Refer
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Puebla - Pumas UNAM
-http://shopphu.tk/playmitomtv.php?id=puebla-vs-pumas-unam-0700-09-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Puebla - Pumas UNAM
-http://shopphu.tk/playmitomtv.php?id=puebla-vs-pumas-unam-0700-09-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Mazatlán - Cruz Azul
 http://shopphu.tk/playmitomtv.php?id=mazatlan-vs-cruz-azul-0900-09-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Mazatlán - Cruz Azul
@@ -142,8 +138,6 @@ http://shopphu.tk/playxembd.php?id=atalanta-vs-rb-leipzig-luc-23h45-ngay-14-04-2
 http://shopphu.tk/playxembd.php?id=barcelona-vs-eintracht-frankfurt-luc-02h00-ngay-15-04-2022&.m3u8|Referer=https://xembd.live/
 
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 07:00  Puebla - Pumas UNAM
-http://shopphu.tk/playmitomtv.php?id=puebla-vs-pumas-unam-0700-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 09:00  Mazatlán - Cruz Azul
 http://shopphu.tk/playmitomtv.php?id=mazatlan-vs-cruz-azul-0900-09-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 11:00  Grulla Morioka - ThespaKusatsu
