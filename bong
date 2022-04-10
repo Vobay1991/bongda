@@ -65,14 +65,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y3/playlist.m3u8|Refer
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Gangwon - Pohang Steelers
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=gangwon-vs-pohang-steelers-1200-10-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Gangwon - Pohang Steelers
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=gangwon-vs-pohang-steelers-1200-10-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Tokyo - Urawa Reds
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=tokyo-vs-urawa-reds-1200-10-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Tokyo - Urawa Reds
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=tokyo-vs-urawa-reds-1200-10-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Vissel Kobe - Cerezo Osaka
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=vissel-kobe-vs-cerezo-osaka-1200-10-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Vissel Kobe - Cerezo Osaka
@@ -93,6 +85,14 @@ https://hdsd77.000webhostapp.com/playmitomtv.php?id=suwon-vs-sangju-sangmu-1300-
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=newcastle-jets-vs-perth-glory-1305-10-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Newcastle Jets - Perth Glory
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=newcastle-jets-vs-perth-glory-1305-10-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Kyoto Sanga - Sagan Tosu
+https://hdsd77.000webhostapp.com/playmitomtv.php?id=kyoto-sanga-vs-sagan-tosu-1400-10-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Kyoto Sanga - Sagan Tosu
+https://hdsd77.000webhostapp.com/playmitomtv.php?id=kyoto-sanga-vs-sagan-tosu-1400-10-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Gwangju - Jeonnam Dragons
+https://hdsd77.000webhostapp.com/playmitomtv.php?id=gwangju-vs-jeonnam-dragons-1400-10-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Gwangju - Jeonnam Dragons
+https://hdsd77.000webhostapp.com/playmitomtv.php?id=gwangju-vs-jeonnam-dragons-1400-10-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/wEDHypD.png",17h30 10/04: Genoa - Lazio
@@ -333,10 +333,6 @@ https://hdsd77.000webhostapp.com/playxembd.php?id=aston-villa-vs-liverpool-luc-2
 #EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_46.png",16/04 - 23:30 Juventus - Bologna
 https://hdsd77.000webhostapp.com/playxembd.php?id=juventus-vs-bologna-luc-23h30-ngay-16-04-2022&.m3u8|Origin=https://xembd.live
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 12:00  Gangwon - Pohang Steelers
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=gangwon-vs-pohang-steelers-1200-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 12:00  Tokyo - Urawa Reds
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=tokyo-vs-urawa-reds-1200-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 12:00  Vissel Kobe - Cerezo Osaka
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=vissel-kobe-vs-cerezo-osaka-1200-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 12:00  S. Hiroshima - Avispa Fukuoka
