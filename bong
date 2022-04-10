@@ -70,10 +70,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TgvRysJ.png",SD 1 Man City - Liverpool
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Man City - Liverpool
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Man City - Liverpool
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y3/playlist.m3u8|Referer=https://saokelive.site/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/sVs7mg9.png",Nhà đài Manchester City - Liverpool (Full team)
 https://jq9sucdqmfliv.vcdn.cloud/may111/index.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
@@ -244,14 +240,6 @@ https://hdsd77.000webhostapp.com/playcakhia.php?id=6252c6ce5c6de3760c504ad6&.m3u
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/Qg7LJB1.png",23h45 14/04: PSV Eindhoven - Leicester
 https://hdsd77.000webhostapp.com/playcakhia.php?id=6252c6d35c6de3760c504ada&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",22h30 10/04: Man City - Liverpool
-https://hdsd77.000webhostapp.com/playsaoke.php?id=624b475b93cb8a1d4e5c5731&.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",00h30 11/04: RB Leipzig - Hoffenheim
-https://hdsd77.000webhostapp.com/playsaoke.php?id=624b493593cb8a1d4e5c57e7&.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",01h45 11/04: Torino - Milan
-https://hdsd77.000webhostapp.com/playsaoke.php?id=624b493493cb8a1d4e5c57e6&.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 11/04: Levante - Barcelona
-https://hdsd77.000webhostapp.com/playsaoke.php?id=624b493393cb8a1d4e5c57e4&.m3u8|Referer=https://saokelive.site/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/Wr7Djyu.png",22h05 10/04: Lens - Nice
 https://hdsd77.000webhostapp.com/play90p.php?id=624f68ce92893b39d1704ba9&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
@@ -282,10 +270,10 @@ https://hdsd77.000webhostapp.com/playxembd.php?id=rayo-vallecano-vs-valencia-luc
 https://hdsd77.000webhostapp.com/playxembd.php?id=real-madrid-vs-chelsea-luc-02h00-ngay-13-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_32.png",13/04 - 02:00 Bayern Munich - Villarreal
 https://hdsd77.000webhostapp.com/playxembd.php?id=bayern-munich-vs-villarreal-luc-02h00-ngay-13-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_93.png",14/04 - 02:00 Liverpool - Benfica
-https://hdsd77.000webhostapp.com/playxembd.php?id=liverpool-vs-benfica-luc-02h00-ngay-14-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_104.png",14/04 - 02:00 Atletico Madrid - Manchester City
 https://hdsd77.000webhostapp.com/playxembd.php?id=atletico-madrid-vs-manchester-city-luc-02h00-ngay-14-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_93.png",14/04 - 02:00 Liverpool - Benfica
+https://hdsd77.000webhostapp.com/playxembd.php?id=liverpool-vs-benfica-luc-02h00-ngay-14-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_92.png",16/04 - 18:30 Tottenham - Brighton
 https://hdsd77.000webhostapp.com/playxembd.php?id=tottenham-vs-brighton-luc-18h30-ngay-16-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_42.png",16/04 - 21:00 Manchester United - Norwich
