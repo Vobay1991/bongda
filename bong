@@ -416,8 +416,6 @@ https://hdsd77.000webhostapp.com/playmitomtv.php?id=al-faisaly-vs-al-sadd-0315-1
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",12/04/2022 - 09:00  Pachuca - Tijuana
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=pachuca-vs-tijuana-0900-12-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2714/image", -  Napoli - Fiorentina
-https://hdsd77.000webhostapp.com/playvebotv.php?id=napoli-fiorentina-bDIHXQA&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2814/image", -  Espanyol - Celta Vigo
 https://hdsd77.000webhostapp.com/playvebotv.php?id=celta-vigo-espanyol-rLFMwM7&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/17/image",10/04/2022 - 22:30 Manchester City - Liverpool
@@ -428,3 +426,5 @@ https://hdsd77.000webhostapp.com/playvebotv.php?id=salernitana-roma-Fh8XCz1&.m3u
 https://hdsd77.000webhostapp.com/playvebotv.php?id=elche-cf-real-sociedad-HNI9O3K&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2849/image",11/04/2022 - 02:00 Levante - Barcelona
 https://hdsd77.000webhostapp.com/playvebotv.php?id=levante-barcelona-Ohqr9Lk&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2818/image",12/04/2022 - 02:00 Rayo Vallecano - Valencia
+https://hdsd77.000webhostapp.com/playvebotv.php?id=valencia-rayo-vallecano-FVUW81y&.m3u8|Referer=https://vebotv.tv/
