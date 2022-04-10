@@ -149,10 +149,6 @@ https://hdsd77.000webhostapp.com/playxembd.php?id=venezia-vs-udinese-luc-20h00-n
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Osasuna - Alaves
 https://hdsd77.000webhostapp.com/playxembd.php?id=osasuna-vs-alaves-luc-19h00-ngay-10-04-2022&.m3u8|Origin=https://xembd.live
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Osasuna - Deportivo Alavés
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=osasuna-vs-deportivo-alaves-1900-10-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Osasuna - Deportivo Alavés
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=osasuna-vs-deportivo-alaves-1900-10-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Brentford - West Ham Utd
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=brentford-vs-west-ham-utd-2000-10-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Brentford - West Ham Utd
@@ -459,8 +455,6 @@ https://hdsd77.000webhostapp.com/playxembd.php?id=juventus-vs-bologna-luc-23h30-
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_146.png",17/04 - 20:15 Newcastle - Leicester
 https://hdsd77.000webhostapp.com/playxembd.php?id=newcastle-vs-leicester-luc-20h15-ngay-17-04-2022&.m3u8|Origin=https://xembd.live
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 19:00  Osasuna - Deportivo Alavés
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=osasuna-vs-deportivo-alaves-1900-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 20:00  Brentford - West Ham Utd
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=brentford-vs-west-ham-utd-2000-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 20:00  Leicester City - Crystal Palace
