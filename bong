@@ -93,10 +93,6 @@ https://hdsd77.000webhostapp.com/playxembd.php?id=elche-vs-real-sociedad-luc-23h
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Lens - Nice
 https://hdsd77.000webhostapp.com/playxembd.php?id=lens-vs-nice-luc-22h05-ngay-10-04-2022&.m3u8|Origin=https://xembd.live
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Lens - Nice
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=lens-vs-nice-2205-10-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Lens - Nice
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=lens-vs-nice-2205-10-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Manchester City - Liverpool
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=manchester-city-vs-liverpool-2230-10-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Manchester City - Liverpool
@@ -305,74 +301,72 @@ https://hdsd77.000webhostapp.com/playxembd.php?id=newcastle-vs-leicester-luc-20h
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_151.png",17/04 - 22:30 Wolves - Manchester City
 https://hdsd77.000webhostapp.com/playxembd.php?id=wolves-vs-manchester-city-luc-22h30-ngay-17-04-2022&.m3u8|Origin=https://xembd.live
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 22:05  Lens - Nice
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=lens-vs-nice-2205-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 22:30  Manchester City - Liverpool
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",10/04/2022 - 22:30  Manchester City - Liverpool
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=manchester-city-vs-liverpool-2230-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 22:30  E. Frankfurt - SC Freiburg
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",10/04/2022 - 22:30  E. Frankfurt - SC Freiburg
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=e-frankfurt-vs-sc-freiburg-2230-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 23:00  Roma - Salernitana
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",10/04/2022 - 23:00  Roma - Salernitana
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=roma-vs-salernitana-2300-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 23:30  Elche - Real Sociedad
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",10/04/2022 - 23:30  Elche - Real Sociedad
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=elche-vs-real-sociedad-2330-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 23:30  Rostov - Lok. Moskva
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",10/04/2022 - 23:30  Rostov - Lok. Moskva
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=rostov-vs-lok-moskva-2330-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 00:00  Strasbourg - Olympique Lyonnais
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 00:00  Strasbourg - Olympique Lyonnais
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=strasbourg-vs-olympique-lyonnais-0000-11-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 00:15  Shabab Al Ahli Dubai - Foolad
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 00:15  Shabab Al Ahli Dubai - Foolad
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=shabab-al-ahli-dubai-vs-foolad-0015-11-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 00:30  Leipzig - Hoffenheim
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 00:30  Leipzig - Hoffenheim
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=leipzig-vs-hoffenheim-0030-11-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 01:45  Torino - Milan
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 01:45  Torino - Milan
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=torino-vs-milan-0145-11-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 02:00  Marseille - Montpellier
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 02:00  Marseille - Montpellier
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=marseille-vs-montpellier-0200-11-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 02:00  Levante - Barcelona
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 02:00  Levante - Barcelona
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=levante-vs-barcelona-0200-11-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 03:15  Al Gharafa - Ahal
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 03:15  Al Gharafa - Ahal
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=al-gharafa-vs-ahal-0315-11-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 03:15  Al Taawon - Pakhtakor
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 03:15  Al Taawon - Pakhtakor
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=al-taawon-vs-pakhtakor-0315-11-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 07:00  Querétaro - Tigres UANL
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 07:00  Querétaro - Tigres UANL
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=queretaro-vs-tigres-uanl-0700-11-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 17:00  Bình Phước - Quang Nam
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 17:00  Bình Phước - Quang Nam
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=binh-phuoc-vs-quang-nam-1700-11-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 17:30  Gimpo - Gyeongnam
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 17:30  Gimpo - Gyeongnam
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=gimpo-vs-gyeongnam-1730-11-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 18:00  Bình Định FC - Hai Phong
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 18:00  Bình Định FC - Hai Phong
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=binh-dinh-fc-vs-hai-phong-1800-11-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 18:00  Bà Rịa Vũng Tàu - Phố Hiến
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 18:00  Bà Rịa Vũng Tàu - Phố Hiến
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=ba-ria-vung-tau-vs-pho-hien-1800-11-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 19:15  Viettel - Can Tho
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 19:15  Viettel - Can Tho
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=viettel-vs-can-tho-1915-11-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",12/04/2022 - 00:00  Vejle - Viborg
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 00:00  Vejle - Viborg
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=vejle-vs-viborg-0000-12-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",12/04/2022 - 00:15  Al Quwa Al Jawiya - Mumbai City
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 00:15  Al Quwa Al Jawiya - Mumbai City
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=al-quwa-al-jawiya-vs-mumbai-city-0015-12-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",12/04/2022 - 00:15  Nasaf - Al Wihdat
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 00:15  Nasaf - Al Wihdat
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=nasaf-vs-al-wihdat-0015-12-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",12/04/2022 - 00:30  Antalyaspor - Hatayspor
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 00:30  Antalyaspor - Hatayspor
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=antalyaspor-vs-hatayspor-0030-12-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",12/04/2022 - 02:00  Rayo Vallecano - Valencia
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 02:00  Rayo Vallecano - Valencia
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=rayo-vallecano-vs-valencia-0200-12-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",12/04/2022 - 03:15  Al Shabab - Al-Jazira
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 03:15  Al Shabab - Al-Jazira
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=al-shabab-vs-al-jazira-0315-12-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",12/04/2022 - 03:15  Al Sharjah - Istiqlol Dushanbe
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 03:15  Al Sharjah - Istiqlol Dushanbe
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=al-sharjah-vs-istiqlol-dushanbe-0315-12-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",12/04/2022 - 03:15  Al Faisaly - Al Sadd
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 03:15  Al Faisaly - Al Sadd
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=al-faisaly-vs-al-sadd-0315-12-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",12/04/2022 - 09:00  Pachuca - Tijuana
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 09:00  Pachuca - Tijuana
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=pachuca-vs-tijuana-0900-12-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/17/image", -  Manchester City - Liverpool
 https://hdsd77.000webhostapp.com/playvebotv.php?id=liverpool-manchester-city-j0t84vd&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2674/image", -  Eintracht Frankfurt - SC Freiburg
-https://hdsd77.000webhostapp.com/playvebotv.php?id=eintracht-frankfurt-sc-freiburg-pGWVgVc&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2702/image", -  Roma - Salernitana
 https://hdsd77.000webhostapp.com/playvebotv.php?id=salernitana-roma-Fh8XCz1&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2846/image", -  Elche CF - Real Sociedad
 https://hdsd77.000webhostapp.com/playvebotv.php?id=elche-cf-real-sociedad-HNI9O3K&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2849/image",11/04/2022 - 02:00 Levante - Barcelona
-https://hdsd77.000webhostapp.com/playvebotv.php?id=levante-barcelona-Ohqr9Lk&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2818/image",12/04/2022 - 02:00 Rayo Vallecano - Valencia
-https://hdsd77.000webhostapp.com/playvebotv.php?id=valencia-rayo-vallecano-FVUW81y&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2672/image",13/04/2022 - 02:00 Bayern München - Villarreal
+https://hdsd77.000webhostapp.com/playvebotv.php?id=villarreal-bayern-munchen-08H75RP&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2829/image",13/04/2022 - 02:00 Real Madrid - Chelsea
+https://hdsd77.000webhostapp.com/playvebotv.php?id=chelsea-real-madrid-5YjQY3h&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/38/image",13/04/2022 - 03:00 Chelsea - Real Madrid
+https://hdsd77.000webhostapp.com/playvebotv.php?id=chelsea-real-madrid-W0kaw6L&.m3u8|Referer=https://vebotv.tv/
