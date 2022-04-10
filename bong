@@ -65,10 +65,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y3/playlist.m3u8|Refer
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Shimizu S-Pulse - Gamba Osaka
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=shimizu-s-pulse-vs-gamba-osaka-1100-10-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Shimizu S-Pulse - Gamba Osaka
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=shimizu-s-pulse-vs-gamba-osaka-1100-10-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Bucheon 1995 - Anyang
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=bucheon-1995-vs-anyang-1130-10-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Bucheon 1995 - Anyang
@@ -97,6 +93,10 @@ https://hdsd77.000webhostapp.com/playmitomtv.php?id=jef-united-vs-yokohama-1200-
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=suwon-vs-sangju-sangmu-1300-10-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Suwon - Sangju Sangmu
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=suwon-vs-sangju-sangmu-1300-10-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Newcastle Jets - Perth Glory
+https://hdsd77.000webhostapp.com/playmitomtv.php?id=newcastle-jets-vs-perth-glory-1305-10-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Newcastle Jets - Perth Glory
+https://hdsd77.000webhostapp.com/playmitomtv.php?id=newcastle-jets-vs-perth-glory-1305-10-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/wEDHypD.png",17h30 10/04: Genoa - Lazio
@@ -335,8 +335,6 @@ https://hdsd77.000webhostapp.com/playxembd.php?id=aston-villa-vs-liverpool-luc-2
 #EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_46.png",16/04 - 23:30 Juventus - Bologna
 https://hdsd77.000webhostapp.com/playxembd.php?id=juventus-vs-bologna-luc-23h30-ngay-16-04-2022&.m3u8|Origin=https://xembd.live
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 11:00  Shimizu S-Pulse - Gamba Osaka
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=shimizu-s-pulse-vs-gamba-osaka-1100-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 11:30  Bucheon 1995 - Anyang
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=bucheon-1995-vs-anyang-1130-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 12:00  Gangwon - Pohang Steelers
