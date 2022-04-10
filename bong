@@ -89,14 +89,6 @@ https://hdsd77.000webhostapp.com/playxembd.php?id=osasuna-vs-alaves-luc-19h00-ng
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Bordeaux - Metz
 https://hdsd77.000webhostapp.com/playxembd.php?id=bordeaux-vs-metz-luc-20h00-ngay-10-04-2022&.m3u8|Origin=https://xembd.live
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Seoul - Suwon Bluewings
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=seoul-vs-suwon-bluewings-1700-10-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Seoul - Suwon Bluewings
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=seoul-vs-suwon-bluewings-1700-10-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 FLC Thanh Hoa - Long An
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=flc-thanh-hoa-vs-long-an-1700-10-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 FLC Thanh Hoa - Long An
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=flc-thanh-hoa-vs-long-an-1700-10-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Genoa - Lazio
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=genoa-vs-lazio-1730-10-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Genoa - Lazio
@@ -109,6 +101,10 @@ https://hdsd77.000webhostapp.com/playmitomtv.php?id=bordeaux-vs-metz-1800-10-04/
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=ufa-vs-sochi-1800-10-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Ufa - Sochi
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=ufa-vs-sochi-1800-10-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Osasuna - Deportivo Alavés
+https://hdsd77.000webhostapp.com/playmitomtv.php?id=osasuna-vs-deportivo-alaves-1900-10-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Osasuna - Deportivo Alavés
+https://hdsd77.000webhostapp.com/playmitomtv.php?id=osasuna-vs-deportivo-alaves-1900-10-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/wEDHypD.png",17h30 10/04: Genoa - Lazio
@@ -363,10 +359,6 @@ https://hdsd77.000webhostapp.com/playxembd.php?id=aston-villa-vs-liverpool-luc-2
 #EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_46.png",16/04 - 23:30 Juventus - Bologna
 https://hdsd77.000webhostapp.com/playxembd.php?id=juventus-vs-bologna-luc-23h30-ngay-16-04-2022&.m3u8|Origin=https://xembd.live
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 17:00  Seoul - Suwon Bluewings
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=seoul-vs-suwon-bluewings-1700-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 17:00  FLC Thanh Hoa - Long An
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=flc-thanh-hoa-vs-long-an-1700-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 17:30  Genoa - Lazio
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=genoa-vs-lazio-1730-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 18:00  Bordeaux - Metz
