@@ -65,18 +65,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y3/playlist.m3u8|Refer
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Vissel Kobe - Cerezo Osaka
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=vissel-kobe-vs-cerezo-osaka-1200-10-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Vissel Kobe - Cerezo Osaka
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=vissel-kobe-vs-cerezo-osaka-1200-10-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 S. Hiroshima - Avispa Fukuoka
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=s-hiroshima-vs-avispa-fukuoka-1200-10-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 S. Hiroshima - Avispa Fukuoka
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=s-hiroshima-vs-avispa-fukuoka-1200-10-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 JEF United - Yokohama
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=jef-united-vs-yokohama-1200-10-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 JEF United - Yokohama
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=jef-united-vs-yokohama-1200-10-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Suwon - Sangju Sangmu
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=suwon-vs-sangju-sangmu-1300-10-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Suwon - Sangju Sangmu
@@ -333,12 +321,6 @@ https://hdsd77.000webhostapp.com/playxembd.php?id=aston-villa-vs-liverpool-luc-2
 #EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_46.png",16/04 - 23:30 Juventus - Bologna
 https://hdsd77.000webhostapp.com/playxembd.php?id=juventus-vs-bologna-luc-23h30-ngay-16-04-2022&.m3u8|Origin=https://xembd.live
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 12:00  Vissel Kobe - Cerezo Osaka
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=vissel-kobe-vs-cerezo-osaka-1200-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 12:00  S. Hiroshima - Avispa Fukuoka
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=s-hiroshima-vs-avispa-fukuoka-1200-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 12:00  JEF United - Yokohama
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=jef-united-vs-yokohama-1200-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 13:00  Suwon - Sangju Sangmu
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=suwon-vs-sangju-sangmu-1300-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 13:05  Newcastle Jets - Perth Glory
