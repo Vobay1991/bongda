@@ -61,10 +61,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquahd1/playli
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Al Taawon - Pakhtakor
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=al-taawon-vs-pakhtakor-0315-11-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Al Taawon - Pakhtakor
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=al-taawon-vs-pakhtakor-0315-11-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",19h30 11/04: Arsenal Dzerzhinsk - FK Vitebsk
@@ -177,8 +173,6 @@ https://hdsd77.000webhostapp.com/playxembd.php?id=paris-saint-germain-vs-marseil
 #EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_39.png",18/04 - 02:00 Sevilla - Real Madrid
 https://hdsd77.000webhostapp.com/playxembd.php?id=sevilla-vs-real-madrid-luc-02h00-ngay-18-04-2022&.m3u8|Origin=https://xembd.live
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 03:15  Al Taawon - Pakhtakor
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=al-taawon-vs-pakhtakor-0315-11-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 17:00  Bình Phước - Quang Nam
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=binh-phuoc-vs-quang-nam-1700-11-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 17:30  Gimpo - Gyeongnam
