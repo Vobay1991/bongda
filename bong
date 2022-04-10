@@ -76,17 +76,11 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Refere
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk3/playlist.m3u8|Referer=https://saokelive.site/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Genoa - Lazio
-https://hdsd77.000webhostapp.com/playxembd.php?id=genoa-vs-lazio-luc-17h30-ngay-10-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Osasuna - Alaves
 https://hdsd77.000webhostapp.com/playxembd.php?id=osasuna-vs-alaves-luc-19h00-ngay-10-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Bordeaux - Metz
 https://hdsd77.000webhostapp.com/playxembd.php?id=bordeaux-vs-metz-luc-20h00-ngay-10-04-2022&.m3u8|Origin=https://xembd.live
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Genoa - Lazio
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=genoa-vs-lazio-1730-10-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Genoa - Lazio
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=genoa-vs-lazio-1730-10-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Bordeaux - Metz
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=bordeaux-vs-metz-1800-10-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Bordeaux - Metz
@@ -327,24 +321,24 @@ https://hdsd77.000webhostapp.com/play90p.php?id=624f5cff28d9a539bbd2aca5&.m3u8|R
 https://hdsd77.000webhostapp.com/play90p.php?id=624f65d43679ef42e3971566&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.imgur.com/Wr7Djyu.png",19h00 10/04: Osasuna - Deportivo Alavés
 https://hdsd77.000webhostapp.com/play90p.php?id=624f5c363679ef42e3971563&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h00 10/04: Norwich City - Burnley
-https://hdsd77.000webhostapp.com/play90p.php?id=624f5bf1e0d4672fc68e6f49&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h00 10/04: Napoli - Fiorentina
-https://hdsd77.000webhostapp.com/play90p.php?id=624f5f5a3679ef42e3971564&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h00 10/04: Sassuolo - Atalanta
-https://hdsd77.000webhostapp.com/play90p.php?id=624f5f8e28d9a539bbd2aca9&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h00 10/04: Brest - Nantes
-https://hdsd77.000webhostapp.com/play90p.php?id=624f66028bb98639dd59c910&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h00 10/04: Leicester City - Crystal Palace
-https://hdsd77.000webhostapp.com/play90p.php?id=624f5be03679ef42e3971562&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h00 10/04: Venezia - Udinese
 https://hdsd77.000webhostapp.com/play90p.php?id=624f5fa274dd7b31c399b3f4&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h00 10/04: Brentford - West Ham (Thỏ)
-https://hdsd77.000webhostapp.com/play90p.php?id=624f5bd03679ef42e3971561&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h00 10/04: Sassuolo - Atalanta
+https://hdsd77.000webhostapp.com/play90p.php?id=624f5f8e28d9a539bbd2aca9&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h00 10/04: Angers SCO - Lille
 https://hdsd77.000webhostapp.com/play90p.php?id=624f65ecbaf5f939c69dfa7d&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h00 10/04: Leicester City - Crystal Palace
+https://hdsd77.000webhostapp.com/play90p.php?id=624f5be03679ef42e3971562&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h00 10/04: Monaco - Troyes
 https://hdsd77.000webhostapp.com/play90p.php?id=624f68b9c6aff63667deb37d&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h00 10/04: Norwich City - Burnley
+https://hdsd77.000webhostapp.com/play90p.php?id=624f5bf1e0d4672fc68e6f49&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h00 10/04: Brentford - West Ham (Thỏ)
+https://hdsd77.000webhostapp.com/play90p.php?id=624f5bd03679ef42e3971561&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h00 10/04: Napoli - Fiorentina	(Liu Men)
+https://hdsd77.000webhostapp.com/play90p.php?id=624f5f5a3679ef42e3971564&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h00 10/04: Brest - Nantes
+https://hdsd77.000webhostapp.com/play90p.php?id=624f66028bb98639dd59c910&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h30 10/04: Bochum - Bayer Leverkusen
 https://hdsd77.000webhostapp.com/play90p.php?id=624f5fcf28d9a539bbd2acaa&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.imgur.com/Wr7Djyu.png",21h15 10/04: Espanyol - Celta de Vigo
@@ -375,8 +369,6 @@ https://hdsd77.000webhostapp.com/playxembd.php?id=aston-villa-vs-liverpool-luc-2
 #EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_46.png",16/04 - 23:30 Juventus - Bologna
 https://hdsd77.000webhostapp.com/playxembd.php?id=juventus-vs-bologna-luc-23h30-ngay-16-04-2022&.m3u8|Origin=https://xembd.live
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 17:30  Genoa - Lazio
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=genoa-vs-lazio-1730-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 18:00  Bordeaux - Metz
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=bordeaux-vs-metz-1800-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 18:00  Ufa - Sochi
