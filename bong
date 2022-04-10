@@ -67,10 +67,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y3/playlist.m3u8|Refer
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Elche - Real Sociedad
 https://hdsd77.000webhostapp.com/playxembd.php?id=elche-vs-real-sociedad-luc-23h30-ngay-10-04-2022&.m3u8|Origin=https://xembd.live
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Elche - Real Sociedad
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=elche-vs-real-sociedad-2330-10-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Elche - Real Sociedad
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=elche-vs-real-sociedad-2330-10-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Rostov - Lok. Moskva
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=rostov-vs-lok-moskva-2330-10-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Rostov - Lok. Moskva
@@ -237,8 +233,6 @@ https://hdsd77.000webhostapp.com/playxembd.php?id=newcastle-vs-leicester-luc-20h
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_151.png",17/04 - 22:30 Wolves - Manchester City
 https://hdsd77.000webhostapp.com/playxembd.php?id=wolves-vs-manchester-city-luc-22h30-ngay-17-04-2022&.m3u8|Origin=https://xembd.live
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",10/04/2022 - 23:30  Elche - Real Sociedad
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=elche-vs-real-sociedad-2330-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",10/04/2022 - 23:30  Rostov - Lok. Moskva
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=rostov-vs-lok-moskva-2330-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 00:00  Strasbourg - Olympique Lyonnais
