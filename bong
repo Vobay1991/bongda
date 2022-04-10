@@ -64,11 +64,11 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y4/playlist.m3u8|Refer
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y3/playlist.m3u8|Referer=https://saokelive.site/
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Torino - AC Milan
+https://hdsd77.000webhostapp.com/playxembd.php?id=torino-vs-ac-milan-luc-01h45-ngay-11-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Levante - Barcelona
+https://hdsd77.000webhostapp.com/playxembd.php?id=levante-vs-barcelona-luc-02h00-ngay-11-04-2022&.m3u8|Origin=https://xembd.live
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Rostov - Lok. Moskva
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=rostov-vs-lok-moskva-2330-10-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Rostov - Lok. Moskva
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=rostov-vs-lok-moskva-2330-10-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Strasbourg - Olympique Lyonnais
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=strasbourg-vs-olympique-lyonnais-0000-11-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Strasbourg - Olympique Lyonnais
@@ -83,8 +83,6 @@ https://hdsd77.000webhostapp.com/playmitomtv.php?id=leipzig-vs-hoffenheim-0030-1
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=leipzig-vs-hoffenheim-0030-11-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/L5NYCXJ.png",23h30 10/04: Elche - Real Sociedad
-https://hdsd77.000webhostapp.com/playcakhia.php?id=625181235c6de3760c5045d7&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/I4ngAuh.png",00h00 11/04: Strasbourg - Lyon
 https://hdsd77.000webhostapp.com/playcakhia.php?id=625181255c6de3760c5045d8&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/GxqSdce.png",00h30 11/04: RB Leipzig - Hoffenheim
@@ -116,8 +114,6 @@ https://hdsd77.000webhostapp.com/playcakhia.php?id=6252c6ce5c6de3760c504ad6&.m3u
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/Xvjl8PW.png",23h45 14/04: PSV Eindhoven - Leicester
 https://hdsd77.000webhostapp.com/playcakhia.php?id=6252c6d35c6de3760c504ada&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/LrPcktX.png",23h30 10/04: Elche - Real Sociedad
-https://hdsd77.000webhostapp.com/playcakhia.php?id=625181235c6de3760c5045d7&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/KRbqUt4.png",00h00 11/04: Strasbourg - Lyon
 https://hdsd77.000webhostapp.com/playcakhia.php?id=625181255c6de3760c5045d8&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/bfPmRKD.png",00h30 11/04: RB Leipzig - Hoffenheim
@@ -149,8 +145,6 @@ https://hdsd77.000webhostapp.com/playcakhia.php?id=6252c6ce5c6de3760c504ad6&.m3u
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/a6BBQhL.png",23h45 14/04: PSV Eindhoven - Leicester
 https://hdsd77.000webhostapp.com/playcakhia.php?id=6252c6d35c6de3760c504ada&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/OCezeBy.png",23h30 10/04: Elche - Real Sociedad
-https://hdsd77.000webhostapp.com/playcakhia.php?id=625181235c6de3760c5045d7&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/wgOO09Z.png",00h00 11/04: Strasbourg - Lyon
 https://hdsd77.000webhostapp.com/playcakhia.php?id=625181255c6de3760c5045d8&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - 1. Bundesliga" tvg-logo="https://i.imgur.com/HM5t4KB.png",00h30 11/04: RB Leipzig - Hoffenheim
@@ -189,8 +183,6 @@ https://hdsd77.000webhostapp.com/playsaoke.php?id=624b493493cb8a1d4e5c57e6&.m3u8
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 11/04: Levante - Barcelona
 https://hdsd77.000webhostapp.com/playsaoke.php?id=624b493393cb8a1d4e5c57e4&.m3u8|Referer=https://saokelive.site/
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - La Liga" tvg-logo="https://i.imgur.com/Wr7Djyu.png",23h30 10/04: Elche - Real Sociedad
-https://hdsd77.000webhostapp.com/play90p.php?id=624f5cb992893b39d1704ba8&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/Wr7Djyu.png",00h00 11/04: Strasbourg - Lyon
 https://hdsd77.000webhostapp.com/play90p.php?id=6252a083baf5f939c69dfa82&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Bundesliga" tvg-logo="https://i.imgur.com/Wr7Djyu.png",00h30 11/04: RB Leipzig - Hoffenheim
@@ -204,10 +196,6 @@ https://hdsd77.000webhostapp.com/play90p.php?id=62529fe93679ef42e3971569&.m3u8|R
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/Wr7Djyu.png",01h45 12/04: Bologna - Sampdoria
 https://hdsd77.000webhostapp.com/play90p.php?id=62530f6cc6aff63667deb385&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_168.png",11/04 - 01:45 Torino - AC Milan
-https://hdsd77.000webhostapp.com/playxembd.php?id=torino-vs-ac-milan-luc-01h45-ngay-11-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_56.png",11/04 - 02:00 Levante - Barcelona
-https://hdsd77.000webhostapp.com/playxembd.php?id=levante-vs-barcelona-luc-02h00-ngay-11-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_154.png",12/04 - 02:00 Rayo Vallecano - Valencia
 https://hdsd77.000webhostapp.com/playxembd.php?id=rayo-vallecano-vs-valencia-luc-02h00-ngay-12-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_124.png",13/04 - 02:00 Real Madrid - Chelsea
@@ -231,8 +219,6 @@ https://hdsd77.000webhostapp.com/playxembd.php?id=newcastle-vs-leicester-luc-20h
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_151.png",17/04 - 22:30 Wolves - Manchester City
 https://hdsd77.000webhostapp.com/playxembd.php?id=wolves-vs-manchester-city-luc-22h30-ngay-17-04-2022&.m3u8|Origin=https://xembd.live
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",10/04/2022 - 23:30  Rostov - Lok. Moskva
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=rostov-vs-lok-moskva-2330-10-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 00:00  Strasbourg - Olympique Lyonnais
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=strasbourg-vs-olympique-lyonnais-0000-11-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 00:15  Shabab Al Ahli Dubai - Foolad
@@ -280,8 +266,8 @@ https://hdsd77.000webhostapp.com/playmitomtv.php?id=al-faisaly-vs-al-sadd-0315-1
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 09:00  Pachuca - Tijuana
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=pachuca-vs-tijuana-0900-12-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2846/image", -  Elche CF - Real Sociedad
-https://hdsd77.000webhostapp.com/playvebotv.php?id=elche-cf-real-sociedad-HNI9O3K&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/36360/image", -  RB Leipzig - 1899 Hoffenheim
+https://hdsd77.000webhostapp.com/playvebotv.php?id=rb-leipzig-1899-hoffenheim-vht71OC&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2696/image",11/04/2022 - 01:45 Torino - Milan
 https://hdsd77.000webhostapp.com/playvebotv.php?id=torino-milan-ff9n3Yf&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2849/image",11/04/2022 - 02:00 Levante - Barcelona
