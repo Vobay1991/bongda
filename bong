@@ -356,7 +356,7 @@ https://hdsd77.000webhostapp.com/playmitomtv.php?id=pachuca-vs-tijuana-0900-12-0
 
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2814/image", -  Espanyol - Celta Vigo
 https://hdsd77.000webhostapp.com/playvebotv.php?id=celta-vigo-espanyol-rLFMwM7&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/17/image",10/04/2022 - 22:30 Manchester City - Liverpool
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/17/image", -  Manchester City - Liverpool
 https://hdsd77.000webhostapp.com/playvebotv.php?id=liverpool-manchester-city-j0t84vd&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2702/image",10/04/2022 - 23:00 Roma - Salernitana
 https://hdsd77.000webhostapp.com/playvebotv.php?id=salernitana-roma-Fh8XCz1&.m3u8|Referer=https://vebotv.tv/
