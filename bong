@@ -84,6 +84,8 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk3/playlist.m3u8|Refere
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Genoa - Lazio
 https://hdsd77.000webhostapp.com/playxembd.php?id=genoa-vs-lazio-luc-17h30-ngay-10-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Osasuna - Alaves
+https://hdsd77.000webhostapp.com/playxembd.php?id=osasuna-vs-alaves-luc-19h00-ngay-10-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Bordeaux - Metz
 https://hdsd77.000webhostapp.com/playxembd.php?id=bordeaux-vs-metz-luc-20h00-ngay-10-04-2022&.m3u8|Origin=https://xembd.live
 
