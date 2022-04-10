@@ -66,6 +66,8 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk3/playlist.m3u8|Refere
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Norwich - Burnley
 https://hdsd77.000webhostapp.com/playxembd.php?id=norwich-vs-burnley-luc-20h00-ngay-10-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Brentford - West Ham
+https://hdsd77.000webhostapp.com/playxembd.php?id=brentford-vs-west-ham-luc-21h00-ngay-09-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Osasuna - Alaves
 https://hdsd77.000webhostapp.com/playxembd.php?id=osasuna-vs-alaves-luc-19h00-ngay-10-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Bordeaux - Metz
