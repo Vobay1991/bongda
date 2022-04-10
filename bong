@@ -115,10 +115,6 @@ https://hdsd77.000webhostapp.com/playxembd.php?id=levante-vs-barcelona-luc-02h00
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Marseille - Montpellier
 https://hdsd77.000webhostapp.com/playxembd.php?id=marseille-vs-montpellier-luc-01h45-ngay-11-04-2022&.m3u8|Origin=https://xembd.live
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Leipzig - Hoffenheim
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=leipzig-vs-hoffenheim-0030-11-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Leipzig - Hoffenheim
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=leipzig-vs-hoffenheim-0030-11-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Torino - Milan
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=torino-vs-milan-0145-11-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Torino - Milan
@@ -281,8 +277,6 @@ https://hdsd77.000webhostapp.com/playxembd.php?id=paris-saint-germain-vs-marseil
 #EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_39.png",18/04 - 02:00 Sevilla - Real Madrid
 https://hdsd77.000webhostapp.com/playxembd.php?id=sevilla-vs-real-madrid-luc-02h00-ngay-18-04-2022&.m3u8|Origin=https://xembd.live
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 00:30  Leipzig - Hoffenheim
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=leipzig-vs-hoffenheim-0030-11-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 01:45  Torino - Milan
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=torino-vs-milan-0145-11-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 02:00  Marseille - Montpellier
