@@ -55,28 +55,16 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquahd1/playli
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/g9ZQu3p.png",HD 1 Torino - Milan
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/7GipKaV.png",SD 1 Torino - Milan
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/g9ZQu3p.png",HD 1 Levante - Barcelona
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/7GipKaV.png",SD 1 Levante - Barcelona
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/XFTuwH5.png",HD 1 Torino - Milan
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bSUwsJP.png",SD 1 Torino - Milan
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cachuoisd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/XFTuwH5.png",HD 1 Levante - Barcelona
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bSUwsJP.png",SD 1 Levante - Barcelona
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taosd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/j9LvZYY.png",HD 1 Torino - Milan
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@betonghd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TgvRysJ.png",SD 1 Torino - Milan
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@betongsd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/j9LvZYY.png",HD 1 Levante - Barcelona
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TgvRysJ.png",SD 1 Levante - Barcelona
@@ -121,8 +109,6 @@ https://hdsd77.000webhostapp.com/playmitomtv.php?id=al-taawon-vs-pakhtakor-0315-
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=al-taawon-vs-pakhtakor-0315-11-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/wEDHypD.png",01h45 11/04: Torino - Milan
-https://hdsd77.000webhostapp.com/playcakhia.php?id=625181315c6de3760c5045e7&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/L5NYCXJ.png",02h00 11/04: Levante - Barcelona
 https://hdsd77.000webhostapp.com/playcakhia.php?id=625181355c6de3760c5045e8&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/I4ngAuh.png",02h00 11/04: Marseille - Montpellier
@@ -148,8 +134,6 @@ https://hdsd77.000webhostapp.com/playcakhia.php?id=6252c6ce5c6de3760c504ad6&.m3u
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/Xvjl8PW.png",23h45 14/04: PSV Eindhoven - Leicester
 https://hdsd77.000webhostapp.com/playcakhia.php?id=6252c6d35c6de3760c504ada&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/VmkB5bj.png",01h45 11/04: Torino - Milan
-https://hdsd77.000webhostapp.com/playcakhia.php?id=625181315c6de3760c5045e7&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/LrPcktX.png",02h00 11/04: Levante - Barcelona
 https://hdsd77.000webhostapp.com/playcakhia.php?id=625181355c6de3760c5045e8&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/KRbqUt4.png",02h00 11/04: Marseille - Montpellier
@@ -175,8 +159,6 @@ https://hdsd77.000webhostapp.com/playcakhia.php?id=6252c6ce5c6de3760c504ad6&.m3u
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/a6BBQhL.png",23h45 14/04: PSV Eindhoven - Leicester
 https://hdsd77.000webhostapp.com/playcakhia.php?id=6252c6d35c6de3760c504ada&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/QP2ZyQp.png",01h45 11/04: Torino - Milan
-https://hdsd77.000webhostapp.com/playcakhia.php?id=625181315c6de3760c5045e7&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/OCezeBy.png",02h00 11/04: Levante - Barcelona
 https://hdsd77.000webhostapp.com/playcakhia.php?id=625181355c6de3760c5045e8&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/wgOO09Z.png",02h00 11/04: Marseille - Montpellier
@@ -263,8 +245,6 @@ https://hdsd77.000webhostapp.com/playmitomtv.php?id=levante-vs-barcelona-0200-11
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=al-gharafa-vs-ahal-0315-11-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 03:15  Al Taawon - Pakhtakor
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=al-taawon-vs-pakhtakor-0315-11-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 07:00  Querétaro - Tigres UANL
-https://hdsd77.000webhostapp.com/playmitomtv.php?id=queretaro-vs-tigres-uanl-0700-11-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 17:00  Bình Phước - Quang Nam
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=binh-phuoc-vs-quang-nam-1700-11-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 17:30  Gimpo - Gyeongnam
