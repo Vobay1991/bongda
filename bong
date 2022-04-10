@@ -55,20 +55,8 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquahd1/playli
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/g9ZQu3p.png",HD 1 Genoa - Lazio
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/7GipKaV.png",SD 1 Genoa - Lazio
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/XFTuwH5.png",HD 1 Genoa - Lazio
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@camaphd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bSUwsJP.png",SD Genoa - Lazio
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@camapsd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/j9LvZYY.png",HD 1 Genoa - Lazio
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@thoxayhd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TgvRysJ.png",SD 1 Genoa - Lazio
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@thoxaysd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD TP.HCM - Saigon FC
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saokelive.site/
@@ -95,8 +83,6 @@ https://hdsd77.000webhostapp.com/playmitomtv.php?id=osasuna-vs-deportivo-alaves-
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=osasuna-vs-deportivo-alaves-1900-10-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/wEDHypD.png",17h30 10/04: Genoa - Lazio
-https://hdsd77.000webhostapp.com/playcakhia.php?id=624d95305c6de3760c503924&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/I4ngAuh.png",18h00 10/04: Bordeaux - Metz
 https://hdsd77.000webhostapp.com/playcakhia.php?id=624d95ef5c6de3760c503965&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/L5NYCXJ.png",19h00 10/04: Osasuna - Deportivo Alaves
@@ -164,8 +150,6 @@ https://hdsd77.000webhostapp.com/playcakhia.php?id=6252c6ce5c6de3760c504ad6&.m3u
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/Xvjl8PW.png",23h45 14/04: PSV Eindhoven - Leicester
 https://hdsd77.000webhostapp.com/playcakhia.php?id=6252c6d35c6de3760c504ada&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/VmkB5bj.png",17h30 10/04: Genoa - Lazio
-https://hdsd77.000webhostapp.com/playcakhia.php?id=624d95305c6de3760c503924&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/KRbqUt4.png",18h00 10/04: Bordeaux - Metz
 https://hdsd77.000webhostapp.com/playcakhia.php?id=624d95ef5c6de3760c503965&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/LrPcktX.png",19h00 10/04: Osasuna - Deportivo Alaves
@@ -233,8 +217,6 @@ https://hdsd77.000webhostapp.com/playcakhia.php?id=6252c6ce5c6de3760c504ad6&.m3u
 #EXTINF:-1 group-title="CaHeoTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/a6BBQhL.png",23h45 14/04: PSV Eindhoven - Leicester
 https://hdsd77.000webhostapp.com/playcakhia.php?id=6252c6d35c6de3760c504ada&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/QP2ZyQp.png",17h30 10/04: Genoa - Lazio
-https://hdsd77.000webhostapp.com/playcakhia.php?id=624d95305c6de3760c503924&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/wgOO09Z.png",18h00 10/04: Bordeaux - Metz
 https://hdsd77.000webhostapp.com/playcakhia.php?id=624d95ef5c6de3760c503965&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - LaLiga" tvg-logo="https://i.imgur.com/OCezeBy.png",19h00 10/04: Osasuna - Deportivo Alaves
@@ -323,18 +305,18 @@ https://hdsd77.000webhostapp.com/play90p.php?id=624f65d43679ef42e3971566&.m3u8|R
 https://hdsd77.000webhostapp.com/play90p.php?id=624f5c363679ef42e3971563&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h00 10/04: Venezia - Udinese
 https://hdsd77.000webhostapp.com/play90p.php?id=624f5fa274dd7b31c399b3f4&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h00 10/04: Sassuolo - Atalanta
-https://hdsd77.000webhostapp.com/play90p.php?id=624f5f8e28d9a539bbd2aca9&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h00 10/04: Angers SCO - Lille
-https://hdsd77.000webhostapp.com/play90p.php?id=624f65ecbaf5f939c69dfa7d&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h00 10/04: Leicester City - Crystal Palace
 https://hdsd77.000webhostapp.com/play90p.php?id=624f5be03679ef42e3971562&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h00 10/04: Monaco - Troyes
 https://hdsd77.000webhostapp.com/play90p.php?id=624f68b9c6aff63667deb37d&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h00 10/04: Norwich City - Burnley
-https://hdsd77.000webhostapp.com/play90p.php?id=624f5bf1e0d4672fc68e6f49&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h00 10/04: Sassuolo - Atalanta
+https://hdsd77.000webhostapp.com/play90p.php?id=624f5f8e28d9a539bbd2aca9&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h00 10/04: Angers SCO - Lille
+https://hdsd77.000webhostapp.com/play90p.php?id=624f65ecbaf5f939c69dfa7d&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h00 10/04: Brentford - West Ham (Thỏ)
 https://hdsd77.000webhostapp.com/play90p.php?id=624f5bd03679ef42e3971561&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="90PhutTV by VoPhu - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h00 10/04: Norwich City - Burnley	(Old)
+https://hdsd77.000webhostapp.com/play90p.php?id=624f5bf1e0d4672fc68e6f49&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h00 10/04: Napoli - Fiorentina	(Liu Men)
 https://hdsd77.000webhostapp.com/play90p.php?id=624f5f5a3679ef42e3971564&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Ligue 1" tvg-logo="https://i.imgur.com/Wr7Djyu.png",20h00 10/04: Brest - Nantes
