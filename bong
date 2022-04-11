@@ -162,10 +162,10 @@ https://hdsd77.000webhostapp.com/play90p.php?id=625311ef92893b39d1704bb0&.m3u8|R
 https://hdsd77.000webhostapp.com/playxembd.php?id=bologna-vs-sampdoria-luc-01h45-ngay-12-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_154.png",12/04 - 02:00 Rayo Vallecano - Valencia
 https://hdsd77.000webhostapp.com/playxembd.php?id=rayo-vallecano-vs-valencia-luc-02h00-ngay-12-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_124.png",13/04 - 02:00 Real Madrid - Chelsea
-https://hdsd77.000webhostapp.com/playxembd.php?id=real-madrid-vs-chelsea-luc-02h00-ngay-13-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_32.png",13/04 - 02:00 Bayern Munich - Villarreal
 https://hdsd77.000webhostapp.com/playxembd.php?id=bayern-munich-vs-villarreal-luc-02h00-ngay-13-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_124.png",13/04 - 02:00 Real Madrid - Chelsea
+https://hdsd77.000webhostapp.com/playxembd.php?id=real-madrid-vs-chelsea-luc-02h00-ngay-13-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_104.png",14/04 - 02:00 Atletico Madrid - Manchester City
 https://hdsd77.000webhostapp.com/playxembd.php?id=atletico-madrid-vs-manchester-city-luc-02h00-ngay-14-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_93.png",14/04 - 02:00 Liverpool - Benfica
@@ -215,10 +215,16 @@ https://hdsd77.000webhostapp.com/playmitomtv.php?id=al-faisaly-vs-al-sadd-0315-1
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=pachuca-vs-tijuana-0900-12-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 16:05  Melbourne Victory - Brisbane Roar
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=melbourne-victory-vs-brisbane-roar-1445-02-01&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 16:05  Sydney - Adelaide Utd
+https://hdsd77.000webhostapp.com/playmitomtv.php?id=sydney-vs-adelaide-utd-1605-12-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",13/04/2022 - 02:00  Real Madrid - Chelsea
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=real-madrid-vs-chelsea-0200-13-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",13/04/2022 - 02:00  Bayern Munich - Villarreal
+https://hdsd77.000webhostapp.com/playmitomtv.php?id=bayern-munich-vs-villarreal-0200-13-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",13/04/2022 - 16:05  Western Sydney - C. Coast Mariners
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=western-sydney-vs-c-coast-mariners-1545-05-02&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",13/04/2022 - 16:30  Kyoto Sanga - C. Sapporo
+https://hdsd77.000webhostapp.com/playmitomtv.php?id=kyoto-sanga-vs-c-sapporo-1630-13-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",14/04/2022 - 02:00  Atletico Madrid - Manchester City
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=atletico-madrid-vs-manchester-city-0200-14-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",14/04/2022 - 09:00  Indep. del Valle - Deportes Tolima
