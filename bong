@@ -57,6 +57,10 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquahd1/playli
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/j9LvZYY.png",HD 1 Bologna - Sampdoria
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@betonghd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TgvRysJ.png",SD 1 Bologna - Sampdoria
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@betongsd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png", Antalyaspor - Hatayspor
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@saoke2x4/playlist.m3u8|Referer=https://saokelive.site/
@@ -89,6 +93,10 @@ https://hdsd77.000webhostapp.com/playmitomtv.php?id=nasaf-vs-al-wihdat-0015-12-0
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=antalyaspor-vs-hatayspor-0030-12-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Antalyaspor - Hatayspor
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=antalyaspor-vs-hatayspor-0030-12-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Bologna - Sampdoria
+https://hdsd77.000webhostapp.com/playmitomtv.php?id=bologna-vs-sampdoria-0145-12-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Bologna - Sampdoria
+https://hdsd77.000webhostapp.com/playmitomtv.php?id=bologna-vs-sampdoria-0145-12-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/wEDHypD.png",01h45 12/04: Bologna - Sampdoria
@@ -168,6 +176,12 @@ https://hdsd77.000webhostapp.com/playsaoke.php?id=62547500c24c80501454e55c&.m3u8
 https://hdsd77.000webhostapp.com/playsaoke.php?id=624b4af593cb8a1d4e5c5865&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",21h00 12/04: Serbia (W) - Germany (W)
 https://hdsd77.000webhostapp.com/playsaoke.php?id=624b4af293cb8a1d4e5c5861&.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",22h45 12/04: Switzerland (W) - Italy (W)
+https://hdsd77.000webhostapp.com/playsaoke.php?id=624b4af093cb8a1d4e5c5860&.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 13/04: Real Madrid - Chelsea
+https://hdsd77.000webhostapp.com/playsaoke.php?id=625099a76b646d14c6cd7e64&.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 13/04: Bayern München - Villarreal
+https://hdsd77.000webhostapp.com/playsaoke.php?id=625099a86b646d14c6cd7e65&.m3u8|Referer=https://saokelive.site/
 
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Serie A" tvg-logo="https://i.imgur.com/Wr7Djyu.png",01h45 12/04: Bologna - Sampdoria
 https://hdsd77.000webhostapp.com/play90p.php?id=62530f6cc6aff63667deb385&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
@@ -200,10 +214,10 @@ https://hdsd77.000webhostapp.com/playxembd.php?id=liverpool-vs-benfica-luc-02h00
 https://hdsd77.000webhostapp.com/playxembd.php?id=tottenham-vs-brighton-luc-18h30-ngay-16-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_42.png",16/04 - 21:00 Manchester United - Norwich
 https://hdsd77.000webhostapp.com/playxembd.php?id=manchester-united-vs-norwich-luc-21h00-ngay-16-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_46.png",16/04 - 23:30 Juventus - Bologna
-https://hdsd77.000webhostapp.com/playxembd.php?id=juventus-vs-bologna-luc-23h30-ngay-16-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_143.png",16/04 - 23:30 Aston Villa - Liverpool
 https://hdsd77.000webhostapp.com/playxembd.php?id=aston-villa-vs-liverpool-luc-23h30-ngay-16-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_46.png",16/04 - 23:30 Juventus - Bologna
+https://hdsd77.000webhostapp.com/playxembd.php?id=juventus-vs-bologna-luc-23h30-ngay-16-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_146.png",17/04 - 20:15 Newcastle - Leicester
 https://hdsd77.000webhostapp.com/playxembd.php?id=newcastle-vs-leicester-luc-20h15-ngay-17-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_151.png",17/04 - 22:30 Wolves - Manchester City
