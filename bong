@@ -62,6 +62,10 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquahd1/playli
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y4/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Binh Dinh - Hai Phong
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y3/playlist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Viettel - Can Tho
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Viettel - Can Tho
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk3/playlist.m3u8|Referer=https://saokelive.site/
 
 
 
@@ -69,6 +73,10 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y3/playlist.m3u8|Refer
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=gimpo-vs-gyeongnam-1730-11-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Gimpo - Gyeongnam
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=gimpo-vs-gyeongnam-1730-11-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Viettel - Can Tho
+https://hdsd77.000webhostapp.com/playmitomtv.php?id=viettel-vs-can-tho-1915-11-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Viettel - Can Tho
+https://hdsd77.000webhostapp.com/playmitomtv.php?id=viettel-vs-can-tho-1915-11-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",19h30 11/04: Arsenal Dzerzhinsk - FK Vitebsk
@@ -166,10 +174,10 @@ https://hdsd77.000webhostapp.com/play90p.php?id=6253192374dd7b31c399b405&.m3u8|R
 https://hdsd77.000webhostapp.com/playxembd.php?id=bologna-vs-sampdoria-luc-01h45-ngay-12-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_154.png",12/04 - 02:00 Rayo Vallecano - Valencia
 https://hdsd77.000webhostapp.com/playxembd.php?id=rayo-vallecano-vs-valencia-luc-02h00-ngay-12-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_124.png",13/04 - 02:00 Real Madrid - Chelsea
-https://hdsd77.000webhostapp.com/playxembd.php?id=real-madrid-vs-chelsea-luc-02h00-ngay-13-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_32.png",13/04 - 02:00 Bayern Munich - Villarreal
 https://hdsd77.000webhostapp.com/playxembd.php?id=bayern-munich-vs-villarreal-luc-02h00-ngay-13-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_124.png",13/04 - 02:00 Real Madrid - Chelsea
+https://hdsd77.000webhostapp.com/playxembd.php?id=real-madrid-vs-chelsea-luc-02h00-ngay-13-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_104.png",14/04 - 02:00 Atletico Madrid - Manchester City
 https://hdsd77.000webhostapp.com/playxembd.php?id=atletico-madrid-vs-manchester-city-luc-02h00-ngay-14-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_93.png",14/04 - 02:00 Liverpool - Benfica
