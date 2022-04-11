@@ -58,10 +58,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquahd1/playli
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Gaz Metan Medias - CS Mioveni
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Gaz Metan Medias - CS Mioveni
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://saokelive.site/
 
 
 
@@ -130,8 +126,6 @@ https://hdsd77.000webhostapp.com/playcakhia.php?id=6252c6ce5c6de3760c504ad6&.m3u
 #EXTINF:-1 group-title="PhuHoTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/Qg7LJB1.png",23h45 14/04: PSV Eindhoven - Leicester
 https://hdsd77.000webhostapp.com/playcakhia.php?id=6252c6d35c6de3760c504ada&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",22h00 11/04: Gaz Metan Medias - CS Mioveni
-https://hdsd77.000webhostapp.com/playsaoke.php?id=624b49fc93cb8a1d4e5c581d&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",00h30 12/04: Antalyaspor - Hatayspor
 https://hdsd77.000webhostapp.com/playsaoke.php?id=624b4b0893cb8a1d4e5c5897&.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 12/04: Rayo Vallecano - Valencia
@@ -186,6 +180,8 @@ https://hdsd77.000webhostapp.com/playxembd.php?id=wolves-vs-manchester-city-luc-
 https://hdsd77.000webhostapp.com/playxembd.php?id=paris-saint-germain-vs-marseille-luc-01h45-ngay-18-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - La Liga" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_39.png",18/04 - 02:00 Sevilla - Real Madrid
 https://hdsd77.000webhostapp.com/playxembd.php?id=sevilla-vs-real-madrid-luc-02h00-ngay-18-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - Serie A" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_66.png",19/04 - 00:00 Napoli - AS Roma
+https://hdsd77.000webhostapp.com/playxembd.php?id=napoli-vs-as-roma-luc-00h00-ngay-19-04-2022&.m3u8|Origin=https://xembd.live
 
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Ngày mai - 00:15  Al Quwa Al Jawiya - Mumbai City
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=al-quwa-al-jawiya-vs-mumbai-city-0015-12-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
@@ -290,15 +286,15 @@ https://hdsd77.000webhostapp.com/playmitomtv.php?id=indep-del-valle-vs-deportes-
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",14/04/2022 - 09:05  Celaya - Venados
 https://hdsd77.000webhostapp.com/playmitomtv.php?id=celaya-vs-venados-0905-14-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2685/image",12/04/2022 - 01:45 Bologna - Sampdoria
-https://hdsd77.000webhostapp.com/playvebotv.php?id=sampdoria-bologna-Ce93ord&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/59/image",12/04/2022 - 01:45 Huddersfield Town - Luton Town
-https://hdsd77.000webhostapp.com/playvebotv.php?id=luton-town-huddersfield-town-xQsj5OL&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2818/image",12/04/2022 - 02:00 Rayo Vallecano - Valencia
 https://hdsd77.000webhostapp.com/playvebotv.php?id=valencia-rayo-vallecano-FVUW81y&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2672/image",13/04/2022 - 02:00 Bayern München - Villarreal
 https://hdsd77.000webhostapp.com/playvebotv.php?id=villarreal-bayern-munchen-08H75RP&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2829/image",13/04/2022 - 02:00 Real Madrid - Chelsea
 https://hdsd77.000webhostapp.com/playvebotv.php?id=chelsea-real-madrid-5YjQY3h&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/78151/image",13/04/2022 - 21:00 Sporting CP U19 - SL Benfica U19
-https://hdsd77.000webhostapp.com/playvebotv.php?id=sporting-cp-u19-sl-benfica-u19-4wysTzz&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2836/image",14/04/2022 - 02:00 Atlético Madrid - Manchester City
+https://hdsd77.000webhostapp.com/playvebotv.php?id=atletico-madrid-manchester-city-5z8HFc2&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/44/image",14/04/2022 - 02:00 Liverpool - SL Benfica
+https://hdsd77.000webhostapp.com/playvebotv.php?id=liverpool-sl-benfica-zqcY5LE&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="VEBOTV by VoPhu - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2686/image",14/04/2022 - 23:45 Atalanta - RB Leipzig
+https://hdsd77.000webhostapp.com/playvebotv.php?id=rb-leipzig-atalanta-juNu7Sx&.m3u8|Referer=https://vebotv.tv/
