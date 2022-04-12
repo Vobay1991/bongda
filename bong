@@ -58,9 +58,25 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquahd1/playli
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Boca Juniors - Always Ready
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Boca Juniors - Always Ready
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://saokelives.site/
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Cerro Porteño - Colón
+https://phubongdamoi.000webhostapp.com/playmitomtv.php?id=cerro-porteno-vs-colon-0515-13-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Cerro Porteño - Colón
+https://phubongdamoi.000webhostapp.com/playmitomtv.php?id=cerro-porteno-vs-colon-0515-13-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Boca Juniors - Always Ready
+https://phubongdamoi.000webhostapp.com/playmitomtv.php?id=boca-juniors-vs-always-ready-0515-13-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Boca Juniors - Always Ready
+https://phubongdamoi.000webhostapp.com/playmitomtv.php?id=boca-juniors-vs-always-ready-0515-13-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Uni. Catolica - Sporting Cristal
+https://phubongdamoi.000webhostapp.com/playmitomtv.php?id=uni-catolica-vs-sporting-cristal-0515-13-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Uni. Catolica - Sporting Cristal
+https://phubongdamoi.000webhostapp.com/playmitomtv.php?id=uni-catolica-vs-sporting-cristal-0515-13-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 
 
 #EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/TjNDl6q.png",02h00 14/04: Atletico Madrid - Man City
@@ -156,10 +172,10 @@ https://phubongdamoi.000webhostapp.com/play90p.php?id=6253192374dd7b31c399b405&.
 #EXTINF:-1 group-title="90PhutTV by VoPhu - Europa League" tvg-logo="https://i.imgur.com/5mvoglV.png",23h45 14/04: Atalanta - RB Leipzig
 https://phubongdamoi.000webhostapp.com/play90p.php?id=6253190e8bb98639dd59c91b&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_116.png",14/04 - 02:00 Atletico Madrid - Manchester City
-https://phubongdamoi.000webhostapp.com/playxembd.php?id=atletico-madrid-vs-manchester-city-luc-02h00-ngay-14-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_33.png",14/04 - 02:00 Liverpool - Benfica
 https://phubongdamoi.000webhostapp.com/playxembd.php?id=liverpool-vs-benfica-luc-02h00-ngay-14-04-2022&.m3u8|Origin=https://xembd.live
+#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_116.png",14/04 - 02:00 Atletico Madrid - Manchester City
+https://phubongdamoi.000webhostapp.com/playxembd.php?id=atletico-madrid-vs-manchester-city-luc-02h00-ngay-14-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_122.png",14/04 - 23:45 Atalanta - RB Leipzig
 https://phubongdamoi.000webhostapp.com/playxembd.php?id=atalanta-vs-rb-leipzig-luc-23h45-ngay-14-04-2022&.m3u8|Origin=https://xembd.live
 #EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_101.png",15/04 - 02:00 Barcelona - Eintracht Frankfurt
