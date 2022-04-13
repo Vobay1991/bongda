@@ -1,109 +1,85 @@
-# EXTM3U url-tvg = "http: gg.gg/epgviet" tvg-shift = 0 m3uautoload = 1
-# comment
-# ======== võ phú =========
+#EXTM3U url-tvg="http:gg.gg/epgviet" tvg-shift=0 m3uautoload=1
+#bình luận
+#========võ phú=========
+
+
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/ViniqOU.png",BLV : SAO MAI 
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/oMoFmdT.png",BLV: Thần Chổi 
+https://9767da6a6c.vws.vegacdn.vn/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/w7O1dbk.png",BLV : SAO KÊ 
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/Okyk2rw.png",BLV KEN
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x4y4/playlist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/9MWBIDQ.png",BLV SAO KIM
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y4/chunklist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/Wv7oABe.png",BLV SAO HOẢ
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/6VGfTad.png",BLV SAO MỘC
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y4/playlist.m3u8|Referer=https://saokelive.site/
+
+
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/jzzLBf3.png",BLV: Giàng A Phò 1
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/P285ALk.png",BLV: Giàng A Lữ 1
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/5oCLZVV.png",BLV: Giàng A CAY 
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/XEslVMq.png",BLV: Giàng A Lếch
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
 
 
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",17h00 12/04: Noravank - Van
-https://hdsd77.000webhostapp.com/playcakhia.php?id=62543e2b5c6de3760c504f0f&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/4QFWFkg.png",20h00 12/04: Urartu FC - FC Noah
-https://hdsd77.000webhostapp.com/playcakhia.php?id=62543e325c6de3760c504f1f&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/TjNDl6q.png",02h00 13/04: Real Madrid - Chelsea
-https://hdsd77.000webhostapp.com/playcakhia.php?id=625181bc5c6de3760c504617&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/TjNDl6q.png",02h00 13/04: Bayern München - Villarreal
-https://hdsd77.000webhostapp.com/playcakhia.php?id=625181c25c6de3760c50461b&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/TjNDl6q.png",02h00 14/04: Atletico Madrid - Man City
-https://hdsd77.000webhostapp.com/playcakhia.php?id=6252c6505c6de3760c504ace&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/TjNDl6q.png",02h00 14/04: Liverpool - Benfica
-https://hdsd77.000webhostapp.com/playcakhia.php?id=6252c6555c6de3760c504ad2&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/bCufm0C.png",23h45 14/04: Atalanta - RB Leipzig
-https://hdsd77.000webhostapp.com/playcakhia.php?id=6252c6ce5c6de3760c504ad6&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="CakhiaTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/Xvjl8PW.png",23h45 14/04: PSV Eindhoven - Leicester
-https://hdsd77.000webhostapp.com/playcakhia.php?id=6252c6d35c6de3760c504ada&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/EBsqUi2.png",BLV: PHỤ HỒ
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@phuhohd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/OnYnuM3.png",BLV: THỢ XÂY
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@thoxayhd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/v2MRw7d.png",BLV: ĐỐNG GẠCH
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/59d2cdc.png",BLV:LOKI
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@quihd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/1vSTtot.png",17h00 12/04: Noravank - Van
-https://hdsd77.000webhostapp.com/playcakhia.php?id=62543e2b5c6de3760c504f0f&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/1vSTtot.png",20h00 12/04: Urartu FC - FC Noah
-https://hdsd77.000webhostapp.com/playcakhia.php?id=62543e325c6de3760c504f1f&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/skQQ6Os.png",02h00 13/04: Real Madrid - Chelsea
-https://hdsd77.000webhostapp.com/playcakhia.php?id=625181bc5c6de3760c504617&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/skQQ6Os.png",02h00 13/04: Bayern München - Villarreal
-https://hdsd77.000webhostapp.com/playcakhia.php?id=625181c25c6de3760c50461b&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/skQQ6Os.png",02h00 14/04: Atletico Madrid - Man City
-https://hdsd77.000webhostapp.com/playcakhia.php?id=6252c6505c6de3760c504ace&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/skQQ6Os.png",02h00 14/04: Liverpool - Benfica
-https://hdsd77.000webhostapp.com/playcakhia.php?id=6252c6555c6de3760c504ad2&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/TrErZsl.png",23h45 14/04: Atalanta - RB Leipzig
-https://hdsd77.000webhostapp.com/playcakhia.php?id=6252c6ce5c6de3760c504ad6&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="CaHeoTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/a6BBQhL.png",23h45 14/04: PSV Eindhoven - Leicester
-https://hdsd77.000webhostapp.com/playcakhia.php?id=6252c6d35c6de3760c504ada&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/ucrEy25.png",BLV: Cá Mập
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@camaphd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/LqcFrnh.png",BLV: Cá Chuối
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/7QdBNub.png",BLV: Cá Nóc
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="BÌNH LUẬN VIÊN📛" tvg-logo="https://i.imgur.com/VcpECr1.png",BLV: Cá Quả
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquahd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/tVYLz5f.png",17h00 12/04: Noravank - Van
-https://hdsd77.000webhostapp.com/playcakhia.php?id=62543e2b5c6de3760c504f0f&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - Premier League" tvg-logo="https://i.imgur.com/tVYLz5f.png",20h00 12/04: Urartu FC - FC Noah
-https://hdsd77.000webhostapp.com/playcakhia.php?id=62543e325c6de3760c504f1f&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/W2z2dAw.png",02h00 13/04: Real Madrid - Chelsea
-https://hdsd77.000webhostapp.com/playcakhia.php?id=625181bc5c6de3760c504617&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/W2z2dAw.png",02h00 13/04: Bayern München - Villarreal
-https://hdsd77.000webhostapp.com/playcakhia.php?id=625181c25c6de3760c50461b&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/W2z2dAw.png",02h00 14/04: Atletico Madrid - Man City
-https://hdsd77.000webhostapp.com/playcakhia.php?id=6252c6505c6de3760c504ace&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - CUP C1" tvg-logo="https://i.imgur.com/W2z2dAw.png",02h00 14/04: Liverpool - Benfica
-https://hdsd77.000webhostapp.com/playcakhia.php?id=6252c6555c6de3760c504ad2&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - CUP C2" tvg-logo="https://i.imgur.com/59GZw9N.png",23h45 14/04: Atalanta - RB Leipzig
-https://hdsd77.000webhostapp.com/playcakhia.php?id=6252c6ce5c6de3760c504ad6&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-#EXTINF:-1 group-title="PhuHoTV by VoPhu - CUP C3" tvg-logo="https://i.imgur.com/Qg7LJB1.png",23h45 14/04: PSV Eindhoven - Leicester
-https://hdsd77.000webhostapp.com/playcakhia.php?id=6252c6d35c6de3760c504ada&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",07h30 12/04: Lanus - Aldosivi
-https://hdsd77.000webhostapp.com/playsaoke.php?id=624b4afc93cb8a1d4e5c5877&.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",09h30 12/04: Canada (W) - Nigeria(W)
-https://hdsd77.000webhostapp.com/playsaoke.php?id=62545b69c24c80501454e372&.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",16h45 12/04: Australia (W) - New Zealand (W)
-https://hdsd77.000webhostapp.com/playsaoke.php?id=62547500c24c80501454e55c&.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",19h00 12/04: Montenegro (W) - Bosnia and Herzegovina (W)
-https://hdsd77.000webhostapp.com/playsaoke.php?id=624b4af593cb8a1d4e5c5865&.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",21h00 12/04: Serbia (W) - Germany (W)
-https://hdsd77.000webhostapp.com/playsaoke.php?id=624b4af293cb8a1d4e5c5861&.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",22h45 12/04: Switzerland (W) - Italy (W)
-https://hdsd77.000webhostapp.com/playsaoke.php?id=624b4af093cb8a1d4e5c5860&.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 13/04: Real Madrid - Chelsea
-https://hdsd77.000webhostapp.com/playsaoke.php?id=625099a76b646d14c6cd7e64&.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="SaokeLive by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 13/04: Bayern München - Villarreal
-https://hdsd77.000webhostapp.com/playsaoke.php?id=625099a86b646d14c6cd7e65&.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/rcTQ6ct.png",Benfica - Liverpool 06/04 cúp c1
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220406/5bde467099fe63f419d79961915b0ff7.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/rcTQ6ct.png",Manchester City - Atletico Madrid 06/04 cúp c1
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220406/f0d979bd2422d0e0d99d6533236b311f.mp4/playlist.m3u8
 
-#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/5mvoglV.png",02h00 13/04: Real Madrid - Chelsea
-https://hdsd77.000webhostapp.com/play90p.php?id=625311ef92893b39d1704bb0&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/5mvoglV.png",02h00 13/04: Bayern München - Villarreal
-https://hdsd77.000webhostapp.com/play90p.php?id=62531205e0d4672fc68e6f58&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/5mvoglV.png",02h00 14/04: Atlético Madrid -  Manchester City
-https://hdsd77.000webhostapp.com/play90p.php?id=625318e728d9a539bbd2acb6&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - UEFA Champions League" tvg-logo="https://i.imgur.com/5mvoglV.png",02h00 14/04: Liverpool - Benfica
-https://hdsd77.000webhostapp.com/play90p.php?id=625318f774dd7b31c399b404&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Europa League" tvg-logo="https://i.imgur.com/5mvoglV.png",23h45 14/04: Atalanta - RB Leipzig
-https://hdsd77.000webhostapp.com/play90p.php?id=6253190e8bb98639dd59c91b&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="90PhutTV by VoPhu - Europa Conference League" tvg-logo="https://i.imgur.com/5mvoglV.png",23h45 14/04: PSV - Leicester City
-https://hdsd77.000webhostapp.com/play90p.php?id=6253192374dd7b31c399b405&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_124.png",13/04 - 02:00 Real Madrid - Chelsea
-https://hdsd77.000webhostapp.com/playxembd.php?id=real-madrid-vs-chelsea-luc-02h00-ngay-13-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_32.png",13/04 - 02:00 Bayern Munich - Villarreal
-https://hdsd77.000webhostapp.com/playxembd.php?id=bayern-munich-vs-villarreal-luc-02h00-ngay-13-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_104.png",14/04 - 02:00 Atletico Madrid - Manchester City
-https://hdsd77.000webhostapp.com/playxembd.php?id=atletico-madrid-vs-manchester-city-luc-02h00-ngay-14-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Champions League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_93.png",14/04 - 02:00 Liverpool - Benfica
-https://hdsd77.000webhostapp.com/playxembd.php?id=liverpool-vs-benfica-luc-02h00-ngay-14-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_37.png",14/04 - 23:45 Atalanta - RB Leipzig
-https://hdsd77.000webhostapp.com/playxembd.php?id=atalanta-vs-rb-leipzig-luc-23h45-ngay-14-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - UEFA Europa League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_43.png",15/04 - 02:00 Barcelona - Eintracht Frankfurt
-https://hdsd77.000webhostapp.com/playxembd.php?id=barcelona-vs-eintracht-frankfurt-luc-02h00-ngay-15-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_92.png",16/04 - 18:30 Tottenham - Brighton
-https://hdsd77.000webhostapp.com/playxembd.php?id=tottenham-vs-brighton-luc-18h30-ngay-16-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_42.png",16/04 - 21:00 Manchester United - Norwich
-https://hdsd77.000webhostapp.com/playxembd.php?id=manchester-united-vs-norwich-luc-21h00-ngay-16-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_143.png",16/04 - 23:30 Aston Villa - Liverpool
-https://hdsd77.000webhostapp.com/playxembd.php?id=aston-villa-vs-liverpool-luc-23h30-ngay-16-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_146.png",17/04 - 20:15 Newcastle - Leicester
-https://hdsd77.000webhostapp.com/playxembd.php?id=newcastle-vs-leicester-luc-20h15-ngay-17-04-2022&.m3u8|Origin=https://xembd.live
-#EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_151.png",17/04 - 22:30 Wolves - Manchester City
-https://hdsd77.000webhostapp.com/playxembd.php?id=wolves-vs-manchester-city-luc-22h30-ngay-17-04-2022&.m3u8|Origin=https://xembd.live
+
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/5zirnDK.png",Arsenal vs Leiceste 13/03  NGOẠI HẠNG ANH
+https://223108787.e.cdneverest.net/boxstudio/video/adaptive/2022/03/14/196_1968492c6fdc05442b69c974ec13b32d678_RELAY-20220313232148/playlist_720.m3u8
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/5zirnDK.png",Chelsea vs Newcastle 13/03  NGOẠI HẠNG ANH
+https://223108787.e.cdneverest.net/boxstudio/video/adaptive/2022/03/13/196_196b8f59fa5965d4f7bbd2f05d6dddcd847_RELAY-20220313204622/playlist_720.m3u8
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/5zirnDK.png", ManUtd vs Tottenham 12/03 NGOẠI HẠNG ANH
+https://223108787.e.cdneverest.net/boxstudio/video/adaptive/2022/03/13/196_196cdb606e44bc84deb83b3b3361b5423d5_1080p-20220313001916/playlist_720.m3u8
+
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/JGckZHp.png",Southampton - Manchester City/21/3 CÚP FA
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220321/220320-2200-southampton-mancity-fa-clean-57-fm-fn-1647797935/093905576ee30d572824d9a0cc2ee6c0.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/JGckZHp.png",Nottingham Forest - Liverpool 21/3 CÚP FA
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220321/220321-0100-nottingham-forest-liverpool-fa-fm-fn-1647815615/fada3a7d7192beec39c4345eb59df52e.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/JGckZHp.png",Crystal Palace - Everton 21/3 CÚP FA
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220320/220320-1930-crystal-palace-everton-fa-clean-48-fm-fn-1647788765/f96caffd8c99f06772e2bc782ec9ad2e.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/ifmNEth.png",U23 Thái Lan - U23 Việt Nam CHUNG KẾT 
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220226/220226-1930-thailan-vietnam-u23aff-clean-48-fm-fn-1645887019/54a7441f02e3935b279e74a98c9c3e53.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/VtQJDrj.png",Barcelona - Galatasaray 11/03 cúp c2
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220311/ff8b0e705c21547f65fed0235ff96794.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/VtQJDrj.png",Leicester City - Stade Rennais 11/03 cúp c2
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220311/220311-0300-leicester-city-stade-rennais-uecl-clean-58-fm-fn-1646952632/577047e7f5afd3f260ea2f9ff45a274b.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/VtQJDrj.png",Sevilla FC - West Ham United |11/03cúp c2
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220311/220311-0045-sevilla-west-ham-uel-clean-49-fm-fn-1646943972/bfbb1389f385e85c2311180a1212b301.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/VtQJDrj.png",Real Betis - Eintracht Frankfurt 10/03 cúp c2
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/9a4b9d780c8eb0355e7e759639785255.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="bóng đá xem lại📛" tvg-logo="https://i.imgur.com/VtQJDrj.png",Porto FC - Olympique Lyonnais 10/03 cúp c2
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/5e99cba816e26097b022544290019e81.mp4/playlist.m3u8
+
