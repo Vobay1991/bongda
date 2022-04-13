@@ -65,18 +65,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Refer
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Cerro Porteño - Colón
-https://phubongdamoi.000webhostapp.com/playmitomtv.php?id=cerro-porteno-vs-colon-0515-13-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Cerro Porteño - Colón
-https://phubongdamoi.000webhostapp.com/playmitomtv.php?id=cerro-porteno-vs-colon-0515-13-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Boca Juniors - Always Ready
-https://phubongdamoi.000webhostapp.com/playmitomtv.php?id=boca-juniors-vs-always-ready-0515-13-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Boca Juniors - Always Ready
-https://phubongdamoi.000webhostapp.com/playmitomtv.php?id=boca-juniors-vs-always-ready-0515-13-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Uni. Catolica - Sporting Cristal
-https://phubongdamoi.000webhostapp.com/playmitomtv.php?id=uni-catolica-vs-sporting-cristal-0515-13-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Uni. Catolica - Sporting Cristal
-https://phubongdamoi.000webhostapp.com/playmitomtv.php?id=uni-catolica-vs-sporting-cristal-0515-13-04/?link=1&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/by1g4Qa.png",HD 1 Correcaminos UAT - Alebrijes
 https://phubongdamoi.000webhostapp.com/playmitomtv.php?id=correcaminos-uat-vs-alebrijes-0705-13-04/?link=0&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/wAl5RmC.png",HD 2 Correcaminos UAT - Alebrijes
@@ -197,12 +185,6 @@ https://phubongdamoi.000webhostapp.com/playxembd.php?id=newcastle-vs-leicester-l
 #EXTINF:-1 group-title="XEMBD by VoPhu - Premier League" tvg-logo="https://xembd.live//wp-content/uploads/data/team/team_116.png",17/04 - 22:30 Wolves - Manchester City
 https://phubongdamoi.000webhostapp.com/playxembd.php?id=wolves-vs-manchester-city-luc-22h30-ngay-17-04-2022&.m3u8|Origin=https://xembd.live
 
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 05:15  Cerro Porteño - Colón
-https://phubongdamoi.000webhostapp.com/playmitomtv.php?id=cerro-porteno-vs-colon-0515-13-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 05:15  Boca Juniors - Always Ready
-https://phubongdamoi.000webhostapp.com/playmitomtv.php?id=boca-juniors-vs-always-ready-0515-13-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
-#EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 05:15  Uni. Catolica - Sporting Cristal
-https://phubongdamoi.000webhostapp.com/playmitomtv.php?id=uni-catolica-vs-sporting-cristal-0515-13-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 07:05  Correcaminos UAT - Alebrijes
 https://phubongdamoi.000webhostapp.com/playmitomtv.php?id=correcaminos-uat-vs-alebrijes-0705-13-04&.m3u8|Referer=https://playmt.fastlycdn.xyz/
 #EXTINF:-1 group-title="MitomTV by VoPhu - Giải khác" tvg-logo="https://i.imgur.com/XNPRwNy.png",Hôm nay - 07:30  Peñarol - Olimpia
