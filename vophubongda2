@@ -102,47 +102,23 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/5e99cba816e2
 
 
 
-#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/g9ZQu3p.png",HD 1 Atalanta - RB Leipzig
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/7GipKaV.png",SD 1 Atalanta - RB Leipzig
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/g9ZQu3p.png",HD 1 PSV Eindhoven - Leicester
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/7GipKaV.png",SD 1 PSV Eindhoven - Leicester
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechsd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-
-#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/XFTuwH5.png",HD 1 Atalanta - RB Leipzig
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/bSUwsJP.png",SD 1 Atalanta - RB Leipzig
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cachuoisd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/XFTuwH5.png",HD 1 PSV Eindhoven - Leicester
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@camaphd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/bSUwsJP.png",SD 1 PSV Eindhoven - Leicester
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@camapsd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-
-#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/j9LvZYY.png",HD 1 Atalanta - RB Leipzig
-https://phuholive.fastlycdnlive.xyz/live/_definst_/stream_1_d9541@betonghd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/TgvRysJ.png",SD 1 Atalanta - RB Leipzig
-https://phuholive.fastlycdnlive.xyz/live/_definst_/stream_1_d9541@betongsd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/j9LvZYY.png",HD 1 PSV Eindhoven - Leicester
-https://phuholive.fastlycdnlive.xyz/live/_definst_/stream_1_d9541@thoxayhd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/TgvRysJ.png",SD 1 PSV Eindhoven - Leicester
-https://phuholive.fastlycdnlive.xyz/live/_definst_/stream_1_d9541@thoxaysd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-
-#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Atalanta - RB Leipzig
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Atalanta - RB Leipzig
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y3/playlist.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD PSV Eindhoven - Leicester
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD PSV Eindhoven - Leicester
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://saokelives.site/
 
 
-#EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - CUP C2" tvg-logo="https://i.imgur.com/bCufm0C.png",23h45 14/04: Atalanta - RB Leipzig
-https://bongdatest.000webhostapp.com/playcakhia.php?id=6252c6ce5c6de3760c504ad6&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - CUP C3" tvg-logo="https://i.imgur.com/Xvjl8PW.png",23h45 14/04: PSV Eindhoven - Leicester
-https://bongdatest.000webhostapp.com/playcakhia.php?id=6252c6d35c6de3760c504ada&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+
+
+#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/Fwp1Iec.png",HD Barcelona - Frankfurt (Cáp Tần)
+https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/Ut9HKdq.png",FullHD Barcelona - Frankfurt (Cáp Tần)
+https://livestream.socialstreaming.tv/live/62586be622a238001dd1e929/62586be622a238001dd1e929.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/Fwp1Iec.png",HD Lyon - West Ham (Liu men)
+https://179235864.global.cdnfastest.com/live/1835978343a56044e44ac7f11057e93569a/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/Ut9HKdq.png",FullHD Lyon - West Ham (Liu men)
+https://livestream-2.socialstreaming.tv/live/62586ae6efd104001c265839/62586ae6efd104001c265839.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/Fwp1Iec.png",HD Roma - Bodø/Glimt (Âu men)
+https://179910612.global.cdnfastest.com/live/183116676476b44487da6090d3613448beb/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/Ut9HKdq.png",FullHD Roma - Bodø/Glimt (Âu men)
+https://livestream.socialstreaming.tv/live/625861bc355135001da18fae/625861bc355135001da18fae.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+
 #EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - CUP C2" tvg-logo="https://i.imgur.com/bCufm0C.png",02h00 15/04: Barcelona - Frankfurt
 https://bongdatest.000webhostapp.com/playcakhia.php?id=625593515c6de3760c505372&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - CUP C2" tvg-logo="https://i.imgur.com/bCufm0C.png",02h00 15/04: Lyon - West Ham
@@ -244,10 +220,6 @@ https://bongdatest.000webhostapp.com/playcakhia.php?id=62572e7d5c6de3760c505ad5&
 #EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - LaLiga" tvg-logo="https://i.imgur.com/L5NYCXJ.png",02h00 18/04: Sevilla - Real Madrid
 https://bongdatest.000webhostapp.com/playcakhia.php?id=62572e835c6de3760c505ad9&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="🏀 CÁHEOTV BY 👉 VÕ PHÚ - CUP C2" tvg-logo="https://i.imgur.com/TrErZsl.png",23h45 14/04: Atalanta - RB Leipzig
-https://bongdatest.000webhostapp.com/playcakhia.php?id=6252c6ce5c6de3760c504ad6&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="🏀 CÁHEOTV BY 👉 VÕ PHÚ - CUP C3" tvg-logo="https://i.imgur.com/a6BBQhL.png",23h45 14/04: PSV Eindhoven - Leicester
-https://bongdatest.000webhostapp.com/playcakhia.php?id=6252c6d35c6de3760c504ada&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="🏀 CÁHEOTV BY 👉 VÕ PHÚ - CUP C2" tvg-logo="https://i.imgur.com/TrErZsl.png",02h00 15/04: Barcelona - Frankfurt
 https://bongdatest.000webhostapp.com/playcakhia.php?id=625593515c6de3760c505372&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="🏀 CÁHEOTV BY 👉 VÕ PHÚ - CUP C2" tvg-logo="https://i.imgur.com/TrErZsl.png",02h00 15/04: Lyon - West Ham
@@ -349,10 +321,6 @@ https://bongdatest.000webhostapp.com/playcakhia.php?id=62572e7d5c6de3760c505ad5&
 #EXTINF:-1 group-title="🏀 CÁHEOTV BY 👉 VÕ PHÚ - LaLiga" tvg-logo="https://i.imgur.com/LrPcktX.png",02h00 18/04: Sevilla - Real Madrid
 https://bongdatest.000webhostapp.com/playcakhia.php?id=62572e835c6de3760c505ad9&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="🏀 PHỤ HỒ TV BY 👉 VÕ PHÚ - CUP C2" tvg-logo="https://i.imgur.com/59GZw9N.png",23h45 14/04: Atalanta - RB Leipzig
-https://bongdatest.000webhostapp.com/playcakhia.php?id=6252c6ce5c6de3760c504ad6&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-#EXTINF:-1 group-title="🏀 PHỤ HỒ TV BY 👉 VÕ PHÚ - CUP C3" tvg-logo="https://i.imgur.com/Qg7LJB1.png",23h45 14/04: PSV Eindhoven - Leicester
-https://bongdatest.000webhostapp.com/playcakhia.php?id=6252c6d35c6de3760c504ada&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="🏀 PHỤ HỒ TV BY 👉 VÕ PHÚ - CUP C2" tvg-logo="https://i.imgur.com/59GZw9N.png",02h00 15/04: Barcelona - Frankfurt
 https://bongdatest.000webhostapp.com/playcakhia.php?id=625593515c6de3760c505372&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="🏀 PHỤ HỒ TV BY 👉 VÕ PHÚ - CUP C2" tvg-logo="https://i.imgur.com/59GZw9N.png",02h00 15/04: Lyon - West Ham
@@ -454,10 +422,6 @@ https://bongdatest.000webhostapp.com/playcakhia.php?id=62572e7d5c6de3760c505ad5&
 #EXTINF:-1 group-title="🏀 PHỤ HỒ TV BY 👉 VÕ PHÚ - LaLiga" tvg-logo="https://i.imgur.com/OCezeBy.png",02h00 18/04: Sevilla - Real Madrid
 https://bongdatest.000webhostapp.com/playcakhia.php?id=62572e835c6de3760c505ad9&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",23h45 14/04: Atalanta - RB Leipzig
-https://bongdatest.000webhostapp.com/playsaoke.php?id=62509b866b646d14c6cd7ecc&.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",23h45 14/04: PSV Eindhoven - Leicester
-https://bongdatest.000webhostapp.com/playsaoke.php?id=62509b886b646d14c6cd7ecd&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 15/04: Barcelona - Frankfurt
 https://bongdatest.000webhostapp.com/playsaoke.php?id=62509c9b6b646d14c6cd7f33&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 15/04: Lyon - West Ham
