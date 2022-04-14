@@ -96,10 +96,6 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/5e99cba816e2
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Independiente del Valle - Tolima
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y4/playlist.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Independiente del Valle - Tolima
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y3/playlist.m3u8|Referer=https://saokelives.site/
 
 
 #EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - CUP C2" tvg-logo="https://i.imgur.com/bCufm0C.png",23h45 14/04: Atalanta - RB Leipzig
@@ -423,8 +419,6 @@ https://bongdatest.000webhostapp.com/playcakhia.php?id=62572e7d5c6de3760c505ad5&
 #EXTINF:-1 group-title="🏀 PHỤ HỒ TV BY 👉 VÕ PHÚ - LaLiga" tvg-logo="https://i.imgur.com/OCezeBy.png",02h00 18/04: Sevilla - Real Madrid
 https://bongdatest.000webhostapp.com/playcakhia.php?id=62572e835c6de3760c505ad9&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",09h00 14/04: Independiente del Valle - Tolima
-https://bongdatest.000webhostapp.com/playsaoke.php?id=62509c366b646d14c6cd7efa&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",19h00 14/04: AGF Aarhus - Viborg
 https://bongdatest.000webhostapp.com/playsaoke.php?id=6251b6436b646d14c6cd8316&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",21h00 14/04: Silkeborg - FC København
