@@ -102,13 +102,45 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/5e99cba816e2
 
 
 
+#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/g9ZQu3p.png",HD 1 Atalanta - RB Leipzig
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/7GipKaV.png",SD 1 Atalanta - RB Leipzig
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/g9ZQu3p.png",HD 1 PSV Eindhoven - Leicester
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/7GipKaV.png",SD 1 PSV Eindhoven - Leicester
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lechsd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
+#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/XFTuwH5.png",HD 1 Atalanta - RB Leipzig
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/bSUwsJP.png",SD 1 Atalanta - RB Leipzig
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cachuoisd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/XFTuwH5.png",HD 1 PSV Eindhoven - Leicester
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@camaphd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/bSUwsJP.png",SD 1 PSV Eindhoven - Leicester
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@camapsd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
+#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/j9LvZYY.png",HD 1 Atalanta - RB Leipzig
+https://phuholive.fastlycdnlive.xyz/live/_definst_/stream_1_d9541@betonghd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
+#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/TgvRysJ.png",SD 1 Atalanta - RB Leipzig
+https://phuholive.fastlycdnlive.xyz/live/_definst_/stream_1_d9541@betongsd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
+#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/j9LvZYY.png",HD 1 PSV Eindhoven - Leicester
+https://phuholive.fastlycdnlive.xyz/live/_definst_/stream_1_d9541@thoxayhd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
+#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/TgvRysJ.png",SD 1 PSV Eindhoven - Leicester
+https://phuholive.fastlycdnlive.xyz/live/_definst_/stream_1_d9541@thoxaysd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
 #EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Brøndby IF - Aalborg BK
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y4/playlist.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Brøndby IF - Aalborg BK
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y3/playlist.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Atalanta - RB Leipzig
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Atalanta - RB Leipzig
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y3/playlist.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD PSV Eindhoven - Leicester
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD PSV Eindhoven - Leicester
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://saokelives.site/
 
 #EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/Fwp1Iec.png",HD PSV - Leicester City (Người Thỏ)
 https://179235864.global.cdnfastest.com/live/1835978343a56044e44ac7f11057e93569a/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
