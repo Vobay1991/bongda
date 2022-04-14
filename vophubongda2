@@ -96,10 +96,6 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/5e99cba816e2
 
 
 
-#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD River Plate - Fortaleza
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD River Plate - Fortaleza
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Independiente del Valle - Tolima
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y4/playlist.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="👉 ĐANG TRỰC TIẾP 🏀" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Independiente del Valle - Tolima
@@ -427,8 +423,6 @@ https://phubongdamoi.000webhostapp.com/playcakhia.php?id=62572e7d5c6de3760c505ad
 #EXTINF:-1 group-title="🏀 PHỤ HỒ TV 👉 VÕ PHÚ - LaLiga" tvg-logo="https://i.imgur.com/OCezeBy.png",02h00 18/04: Sevilla - Real Madrid
 https://phubongdamoi.000webhostapp.com/playcakhia.php?id=62572e835c6de3760c505ad9&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="🏀 SAO KÊ TV 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",07h00 14/04: River Plate - Fortaleza
-https://phubongdamoi.000webhostapp.com/playsaoke.php?id=6256d68ec24c80501454ec66&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",09h00 14/04: Independiente del Valle - Tolima
 https://phubongdamoi.000webhostapp.com/playsaoke.php?id=62509c366b646d14c6cd7efa&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",19h00 14/04: AGF Aarhus - Viborg
