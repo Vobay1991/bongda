@@ -53,6 +53,14 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caquahd1/playli
 
 
 
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://i.imgur.com/7khSDB6.png",Atalanta - RB Leipzig l5/04
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220415/220414-2345-atalanta-rb-leipzig-uel-fm-fn-1649973893/8688801f0c91086ebcdb3aab04be303e-1080p.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://i.imgur.com/7khSDB6.png",PSV Eindhoven - Leicester City l5/04
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220415/220414-2345-psv-eindhoven-leicester-city-uecl-clean-57-fm-fn-1649964189/afb01e1e7ce473c67fdad9ab49fc212b-1080p.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://i.imgur.com/7khSDB6.png",Olympique Lyonnais - West Ham l5/04
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220415/220415-0200-olympique-lyonnais-west-ham-uel-clean-58-fm-fn-1649972510/5c5b0706ef55f4773b9d9c15f60eb0b7-1080p.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://i.imgur.com/7khSDB6.png",FC Barcelona - Eintracht Frankfurt l5/04
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220415/220415-0200-barcelona-eintracht-frankfurt-uel-fm-fn-1649972498/db834c719c2070af13c6f290ac89f54a-1080p.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="bóng đá xem lại" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://i.imgur.com/7khSDB6.png",Bayern Munich - Villarreal CF l3/04 cúp c1
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220413/220413-0200-bayern-munich-villarreal-cf-ucl-clean-57-fm-fn-1649798552/b22f8f88169b3137b39a98dc4f199b3a.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="bóng đá xem lại" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://i.imgur.com/7khSDB6.png",Manchester City - Atletico Madrid l3/04 cúp c1
@@ -71,16 +79,6 @@ https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220406/f0d979bd2422
 
 
 
-#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://i.imgur.com/7khSDB6.png",Barcelona - Galatasaray 11/03 cúp c2
-https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220311/ff8b0e705c21547f65fed0235ff96794.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://i.imgur.com/7khSDB6.png",Leicester City - Stade Rennais 11/03 cúp c2
-https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220311/220311-0300-leicester-city-stade-rennais-uecl-clean-58-fm-fn-1646952632/577047e7f5afd3f260ea2f9ff45a274b.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://i.imgur.com/7khSDB6.png",Sevilla FC - West Ham United |11/03cúp c2
-https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220311/220311-0045-sevilla-west-ham-uel-clean-49-fm-fn-1646943972/bfbb1389f385e85c2311180a1212b301.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://i.imgur.com/7khSDB6.png",Real Betis - Eintracht Frankfurt 10/03 cúp c2
-https://vod06-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/9a4b9d780c8eb0355e7e759639785255.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://i.imgur.com/7khSDB6.png",Porto FC - Olympique Lyonnais 10/03 cúp c2
-https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/5e99cba816e26097b022544290019e81.mp4/playlist.m3u8
 
 
 
