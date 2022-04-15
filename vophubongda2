@@ -71,6 +71,26 @@ https://vips-livecdn.fptplay.net/afcchampion/afc09_4000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN " group-title="👉 BÌNH LUẬN VIÊN FPT ⚽" tvg-logo="https://i.imgur.com/wdo5ONW.png",BÌNH LUẬN FPT AFC 10
 https://vips-livecdn.fptplay.net/afcchampion/afc10_4000.stream/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN " group-title="👉 BÌNH LUẬN VIÊN FPT ⚽" tvg-logo="https://i.imgur.com/uDSl93I.png",BÌNH LUẬN FPT CÚP C1/ 1
+https://livecdn.fptplay.net/hdevent/uefa01_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN " group-title="👉 BÌNH LUẬN VIÊN FPT ⚽" tvg-logo="https://i.imgur.com/uDSl93I.png",BÌNH LUẬN FPT CÚP C1/ 2
+https://livecdn.fptplay.net/hdevent/uefa02_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN " group-title="👉 BÌNH LUẬN VIÊN FPT ⚽" tvg-logo="https://i.imgur.com/uDSl93I.png",BÌNH LUẬN FPT CÚP C1/ 3
+https://livecdn.fptplay.net/hdevent/uefa03_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN " group-title="👉 BÌNH LUẬN VIÊN FPT ⚽" tvg-logo="https://i.imgur.com/uDSl93I.png",BÌNH LUẬN FPT CÚP C1/ 4
+https://livecdn.fptplay.net/hdevent/uefa04_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN " group-title="👉 BÌNH LUẬN VIÊN FPT ⚽" tvg-logo="https://i.imgur.com/uDSl93I.png",BÌNH LUẬN FPT CÚP C1/ 5
+https://livecdn.fptplay.net/hdevent/uefa05_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN " group-title="👉 BÌNH LUẬN VIÊN FPT ⚽" tvg-logo="https://i.imgur.com/wdo5ONW.png",BÌNH LUẬN FPT CÚP C1/ 6
+https://livecdn.fptplay.net/hdevent/uefa06_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN " group-title="👉 BÌNH LUẬN VIÊN FPT ⚽" tvg-logo="https://i.imgur.com/wdo5ONW.png",BÌNH LUẬN FPT CÚP C1/ 7
+https://livecdn.fptplay.net/hdevent/uefa07_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN " group-title="👉 BÌNH LUẬN VIÊN FPT ⚽" tvg-logo="https://i.imgur.com/wdo5ONW.png",BÌNH LUẬN FPT CÚP C1/ 8
+https://livecdn.fptplay.net/hdevent/uefa08_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN " group-title="👉 BÌNH LUẬN VIÊN FPT ⚽" tvg-logo="https://i.imgur.com/wdo5ONW.png",BÌNH LUẬN FPT CÚP C1/ 9
+https://livecdn.fptplay.net/hdevent/uefa09_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN " group-title="👉 BÌNH LUẬN VIÊN FPT ⚽" tvg-logo="https://i.imgur.com/wdo5ONW.png",BÌNH LUẬN FPT CÚP C1/ 10
+https://livecdn.fptplay.net/hdevent/uefa10_vhls.smil/chunklist_b5000000.m3u8
 
 
 
