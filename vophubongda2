@@ -163,4 +163,13 @@ https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220406/5bde467099fe
 https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220406/f0d979bd2422d0e0d99d6533236b311f.mp4/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="KÊNH NƯỚC NGOÀI" group-title="👉 KÊNH NƯỚC NGOÀI⚽" tvg-logo="https://logodix.com/logo/2100182.jpg",THỂ THAO NƯỚC NGOÀI 1
+http://tv.trialsonserver.com/Tienmedia-FEED/index.m3u8
+#EXTINF:-1 tvg-id="KÊNH NƯỚC NGOÀI" group-title="👉 KÊNH NƯỚC NGOÀI⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrQOii4CLYKjC3pfQGj50VARHFn6aGqWABKQ&usqp=CAU",THỂ THAO NƯỚC NGOÀI 2
+http://gg.gg/Usasp01
+http://gg.gg/Usasp01
+#EXTINF:-1 tvg-id="KÊNH NƯỚC NGOÀI" group-title="👉 KÊNH NƯỚC NGOÀI⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQndAfwFmfYp751Z5yaDpsnXa73vKBmSMnrAw&usqp=CAU",THỂ THAO NƯỚC NGOÀI 3
+http://gg.gg/Rmcsp1
+#EXTINF:-1 tvg-id="KÊNH NƯỚC NGOÀI" group-title="👉 KÊNH NƯỚC NGOÀI⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQndAfwFmfYp751Z5yaDpsnXa73vKBmSMnrAw&usqp=CAU",THỂ THAO NƯỚC NGOÀI 4
+http://gg.gg/Rmcsp2
 
