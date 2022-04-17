@@ -138,7 +138,8 @@ https://livecdn.fptplay.net/hdevent/fa10_4000.stream/chunklist.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="bóng đá xem lại" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://i.imgur.com/7khSDB6.png",Manchester City - Liverpool l6/04
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220417/fdc56fdf2ae7d658bd9e8b44112af0f1.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="bóng đá xem lại" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://i.imgur.com/7khSDB6.png",Atalanta - RB Leipzig l5/04
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220415/220414-2345-atalanta-rb-leipzig-uel-fm-fn-1649973893/8688801f0c91086ebcdb3aab04be303e-1080p.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="bóng đá xem lại" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://i.imgur.com/7khSDB6.png",PSV Eindhoven - Leicester City l5/04
