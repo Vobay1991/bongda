@@ -109,10 +109,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Kolubara - Novi Pazar
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Kolubara - Novi Pazar
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y3/playlist.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Trencin - Zlate Moravce
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y4/playlist.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Trencin - Zlate Moravce
@@ -120,10 +116,18 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y3/playlist.m3u8|Refer
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  FK Tobol Kostanay - FC Astana
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-fk-tobol-kostanay-vs-fc-astana-2022-04-26-2100&.m3u8|Referer=https://khomuc.tv/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Kolubara - Novi Pazar
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-kolubara-vs-novi-pazar-2022-04-26-2100&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Estoril - Belenenses
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-estoril-vs-belenenses-2022-04-25-0000&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Al-Duhail SC - Sepahan FC
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-al-duhail-vs-sepahan-2022-04-27-0015&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Fulham - Nottingham Forest
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-fulham-vs-nottingham-forest-2022-04-27-0145&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Barnsley - Blackpool
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-barnsley-vs-blackpool-2022-04-27-0145&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Manchester City - Real Madrid
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-manchester-city-vs-real-madrid-2022-04-27-0200&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Salzburg U19 - Benfica U19
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-salzburg-u19-vs-benfica-u19-2022-04-25-2300&.m3u8|Referer=https://khomuc.tv/
 
 
 
@@ -156,8 +160,6 @@ https://hongthuy.tk/playcakhia.php?id=6264d033c6ce474125eef41c&.m3u8|Referer=htt
 #EXTINF:-1 group-title="🏀 PHỤ HỒ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",02h00 28/04: Liverpool - Villarreal - Phú Hộ: Phụ hồ
 https://hongthuy.tk/playcakhia.php?id=6264d032c6ce474125eef41b&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",21h00 26/04: Kolubara - Novi Pazar Sao Hoả
-https://hongthuy.tk/playsaoke.php?id=62653ebcc71b9c4e02f6d649&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",23h00 26/04: Trencin - Zlate Moravce Sao Kim
 https://hongthuy.tk/playsaoke.php?id=625b04e57792d82480f95c9b&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",00h15 27/04: Al-Duhail SC - Sepahan Sao Hỏa
@@ -201,8 +203,6 @@ https://hongthuy.tk/playxembd.php?id=ac-milan-vs-fiorentina-luc-20h00-ngay-01-05
 
 #EXTINF:-1 group-title="🏀 KHOMUCTV BY 👉 VÕ PHÚ - VÕ PHÚ" tvg-logo="https://i.imgur.com/b0XuOsT.png",27/04/2022 - 02:00 Manchester City - Real Madrid
 https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-manchester-city-vs-real-madrid-2022-04-27-0200&.m3u8|Referer=https://khomuc.tv/
-#EXTINF:-1 group-title="🏀 KHOMUCTV BY 👉 VÕ PHÚ - VÕ PHÚ" tvg-logo="https://i.imgur.com/b0XuOsT.png",26/04/2022 - 21:00 Kolubara - Novi Pazar
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-kolubara-vs-novi-pazar-2022-04-26-2100&.m3u8|Referer=https://khomuc.tv/
 #EXTINF:-1 group-title="🏀 KHOMUCTV BY 👉 VÕ PHÚ - VÕ PHÚ" tvg-logo="https://i.imgur.com/b0XuOsT.png",27/04/2022 - 00:15 Al-Duhail SC - Sepahan FC
 https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-al-duhail-vs-sepahan-2022-04-27-0015&.m3u8|Referer=https://khomuc.tv/
 #EXTINF:-1 group-title="🏀 KHOMUCTV BY 👉 VÕ PHÚ - VÕ PHÚ" tvg-logo="https://i.imgur.com/b0XuOsT.png",27/04/2022 - 01:45 Fulham - Nottingham Forest
