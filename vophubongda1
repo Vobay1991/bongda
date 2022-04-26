@@ -102,20 +102,8 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/5e99cba816e2
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/g9ZQu3p.png",HD 1 Man City - Real Madrid
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/7GipKaV.png",SD 1 Man City - Real Madrid
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/XFTuwH5.png",HD 1 Man City - Real Madrid
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bSUwsJP.png",SD 1 Man City - Real Madrid
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taosd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/j9LvZYY.png",HD 1 Man City - Real Madrid
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@phuhohd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TgvRysJ.png",SD 1 Man City - Real Madrid
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@phuhosd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png",Chổi Mai HD 2 Man City - Real Madrid
 https://2459955770.cloud.anycastapnic.com/pep/x2y2/playlist.m3u8|Referer=https://saokelives.site/
@@ -136,19 +124,25 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk3/playlist.m3u8|Refere
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Fulham - Nottingham Forest
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-fulham-vs-nottingham-forest-2022-04-27-0145&.m3u8|Referer=https://khomuc.tv/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Barnsley - Blackpool
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-barnsley-vs-blackpool-2022-04-27-0145&.m3u8|Referer=https://khomuc.tv/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Manchester City - Real Madrid
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-manchester-city-vs-real-madrid-2022-04-27-0200&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Ulsan Hyundai FC - Kawasaki Frontale
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-ulsan-vs-kawasaki-frontale-2022-04-27-1600&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Olympic - Eastern Suburbs
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-olympic-vs-eastern-suburbs-2022-04-27-1630&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Peninsula Power - Brisbane City
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-peninsula-power-vs-brisbane-city-2022-04-27-1630&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Cimarrones - Alebrijes de Oaxaca
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-cimarrones-de-sonora-vs-alebrijes-2022-04-27-0905&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Fiorentina - Udinese
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-fiorentina-vs-udinese-2022-04-27-2300&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Bologna - Inter
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-bologna-vs-inter-2022-04-27-0115&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Liverpool - Villarreal
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-liverpool-vs-villarreal-2022-04-28-0200&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Urawa - Home United
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-urawa-reds-vs-home-united-2022-04-27-1800&.m3u8|Referer=https://khomuc.tv/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png", 27/04/2022 02:00 Manchester City - Real Madrid - BLV: Tể Tướng Toby
-https://cdnorigin6.teamfl.live/sky88/aHR0cHM6Ly9vcmlnaW4yaGYudGVhbWZsLmxpdmUvbGl2ZW91dDIvc2t5ODgtLTg1N2E5MjlkLTFmNTEtNGU5Ny04NGZjLTVjM2VjNjEwZmVkMS5mbHY=-master_playlist.m3u8
 
-#EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",02h00 27/04: Man City - Real Madrid - Cà Khịa: Giàng A Phò
-https://hongthuy.tk/playcakhia.php?id=6264cfc6c6ce474125eef3df&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",23h00 27/04: Fiorentina - Udinese - Cà Khịa: Giàng A Cay
 https://hongthuy.tk/playcakhia.php?id=6264cfd0c6ce474125eef3e3&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",01h15 28/04: Bologna - Inter - Cà Khịa: Giàng A Páo
@@ -156,8 +150,6 @@ https://hongthuy.tk/playcakhia.php?id=6264d033c6ce474125eef41c&.m3u8|Referer=htt
 #EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",02h00 28/04: Liverpool - Villarreal - Cà Khịa: Giàng A Lử
 https://hongthuy.tk/playcakhia.php?id=6264d032c6ce474125eef41b&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="🏀  CÁHEOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",02h00 27/04: Man City - Real Madrid - Cá Heo: Cá Nóc
-https://hongthuy.tk/playcakhia.php?id=6264cfc6c6ce474125eef3df&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="🏀  CÁHEOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",23h00 27/04: Fiorentina - Udinese - Cá Heo: Cá Chuối
 https://hongthuy.tk/playcakhia.php?id=6264cfd0c6ce474125eef3e3&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="🏀  CÁHEOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",01h15 28/04: Bologna - Inter - Cá Heo: Cá Quả
@@ -165,8 +157,6 @@ https://hongthuy.tk/playcakhia.php?id=6264d033c6ce474125eef41c&.m3u8|Referer=htt
 #EXTINF:-1 group-title="🏀  CÁHEOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",02h00 28/04: Liverpool - Villarreal - Cá Heo: Cá Nóc
 https://hongthuy.tk/playcakhia.php?id=6264d032c6ce474125eef41b&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="🏀 PHỤ HỒ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",02h00 27/04: Man City - Real Madrid - Phú Hộ: Phụ hồ
-https://hongthuy.tk/playcakhia.php?id=6264cfc6c6ce474125eef3df&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="🏀 PHỤ HỒ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",23h00 27/04: Fiorentina - Udinese - Phú Hộ: Thợ Xây
 https://hongthuy.tk/playcakhia.php?id=6264cfd0c6ce474125eef3e3&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 #EXTINF:-1 group-title="🏀 PHỤ HỒ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",01h15 28/04: Bologna - Inter - Phú Hộ: Bê Tông
@@ -201,8 +191,6 @@ https://hongthuy.tk/playsaoke.php?id=62639aeeb711033713bdfad9&.m3u8|Referer=http
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",09h30 28/04: Pumas - Seattle Sounders Thần Chổi
 https://hongthuy.tk/playsaoke.php?id=62639accb711033713bdfad4&.m3u8|Referer=https://saokelives.site/
 
-#EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - UEFA Champions League" tvg-logo="https://i.imgur.com/5mvoglV.png",02h00 27/04: Man City - Real Madrid (Liu + Âu)
-https://hongthuy.tk/play90p.php?id=6265bc983679ef42e3971598&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 #EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - AFC Champions League" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_1575.png",27/04 - 16:00 Ulsan Hyundai FC - Kawasaki Frontale H+ Bê Đê
 https://hongthuy.tk/playxembd.php?id=ulsan-hyundai-fc-vs-kawasaki-frontale-luc-16h00-ngay-27-04-2022&.m3u8|Referer=https://xembd.tv/
@@ -231,14 +219,10 @@ https://hongthuy.tk/playxembd.php?id=hoang-anh-gia-lai-vs-sydney-luc-18h00-ngay-
 #EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - Serie A" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_164.png",01/05 - 20:00 AC Milan - Fiorentina Rất Bê Đê
 https://hongthuy.tk/playxembd.php?id=ac-milan-vs-fiorentina-luc-20h00-ngay-01-05-2022&.m3u8|Referer=https://xembd.tv/
 
-#EXTINF:-1 group-title="🏀 KHOMUCTV BY 👉 VÕ PHÚ - VÕ PHÚ" tvg-logo="https://i.imgur.com/b0XuOsT.png",27/04/2022 - 02:00 Manchester City - Real Madrid
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-manchester-city-vs-real-madrid-2022-04-27-0200&.m3u8|Referer=https://khomuc.tv/
-#EXTINF:-1 group-title="🏀 KHOMUCTV BY 👉 VÕ PHÚ - VÕ PHÚ" tvg-logo="https://i.imgur.com/b0XuOsT.png",27/04/2022 - 00:15 Al-Duhail SC - Sepahan FC
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-al-duhail-vs-sepahan-2022-04-27-0015&.m3u8|Referer=https://khomuc.tv/
-#EXTINF:-1 group-title="🏀 KHOMUCTV BY 👉 VÕ PHÚ - VÕ PHÚ" tvg-logo="https://i.imgur.com/b0XuOsT.png",27/04/2022 - 01:45 Fulham - Nottingham Forest
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-fulham-vs-nottingham-forest-2022-04-27-0145&.m3u8|Referer=https://khomuc.tv/
-#EXTINF:-1 group-title="🏀 KHOMUCTV BY 👉 VÕ PHÚ - VÕ PHÚ" tvg-logo="https://i.imgur.com/b0XuOsT.png",27/04/2022 - 01:45 Barnsley - Blackpool
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-barnsley-vs-blackpool-2022-04-27-0145&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="🏀 KHOMUCTV BY 👉 VÕ PHÚ - VÕ PHÚ" tvg-logo="https://i.imgur.com/b0XuOsT.png",28/04/2027 - 02:00 Liverpool - Villarreal
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-liverpool-vs-villarreal-2022-04-28-0200&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="🏀 KHOMUCTV BY 👉 VÕ PHÚ - Serie A" tvg-logo="https://i.imgur.com/sBBEGKB.png",28/04/2022 - 01:15 Bologna - Inter
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-bologna-vs-inter-2022-04-27-0115&.m3u8|Referer=https://khomuc.tv/
 
 #EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/2685/image",28/04/2022 - 01:15 Bologna - Inter
 https://hongthuy.tk/playvebotv.php?id=inter-bologna-Q13KR93&.m3u8|Referer=https://vebotv.tv/
@@ -257,8 +241,6 @@ https://hongthuy.tk/playvebotv.php?id=west-ham-united-eintracht-frankfurt-46IrEc
 https://hongthuy.tk/playvuasanco.php?id=truc-tiep-fiorentina-vs-udinese-07-01-2022-serie-a-vuasanco&.m3u8|Referer=https://vuasanco3.com/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://media.api-sports.io/football/teams/499.png",01:15 Atalanta - Torino - Võ Thần Triệu Vân
 https://hongthuy.tk/playvuasanco.php?id=truc-tiep-atalanta-vs-torino-06-01-2022-serie-a-vuasanco&.m3u8|Referer=https://vuasanco3.com/
-#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://media.api-sports.io/football/teams/500.png",01:15 Bologna - Inter - Võ Thần Triệu Vân
-https://hongthuy.tk/playvuasanco.php?id=truc-tiep-bologna-vs-inter-06-01-2022-serie-a-vuasanco&.m3u8|Referer=https://vuasanco3.com/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://media.api-sports.io/football/teams/40.png",02:00 Liverpool - Villarreal - Tể Tướng Toby
 https://hongthuy.tk/playvuasanco.php?id=truc-tiep-liverpool-vs-villarreal-28-04-2022-champions-league-vuasanco&.m3u8|Referer=https://vuasanco3.com/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://media.api-sports.io/football/teams/514.png",23:00 Salernitana - Venezia - Công Tước Alexx
