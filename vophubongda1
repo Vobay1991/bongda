@@ -148,6 +148,8 @@ https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-manchester-city-vs-real-madrid
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/9RbWCIq.png", -  Manchester City - Real Madrid
 https://hongthuy.tk/playvebotv.php?id=real-madrid-manchester-city-ElVXomW&.m3u8|Referer=https://vebotv.tv/
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png", 27/04/2022 02:00 Manchester City - Real Madrid - BLV: Tể Tướng Toby
+https://cdnorigin6.teamfl.live/sky88/aHR0cHM6Ly9vcmlnaW4yaGYudGVhbWZsLmxpdmUvbGl2ZW91dDIvc2t5ODgtLTg1N2E5MjlkLTFmNTEtNGU5Ny04NGZjLTVjM2VjNjEwZmVkMS5mbHY=-master_playlist.m3u8
 
 #EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",02h00 27/04: Man City - Real Madrid - Cà Khịa: Giàng A Phò
 https://hongthuy.tk/playcakhia.php?id=6264cfc6c6ce474125eef3df&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
@@ -255,3 +257,15 @@ https://hongthuy.tk/playvebotv.php?id=guatemala-mexico-HVK6OFu&.m3u8|Referer=htt
 #EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://api.sofascore.app/api/v1/team/35/image",29/04/2022 - 01:45 Manchester United - Chelsea
 https://hongthuy.tk/playvebotv.php?id=chelsea-manchester-united-A0zwrXK&.m3u8|Referer=https://vebotv.tv/
 
+#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://media.api-sports.io/football/teams/502.png",23:00 Fiorentina - Udinese - Công Tước Alexx
+https://hongthuy.tk/playvuasanco.php?id=truc-tiep-fiorentina-vs-udinese-07-01-2022-serie-a-vuasanco&.m3u8|Referer=https://vuasanco3.com/
+#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://media.api-sports.io/football/teams/499.png",01:15 Atalanta - Torino - Võ Thần Triệu Vân
+https://hongthuy.tk/playvuasanco.php?id=truc-tiep-atalanta-vs-torino-06-01-2022-serie-a-vuasanco&.m3u8|Referer=https://vuasanco3.com/
+#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://media.api-sports.io/football/teams/500.png",01:15 Bologna - Inter - Võ Thần Triệu Vân
+https://hongthuy.tk/playvuasanco.php?id=truc-tiep-bologna-vs-inter-06-01-2022-serie-a-vuasanco&.m3u8|Referer=https://vuasanco3.com/
+#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://media.api-sports.io/football/teams/40.png",02:00 Liverpool - Villarreal - Tể Tướng Toby
+https://hongthuy.tk/playvuasanco.php?id=truc-tiep-liverpool-vs-villarreal-28-04-2022-champions-league-vuasanco&.m3u8|Referer=https://vuasanco3.com/
+#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://media.api-sports.io/football/teams/514.png",23:00 Salernitana - Venezia - Công Tước Alexx
+https://hongthuy.tk/playvuasanco.php?id=truc-tiep-salernitana-vs-venezia-07-01-2022-serie-a-vuasanco&.m3u8|Referer=https://vuasanco3.com/
+#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://media.api-sports.io/football/teams/47.png",01:45 Tottenham - Arsenal - Võ Thần Triệu Vân
+https://hongthuy.tk/playvuasanco.php?id=truc-tiep-tottenham-vs-arsenal-16-01-2022-premier-league-vuasanco&.m3u8|Referer=https://vuasanco3.com/
