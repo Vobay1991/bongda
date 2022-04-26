@@ -102,10 +102,6 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/5e99cba816e2
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/g9ZQu3p.png",HD 1 Dortmund - Dynamo Kyiv
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/7GipKaV.png",SD 1 Dortmund - Dynamo Kyiv
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
 
 
@@ -125,8 +121,6 @@ https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-al-duhail-vs-sepahan-2022-04-2
 
 
 
-#EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",23h10 26/04: Dortmund - Dynamo Kyiv - Cà Khịa: Giàng A Cay
-https://hongthuy.tk/playcakhia.php?id=6266d145c6ce474125eef942&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",02h00 27/04: Man City - Real Madrid - Cà Khịa: Giàng A Phò
 https://hongthuy.tk/playcakhia.php?id=6264cfc6c6ce474125eef3df&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",23h00 27/04: Fiorentina - Udinese - Cà Khịa: Giàng A Cay
