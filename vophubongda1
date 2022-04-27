@@ -105,6 +105,10 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/5e99cba816e2
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Jeonnam Dragons - United City
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Jeonnam Dragons - United City
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y3/playlist.m3u8|Referer=https://saokelives.site/
 
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Wwc7MwU.png",Guangzhou Evergrande FC - Johor Darul Takzim FC H+ Bê Đê
@@ -112,6 +116,8 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/5e99cba816e2
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Jeonnam Dragons - Ceres
 https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-jeonnam-dragons-vs-ceres-philippines-2022-04-27-2100&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Daegu FC - Shandong Luneng
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-daegu-vs-shandong-luneng-2022-04-27-2100&.m3u8|Referer=https://khomuc.tv/
 
 
 #EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",23h00 27/04: Fiorentina - Udinese - Cà Khịa: Giàng A Cay
