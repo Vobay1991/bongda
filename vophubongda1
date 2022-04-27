@@ -129,10 +129,6 @@ https://phuholive.fastlycdnlive.xyz/live/_definst_/stream_1_d9541@thoxayhd1/play
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TgvRysJ.png",SD 1 Liverpool - Villarreal
 https://phuholive.fastlycdnlive.xyz/live/_definst_/stream_1_d9541@thoxaysd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Olympiacos - PAOK Thessaloniki FC
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y4/playlist.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Olympiacos - PAOK Thessaloniki FC
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y3/playlist.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Bologna - Inter
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Bologna - Inter
@@ -175,6 +171,12 @@ https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-atalanta-vs-torino-2022-04-28-
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Bologna - Inter
 https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-bologna-vs-inter-2022-04-28-115&.m3u8|Referer=https://khomuc.tv/
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/9RbWCIq.png", -  Bologna - Inter
+https://hongthuy.tk/playvebotv.php?id=&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/9RbWCIq.png", -  Atalanta - Torino
+https://hongthuy.tk/playvebotv.php?id=&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/9RbWCIq.png", -  Liverpool - Villarreal
+https://hongthuy.tk/playvebotv.php?id=&.m3u8|Referer=https://vebotv.tv/
 
 #EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",01h15 28/04: Bologna - Inter - Cà Khịa: Giàng A Páo
 https://hongthuy.tk/playcakhia.php?id=6264d033c6ce474125eef41c&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
@@ -219,8 +221,6 @@ https://hongthuy.tk/playcakhia.php?id=62666740c6ce474125eef7f2&.m3u8|Referer=htt
 #EXTINF:-1 group-title="🏀 PHỤ HỒ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",02h00 29/04: Leicester - Roma - Phú Hộ: Bê Tông
 https://hongthuy.tk/playcakhia.php?id=6266674dc6ce474125eef7fa&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",00h00 28/04: Olympiacos - PAOK Thessaloniki FC Sao Kim
-https://hongthuy.tk/playsaoke.php?id=626819dbd55be53dbc95523a&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",01h15 28/04: Bologna - Inter Sao Mai
 https://hongthuy.tk/playsaoke.php?id=626399dcb711033713bdfaa1&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 28/04: Liverpool - Villarreal Sao Kê + Thần Chổi + Sao Hỏa
@@ -301,3 +301,15 @@ https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-bologna-vs-inter-2022-04-28-11
 #EXTINF:-1 group-title="🏀 KHOMUCTV BY 👉 VÕ PHÚ - VÕ PHÚ" tvg-logo="https://i.imgur.com/yimqbZy.png",28/04/2022 - 01:15 Atalanta - Torino
 https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-atalanta-vs-torino-2022-04-28-115&.m3u8|Referer=https://khomuc.tv/
 
+#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png", -  Bologna - Inter
+https://hongthuy.tk/playvebotv.php?id=&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png", -  Atalanta - Torino
+https://hongthuy.tk/playvebotv.php?id=&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png", -  Liverpool - Villarreal
+https://hongthuy.tk/playvebotv.php?id=&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png",29/04/2022 - 02:00 West Ham United - Eintracht Frankfurt
+https://hongthuy.tk/playvebotv.php?id=&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png",29/04/2022 - 02:00 RB Leipzig - Rangers
+https://hongthuy.tk/playvebotv.php?id=&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png",29/04/2022 - 02:00 Olympique Lyonnais - Eintracht Frankfurt
+https://hongthuy.tk/playvebotv.php?id=&.m3u8|Referer=https://vebotv.tv/
