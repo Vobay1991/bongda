@@ -137,6 +137,8 @@ https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-fiorentina-vs-udinese-2022-04-
 https://hongthuy.tk/playvebotv.php?id=inter-bologna-Q13KR93&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/9RbWCIq.png",28/04/2022 - 01:15 Atalanta - Torino
 https://hongthuy.tk/playvebotv.php?id=torino-atalanta-jcyx443&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/9RbWCIq.png",28/04/2022 - 02:00 Liverpool - Villarreal
+https://hongthuy.tk/playvebotv.php?id=liverpool-villarreal-DBWilgV&.m3u8|Referer=https://vebotv.tv/
 
 #EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",23h00 27/04: Fiorentina - Udinese - Cà Khịa: Giàng A Cay
 https://hongthuy.tk/playcakhia.php?id=6264cfd0c6ce474125eef3e3&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
@@ -260,8 +262,8 @@ https://hongthuy.tk/playxembd.php?id=marseille-vs-lyon-luc-01h45-ngay-02-05-2022
 
 #EXTINF:-1 group-title="🏀 KHOMUCTV BY 👉 VÕ PHÚ - VÕ PHÚ" tvg-logo="https://i.imgur.com/yimqbZy.png",28/04/2022 - 02:00 Liverpool - Villarreal
 https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-liverpool-vs-villarreal-2022-04-28-0200&.m3u8|Referer=https://khomuc.tv/
-#EXTINF:-1 group-title="🏀 KHOMUCTV BY 👉 VÕ PHÚ - VÕ PHÚ" tvg-logo="https://i.imgur.com/yimqbZy.png",28/04/2022 - 01:15 Bologna - Inter
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-bologna-vs-inter-2022-04-27-0115&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="🏀 KHOMUCTV BY 👉 VÕ PHÚ - VÕ PHÚ" tvg-logo="https://i.imgur.com/yimqbZy.png", -   - 
+https://hongthuy.tk/playkhomuctv.php?id=&.m3u8|Referer=https://khomuc.tv/
 
 #EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png",28/04/2022 - 01:15 Bologna - Inter
 https://hongthuy.tk/playvebotv.php?id=inter-bologna-Q13KR93&.m3u8|Referer=https://vebotv.tv/
