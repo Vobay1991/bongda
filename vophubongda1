@@ -116,9 +116,9 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@camaphd1/playli
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bSUwsJP.png",SD 1 Bologna - Inter
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@camapsd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/XFTuwH5.png",HD 1 Liverpool - Villarreal
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bSUwsJP.png",SD 1 Liverpool - Villarreal
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cachuoisd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/j9LvZYY.png",HD 1 Bologna - Inter
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@phuhohd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
@@ -205,6 +205,8 @@ https://hongthuy.tk/playcakhia.php?id=6266674dc6ce474125eef7fa&.m3u8|Referer=htt
 
 #EXTINF:-1 group-title="🏀  CÁHEOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",01h15 28/04: Bologna - Inter - Cá Heo: Cá Mập
 https://hongthuy.tk/playcakhia.php?id=6264d033c6ce474125eef41c&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 group-title="🏀  CÁHEOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",02h00 28/04: Liverpool - Villarreal - Cá Heo: Cá Chuối
+https://hongthuy.tk/playcakhia.php?id=6264d032c6ce474125eef41b&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="🏀  CÁHEOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",01h45 29/04: Man United - Chelsea - Cá Heo: Cá Quả
 https://hongthuy.tk/playcakhia.php?id=62666756c6ce474125eef7ff&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="🏀  CÁHEOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",02h00 29/04: West Ham - Frankfurt - Cá Heo: Cá Mập
