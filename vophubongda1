@@ -139,9 +139,9 @@ https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-atalanta-vs-torino-2022-04-28-
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Bologna - Inter
 https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-bologna-vs-inter-2022-04-28-115&.m3u8|Referer=https://khomuc.tv/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/9RbWCIq.png",28/04/2022 - 01:15 Bologna - Inter
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/9RbWCIq.png", -  Bologna - Inter
 https://hongthuy.tk/playvebotv.php?id=inter-bologna-Q13KR93&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/9RbWCIq.png",28/04/2022 - 01:15 Atalanta - Torino
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/9RbWCIq.png", -  Atalanta - Torino
 https://hongthuy.tk/playvebotv.php?id=torino-atalanta-jcyx443&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/9RbWCIq.png",28/04/2022 - 02:00 Liverpool - Villarreal
 https://hongthuy.tk/playvebotv.php?id=liverpool-villarreal-DBWilgV&.m3u8|Referer=https://vebotv.tv/
@@ -222,8 +222,6 @@ https://hongthuy.tk/playsaoke.php?id=62639c72b711033713bdfb25&.m3u8|Referer=http
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",09h00 29/04: Always Ready - Deportivo Cali Sao Hỏa
 https://hongthuy.tk/playsaoke.php?id=62639c74b711033713bdfb26&.m3u8|Referer=https://saokelives.site/
 
-#EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Serie A" tvg-logo="https://i.imgur.com/5mvoglV.png",23h00 27/04: Fiorentina - Udinese
-https://hongthuy.tk/play90p.php?id=6265bcd8c6aff63667deb3b0&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Serie A" tvg-logo="https://i.imgur.com/5mvoglV.png",01h15 28/04: Bologna - Inter (BLV Thần Cồn)
 https://hongthuy.tk/play90p.php?id=62685e3ec6aff63667deb3b3&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Serie A" tvg-logo="https://i.imgur.com/5mvoglV.png",01h15 28/04: Atalanta - Torino
@@ -265,9 +263,9 @@ https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-bologna-vs-inter-2022-04-28-11
 #EXTINF:-1 group-title="🏀 KHOMUCTV BY 👉 VÕ PHÚ - VÕ PHÚ" tvg-logo="https://i.imgur.com/yimqbZy.png",28/04/2022 - 01:15 Atalanta - Torino
 https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-atalanta-vs-torino-2022-04-28-115&.m3u8|Referer=https://khomuc.tv/
 
-#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png",28/04/2022 - 01:15 Bologna - Inter
+#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png", -  Bologna - Inter
 https://hongthuy.tk/playvebotv.php?id=inter-bologna-Q13KR93&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png",28/04/2022 - 01:15 Atalanta - Torino
+#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png", -  Atalanta - Torino
 https://hongthuy.tk/playvebotv.php?id=torino-atalanta-jcyx443&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png",28/04/2022 - 02:00 Liverpool - Villarreal
 https://hongthuy.tk/playvebotv.php?id=liverpool-villarreal-DBWilgV&.m3u8|Referer=https://vebotv.tv/
