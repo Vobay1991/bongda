@@ -4,11 +4,6 @@
 
 
 
-
-#EXTINF:-1 tvg-id="TRỰC TIẾP CÚP C1" group-title="👉 TRỰC TIẾP CÚP C1⚽" tvg-logo="https://khomuc.tv/wp-content/uploads/2022/04/nhan-dinh-soi-keo-liverpool-vs-villarreal-2h-ngay-28-4-1.jpg",Liverpool vs Villarreal, 02h00 ngày 28/4 – C1
-https://vaeagaa.wedodemos.com/ff44715a3d899e5c12a6a134e0be278d055dbddd/1651096527/live/_definst_/stream_1_4e329@VG22/chunklist.m3u8
-
-
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/ViniqOU.png",BLV : SAO MAI ⚽
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/oMoFmdT.png",BLV: Thần Chổi ⚽
@@ -143,15 +138,11 @@ https://livecdn.fptplay.net/hdevent/fa10_4000.stream/chunklist.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://sta.cvndnss.com/file/common/20220426/4c7c4d40dfabb554207a50f1c293fdb6.jpg",Tường thuật:  Crystal Palace vs Leeds United 26/04
-https://pullalilive.livnvess.com/live/stream-148290.m3u8?auth_key=1651052724-0-0-89fc35b2a14bfc7d35fd5745083c2edf
-#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://sta.cvndnss.com/file/common/20220426/41b714c27ab59bcfaa3dee787835cb49.jpg",Tường thuật:  Sassuolo Calcio vs Juventus 26/04
-https://pullalilive.livnvess.com/live/stream-109077.m3u8?auth_key=1651054044-0-0-045800c38a4e0b341c61f221c225fb3a
-#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://sta.cvndnss.com/file/common/20220427/25017f91ee4343e66a38c9b948beeccd.jpg",Tường Thuật:  Manchester City vs Real Madrid 26/04
+Liverpool - Villarreal CF
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://sta.cvndnss.com/file/common/20220428/d3867cad423bf1d416b05763a5112c58.jpg",XEM LẠI:  Liverpool - Villarreal CF 28/04
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220428/e4fc655b05a0417fb7c75f296878ed58.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://sta.cvndnss.com/file/common/20220427/25017f91ee4343e66a38c9b948beeccd.jpg",XEM LẠIt:  Manchester City vs Real Madrid 26/04
 https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220427/220427-0200-manchester-city-real-madrid-ucl-clean-fn-1651008845/3357128b39cd3e6a1b3f62f95121a217.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://sta.cvndnss.com/file/common/20220426/3db692ca550e52d11600a052633c0587.png",Tường Thuật: Lazio vs AC Milan  26/04
-https://pullalilive.livnvess.com/live/stream-135002.m3u8?auth_key=1651054464-0-0-76a5ec5f6804767c50cb6d62ddf161dd
 
 
 #EXTINF:-1 tvg-id="KÊNH NƯỚC NGOÀI" group-title="👉 KÊNH NƯỚC NGOÀI⚽" tvg-logo="https://logodix.com/logo/2100182.jpg",THỂ THAO NƯỚC NGOÀI 1
