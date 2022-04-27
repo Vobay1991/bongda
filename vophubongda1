@@ -102,24 +102,32 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/5e99cba816e2
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/g9ZQu3p.png",HD 1 Fiorentina - Udinese
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/7GipKaV.png",SD 1 Fiorentina - Udinese
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/XFTuwH5.png",HD 1 Fiorentina - Udinese
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bSUwsJP.png",SD 1 Fiorentina - Udinese
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cachuoisd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
+
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/j9LvZYY.png",HD 1 Fiorentina - Udinese
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@phuhohd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TgvRysJ.png",SD 1 Fiorentina - Udinese
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@phuhosd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
+
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Fiorentina - Udinese
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y4/playlist.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Fiorentina - Udinese
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y3/playlist.m3u8|Referer=https://saokelives.site/
 
 
-
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Jeonnam Dragons - United City
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Jeonnam Dragons - United City
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y3/playlist.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Wwc7MwU.png",Fiorentina - Udinese H+ Bê Đê
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Wwc7MwU.png",Guangzhou Evergrande FC - Johor Darul Takzim FC H+ Bê Đê
-
-
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Jeonnam Dragons - Ceres
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-jeonnam-dragons-vs-ceres-philippines-2022-04-27-2100&.m3u8|Referer=https://khomuc.tv/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Guangzhou Evergrande FC - Johor Darul Takzim FC
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-guangzhou-fc-vs-johor-dt-2022-04-27-2100&.m3u8|Referer=https://khomuc.tv/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Daegu FC - Shandong Luneng
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-daegu-vs-shandong-luneng-2022-04-27-2100&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Fiorentina - Udinese
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-fiorentina-vs-udinese-2022-04-27-2300&.m3u8|Referer=https://khomuc.tv/
 
 
 #EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",23h00 27/04: Fiorentina - Udinese - Cà Khịa: Giàng A Cay
@@ -151,8 +159,6 @@ https://hongthuy.tk/playcakhia.php?id=6264d033c6ce474125eef41c&.m3u8|Referer=htt
 #EXTINF:-1 group-title="🏀 PHỤ HỒ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",02h00 28/04: Liverpool - Villarreal - Phú Hộ: Thợ Xây
 https://hongthuy.tk/playcakhia.php?id=6264d032c6ce474125eef41b&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",21h00 27/04: Jeonnam Dragons - United City  Thần Chổi
-https://hongthuy.tk/playsaoke.php?id=625b05547792d82480f95cba&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",23h00 27/04: Fiorentina - Udinese Sao Mộc
 https://hongthuy.tk/playsaoke.php?id=625b051d7792d82480f95ca7&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",00h00 28/04: Olympiacos - PAOK Thessaloniki FC Sao Kim
@@ -166,14 +172,14 @@ https://hongthuy.tk/playsaoke.php?id=62639aeeb711033713bdfad9&.m3u8|Referer=http
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",09h30 28/04: Pumas - Seattle Sounders Thần Chổi
 https://hongthuy.tk/playsaoke.php?id=62639accb711033713bdfad4&.m3u8|Referer=https://saokelives.site/
 
-#EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Serie A" tvg-logo="https://i.imgur.com/5mvoglV.png",23h00 27/04: Salernitana - Venezia
-https://hongthuy.tk/play90p.php?id=6265bcf98bb98639dd59c949&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Serie A" tvg-logo="https://i.imgur.com/5mvoglV.png",23h00 27/04: Fiorentina - Udinese
 https://hongthuy.tk/play90p.php?id=6265bcd8c6aff63667deb3b0&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Serie A" tvg-logo="https://i.imgur.com/5mvoglV.png",01h15 28/04: Atalanta - Torino
-https://hongthuy.tk/play90p.php?id=62685e53baf5f939c69dfaab&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Serie A" tvg-logo="https://i.imgur.com/5mvoglV.png",23h00 27/04: Salernitana - Venezia
+https://hongthuy.tk/play90p.php?id=6265bcf98bb98639dd59c949&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Serie A" tvg-logo="https://i.imgur.com/5mvoglV.png",01h15 28/04: Bologna - Inter
 https://hongthuy.tk/play90p.php?id=62685e3ec6aff63667deb3b3&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Serie A" tvg-logo="https://i.imgur.com/5mvoglV.png",01h15 28/04: Atalanta - Torino
+https://hongthuy.tk/play90p.php?id=62685e53baf5f939c69dfaab&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - UEFA Champions League" tvg-logo="https://i.imgur.com/5mvoglV.png",02h00 28/04: Liverpool - Villarreal
 https://hongthuy.tk/play90p.php?id=62685e1fbaf5f939c69dfaaa&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
