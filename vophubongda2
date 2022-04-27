@@ -3,6 +3,12 @@
 #========võ phú=========
 
 
+
+
+#EXTINF:-1 tvg-id="TRỰC TIẾP CÚP C1" group-title="👉 TRỰC TIẾP CÚP C1⚽" tvg-logo="https://khomuc.tv/wp-content/uploads/2022/04/nhan-dinh-soi-keo-liverpool-vs-villarreal-2h-ngay-28-4-1.jpg",Liverpool vs Villarreal, 02h00 ngày 28/4 – C1
+https://livecdn.fptplay.net/hdevent/uefa01_vhls.smil/chunklist_b5000000.m3u8
+
+
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/ViniqOU.png",BLV : SAO MAI ⚽
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelive.site/
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 BÌNH LUẬN VIÊN⚽" tvg-logo="https://i.imgur.com/oMoFmdT.png",BLV: Thần Chổi ⚽
