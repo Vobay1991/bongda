@@ -102,9 +102,9 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/5e99cba816e2
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/g9ZQu3p.png",HD Ulsan Hyundai - Kawasaki Frontale
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/g9ZQu3p.png",HD 1 Melbourne City FC - BG Pathum United
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/7GipKaV.png",SD Ulsan Hyundai - Kawasaki Frontale
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/7GipKaV.png",SD 1 Melbourne City FC - BG Pathum United
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
 
@@ -130,8 +130,6 @@ https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-peninsula-power-vs-brisbane-ci
 https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-melbourne-city-vs-bg-pathum-united-2022-04-27-1800-2&.m3u8|Referer=https://khomuc.tv/
 
 
-#EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",16h00 27/04: Ulsan Hyundai - Kawasaki Frontale - Cà Khịa: Giàng A Páo
-https://hongthuy.tk/playcakhia.php?id=6264d008c6ce474125eef3fd&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",18h00 27/04: Melbourne City FC - BG Pathum United - Cà Khịa: Giàng A Páo
 https://hongthuy.tk/playcakhia.php?id=6264d00bc6ce474125eef405&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",23h00 27/04: Fiorentina - Udinese - Cà Khịa: Giàng A Cay
