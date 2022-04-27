@@ -105,27 +105,13 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/5e99cba816e2
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png",Chổi Hỏa HD 2 Liverpool - Villarreal
-https://2459955770.cloud.anycastapnic.com/pep/x2y2/playlist.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png",Chổi Hỏa SD 2 Liverpool - Villarreal
-https://2459955770.cloud.anycastapnic.com/pep/x2y1/playlist.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png",Chổi Hỏa HD 1 Liverpool - Villarreal
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png",Chổi Hỏa SD 1 Liverpool - Villarreal
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png",Sao Kê HD 2 Liverpool - Villarreal
-https://2459955770.cloud.anycastapnic.com/pep/sk2/playlist.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png",Sao Kê SD 2 Liverpool - Villarreal
-https://2459955770.cloud.anycastapnic.com/pep/sk1/playlist.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png",Sao Kê HD 1 Liverpool - Villarreal
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/pnuevFR.png",Sao Kê SD 1 Liverpool - Villarreal
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk3/playlist.m3u8|Referer=https://saokelives.site/
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Liverpool - Villarreal
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-liverpool-vs-villarreal-2022-04-28-0200&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Melbourne City - BG Pathum United
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-melbourne-city-vs-bg-pathum-united-2022-04-27-1800&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Yokohama F. Marinos - Hoang Anh Gia Lai
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-yokohama-f-marinos-vs-hoang-anh-gia-lai-2022-04-28-1800&.m3u8|Referer=https://khomuc.tv/
 
 
 #EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",07h30 28/04: Guatemala - Mexico - Cà Khịa: Giàng A Cay
@@ -159,8 +145,6 @@ https://hongthuy.tk/playcakhia.php?id=62666740c6ce474125eef7f2&.m3u8|Referer=htt
 #EXTINF:-1 group-title="🏀 PHỤ HỒ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",02h00 29/04: Leicester - Roma - Phú Hộ: Bê Tông
 https://hongthuy.tk/playcakhia.php?id=6266674dc6ce474125eef7fa&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 28/04: Liverpool - Villarreal Sao Kê + Thần Chổi + Sao Hỏa
-https://hongthuy.tk/playsaoke.php?id=626399dbb711033713bdfaa0&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",07h30 28/04: Guatemala - Mexico Sao Mộc
 https://hongthuy.tk/playsaoke.php?id=62639aeeb711033713bdfad9&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",09h30 28/04: Pumas - Seattle Sounders Thần Chổi
@@ -192,8 +176,6 @@ https://hongthuy.tk/playsaoke.php?id=62639c72b711033713bdfb25&.m3u8|Referer=http
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",09h00 29/04: Always Ready - Deportivo Cali Sao Hỏa
 https://hongthuy.tk/playsaoke.php?id=62639c74b711033713bdfb26&.m3u8|Referer=https://saokelives.site/
 
-#EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - UEFA Champions League" tvg-logo="https://i.imgur.com/5mvoglV.png",02h00 28/04: Liverpool - Villarreal (Cáp + Thỏ)
-https://hongthuy.tk/play90p.php?id=62685e1fbaf5f939c69dfaaa&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/5mvoglV.png",01h45 29/04: Man United - Chelsea
 https://hongthuy.tk/play90p.php?id=6269a5e58bb98639dd59c951&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Europa Conference League" tvg-logo="https://i.imgur.com/5mvoglV.png",02h00 29/04: Leicester - Roma
@@ -244,8 +226,6 @@ https://hongthuy.tk/playxembd.php?id=as-roma-vs-bologna-luc-01h45-ngay-02-05-202
 #EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - La Liga" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_106.png",02/05 - 02:00 Barcelona - Mallorca Tao Bê Đê
 https://hongthuy.tk/playxembd.php?id=barcelona-vs-mallorca-luc-02h00-ngay-02-05-2022&.m3u8|Referer=https://xembd.tv/
 
-#EXTINF:-1 group-title="🏀 KHOMUCTV BY 👉 VÕ PHÚ - VÕ PHÚ" tvg-logo="https://i.imgur.com/yimqbZy.png",28/04/2022 - 02:00 Liverpool - Villarreal
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-liverpool-vs-villarreal-2022-04-28-0200&.m3u8|Referer=https://khomuc.tv/
 
 #EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png",29/04/2022 - 01:45 Manchester United - Chelsea
 https://hongthuy.tk/playvebotv.php?id=chelsea-manchester-united-A0zwrXK&.m3u8|Referer=https://vebotv.tv/
