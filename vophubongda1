@@ -102,20 +102,8 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/5e99cba816e2
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/g9ZQu3p.png",HD 1 Leicester - Roma
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/7GipKaV.png",SD 1 Leicester - Roma
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/XFTuwH5.png",HD 1 Leicester - Roma
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@camaphd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bSUwsJP.png",SD 1 Leicester - Roma
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@camapsd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/j9LvZYY.png",HD 1 Leicester - Roma
-https://phuholive.fastlycdnlive.xyz/live/_definst_/stream_1_d9541@betonghd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TgvRysJ.png",SD 1 Leicester - Roma
-https://phuholive.fastlycdnlive.xyz/live/_definst_/stream_1_d9541@betongsd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD West Ham - Frankfurt
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y4/playlist.m3u8|Referer=https://saokelives.site/
@@ -136,18 +124,10 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y3/playlist.m3u8|Refer
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TOIeYUS.png", -  Feyenoord - Marseille
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-feyenoord-vs-olympique-marseille-2022-04-29-0200&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TOIeYUS.png", -  West Ham - Eintracht Frankfurt
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-westham-utd-vs-eintracht-frankfurt-2022-04-29-0200&.m3u8|Referer=https://khomuc.tv/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/9RbWCIq.png", -  West Ham United - Eintracht Frankfurt
-https://hongthuy.tk/playvebotv.php?id=west-ham-united-eintracht-frankfurt-46IrEcz&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/9RbWCIq.png", -  Feyenoord - Olympique de Marseille
-https://hongthuy.tk/playvebotv.php?id=feyenoord-olympique-de-marseille-LOoIaLf&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/9RbWCIq.png", -  Leicester City - Roma
-https://hongthuy.tk/playvebotv.php?id=leicester-city-roma-tisl2Uv&.m3u8|Referer=https://vebotv.tv/
 
-#EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",02h00 29/04: Leicester - Roma - Cà Khịa: Giàng A Cay
-https://hongthuy.tk/playcakhia.php?id=6266674dc6ce474125eef7fa&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",14h00 29/04: Cerezo Osaka - Kashima Antlers - Cà Khịa: Giàng A Páo
 https://hongthuy.tk/playcakhia.php?id=626ad833c6ce474125ef0337&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",16h45 29/04: Melbourne Victory - Wellington Phoenix - Cà Khịa: Giàng A Cay
@@ -155,15 +135,9 @@ https://hongthuy.tk/playcakhia.php?id=626ad82fc6ce474125ef0332&.m3u8|Referer=htt
 #EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",02h00 30/04: Strasbourg - PSG - Cà Khịa: Giàng A Lử
 https://hongthuy.tk/playcakhia.php?id=6267943cc6ce474125eefc62&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="🏀  CÁHEOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",02h00 29/04: Leicester - Roma - Cá Heo: Cá Mập
-https://hongthuy.tk/playcakhia.php?id=6266674dc6ce474125eef7fa&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 #EXTINF:-1 group-title="🏀  CÁHEOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",02h00 30/04: Strasbourg - PSG - Cá Heo: Cá Mập
 https://hongthuy.tk/playcakhia.php?id=6267943cc6ce474125eefc62&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="🏀 PHỤ HỒ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",02h00 29/04: Leicester - Roma - Phú Hộ: Bê Tông
-https://hongthuy.tk/playcakhia.php?id=6266674dc6ce474125eef7fa&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-#EXTINF:-1 group-title="🏀 PHỤ HỒ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",02h00 30/04: Strasbourg - PSG - Phú Hộ: Thợ Xây
-https://hongthuy.tk/playcakhia.php?id=6267943cc6ce474125eefc62&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 29/04: West Ham - Frankfurt Sao Mộc
 https://hongthuy.tk/playsaoke.php?id=62639b17b711033713bdfadd&.m3u8|Referer=https://saokelives.site/
@@ -180,16 +154,6 @@ https://hongthuy.tk/playsaoke.php?id=62639c72b711033713bdfb25&.m3u8|Referer=http
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",09h00 29/04: Always Ready - Deportivo Cali Sao Hỏa
 https://hongthuy.tk/playsaoke.php?id=62639c74b711033713bdfb26&.m3u8|Referer=https://saokelives.site/
 
-#EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/5mvoglV.png",01h45 29/04: Man Utd - Chelsea (Bátman + Cáp)
-https://hongthuy.tk/play90p.php?id=6269a5e58bb98639dd59c951&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Europa League" tvg-logo="https://i.imgur.com/5mvoglV.png",02h00 29/04: WestHam - Frankfurt (Thỏ + Liu)
-https://hongthuy.tk/play90p.php?id=6269a5a992893b39d1704bdf&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Europa League" tvg-logo="https://i.imgur.com/5mvoglV.png",02h00 29/04: Leipzig - Rangers (Ng' Cồn)
-https://hongthuy.tk/play90p.php?id=6269a5c68bb98639dd59c950&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Europa Conference League" tvg-logo="https://i.imgur.com/5mvoglV.png",02h00 29/04: Leicester - Roma (Âu men)
-https://hongthuy.tk/play90p.php?id=6269a6198bb98639dd59c952&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Europa Conference League" tvg-logo="https://i.imgur.com/5mvoglV.png",02h00 29/04: Feyenoord - Marseille
-https://hongthuy.tk/play90p.php?id=6269a63792893b39d1704be0&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Bundesliga" tvg-logo="https://i.imgur.com/5mvoglV.png",01h30 30/04: Union Berlin - Greuther Fürth
 https://hongthuy.tk/play90p.php?id=6269a6cd8bb98639dd59c954&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
@@ -205,10 +169,10 @@ https://hongthuy.tk/playxembd.php?id=spezia-vs-lazio-luc-01h45-ngay-01-05-2022&.
 https://hongthuy.tk/playxembd.php?id=hoang-anh-gia-lai-vs-sydney-luc-18h00-ngay-01-05-2022&.m3u8|Referer=https://xembd.tv/
 #EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - Serie A" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_164.png",01/05 - 20:00 AC Milan - Fiorentina Rất Bê Đê
 https://hongthuy.tk/playxembd.php?id=ac-milan-vs-fiorentina-luc-20h00-ngay-01-05-2022&.m3u8|Referer=https://xembd.tv/
-#EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - Ligue 1" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_82.png",02/05 - 01:45 Marseille - Lyon Rất Bê Đê
-https://hongthuy.tk/playxembd.php?id=marseille-vs-lyon-luc-01h45-ngay-02-05-2022&.m3u8|Referer=https://xembd.tv/
 #EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - Serie A" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_71.png",02/05 - 01:45 AS Roma - Bologna H+ Bê Đê
 https://hongthuy.tk/playxembd.php?id=as-roma-vs-bologna-luc-01h45-ngay-02-05-2022&.m3u8|Referer=https://xembd.tv/
+#EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - Ligue 1" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_82.png",02/05 - 01:45 Marseille - Lyon Rất Bê Đê
+https://hongthuy.tk/playxembd.php?id=marseille-vs-lyon-luc-01h45-ngay-02-05-2022&.m3u8|Referer=https://xembd.tv/
 #EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - La Liga" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_106.png",02/05 - 02:00 Barcelona - Mallorca Tao Bê Đê
 https://hongthuy.tk/playxembd.php?id=barcelona-vs-mallorca-luc-02h00-ngay-02-05-2022&.m3u8|Referer=https://xembd.tv/
 #EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - Bundesliga 1" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_101.png",03/05 - 01:30 Bayer Leverkusen - Eintracht Frankfurt Tao Bê Đê
@@ -231,15 +195,15 @@ https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-rb-leipzig-vs-rangers-2022-04-
 #EXTINF:-1 group-title="🏀 KHOMUCTV BY 👉 VÕ PHÚ - VÕ PHÚ" tvg-logo="https://i.imgur.com/M3N7b3v.png",29/04/2022 - 02:00 Feyenoord - Marseille
 https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-feyenoord-vs-olympique-marseille-2022-04-29-0200&.m3u8|Referer=https://khomuc.tv/
 
-#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png", -  West Ham United - Eintracht Frankfurt
-https://hongthuy.tk/playvebotv.php?id=west-ham-united-eintracht-frankfurt-46IrEcz&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png", -  Feyenoord - Olympique de Marseille
-https://hongthuy.tk/playvebotv.php?id=feyenoord-olympique-de-marseille-LOoIaLf&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png", -  Leicester City - Roma
-https://hongthuy.tk/playvebotv.php?id=leicester-city-roma-tisl2Uv&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png",30/04/2022 - 18:30 Newcastle United - Liverpool
 https://hongthuy.tk/playvebotv.php?id=liverpool-newcastle-united-hKcMiyv&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png",30/04/2022 - 21:00 Watford - Burnley
+https://hongthuy.tk/playvebotv.php?id=burnley-watford-6L5oAnp&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png",30/04/2022 - 21:00 Wolverhampton - Brighton & Hove Albion
+https://hongthuy.tk/playvebotv.php?id=brighton-and-hove-albion-wolverhampton-8wYNs4n&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png",30/04/2022 - 21:00 Aston Villa - Norwich City
 https://hongthuy.tk/playvebotv.php?id=aston-villa-norwich-city-a2si8gZ&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png",30/04/2022 - 21:00 Southampton - Crystal Palace
 https://hongthuy.tk/playvebotv.php?id=crystal-palace-southampton-w0Y40qX&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png",30/04/2022 - 23:30 Leeds United - Manchester City
+https://hongthuy.tk/playvebotv.php?id=leeds-united-manchester-city-eYRxr9L&.m3u8|Referer=https://vebotv.tv/
