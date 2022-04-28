@@ -109,10 +109,22 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/5e99cba816e2
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Man United - Chelsea
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y3/playlist.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD West Ham - Frankfurt
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y4/playlist.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD West Ham - Frankfurt
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y3/playlist.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD RB Leipzig - Rangers
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD RB Leipzig - Rangers
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Leicester - Roma
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Leicester - Roma
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk3/playlist.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Feyenoord - Marseille
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y4/playlist.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Feyenoord - Marseille
+https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y3/playlist.m3u8|Referer=https://saokelives.site/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Fwp1Iec.png",HD Man Utd - Chelsea (Bátman + Cáp)
 https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
@@ -138,18 +150,18 @@ https://hongthuy.tk/playxembd.php?id=west-ham-vs-eintracht-frankfurt-luc-02h00-n
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Wwc7MwU.png",Manchester United - Chelsea Tuấn Bê Đê
 https://hongthuy.tk/playxembd.php?id=manchester-united-vs-chelsea-luc-01h45-ngay-29-04-2022&.m3u8|Referer=https://xembd.tv/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TOIeYUS.png", -  Manchester United - Chelsea
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-manchester-united-vs-chelsea-2022-04-28-0145&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TOIeYUS.png", -  Feyenoord - Marseille
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-feyenoord-vs-olympique-marseille-2022-04-29-0200&.m3u8|Referer=https://khomuc.tv/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/9RbWCIq.png", -  Manchester United - Chelsea
 https://hongthuy.tk/playvebotv.php?id=chelsea-manchester-united-A0zwrXK&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/9RbWCIq.png",29/04/2022 - 02:00 West Ham United - Eintracht Frankfurt
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/9RbWCIq.png", -  West Ham United - Eintracht Frankfurt
 https://hongthuy.tk/playvebotv.php?id=west-ham-united-eintracht-frankfurt-46IrEcz&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/9RbWCIq.png",29/04/2022 - 02:00 RB Leipzig - Rangers
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/9RbWCIq.png", -  RB Leipzig - Rangers
 https://hongthuy.tk/playvebotv.php?id=rb-leipzig-rangers-KYv7UOO&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/9RbWCIq.png",29/04/2022 - 02:00 Feyenoord - Olympique de Marseille
 https://hongthuy.tk/playvebotv.php?id=feyenoord-olympique-de-marseille-LOoIaLf&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/9RbWCIq.png",29/04/2022 - 02:00 Leicester City - Roma
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/9RbWCIq.png", -  Leicester City - Roma
 https://hongthuy.tk/playvebotv.php?id=leicester-city-roma-tisl2Uv&.m3u8|Referer=https://vebotv.tv/
 
 
@@ -223,13 +235,13 @@ https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-feyenoord-vs-olympique-marseil
 
 #EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png", -  Manchester United - Chelsea
 https://hongthuy.tk/playvebotv.php?id=chelsea-manchester-united-A0zwrXK&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png",29/04/2022 - 02:00 West Ham United - Eintracht Frankfurt
+#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png", -  West Ham United - Eintracht Frankfurt
 https://hongthuy.tk/playvebotv.php?id=west-ham-united-eintracht-frankfurt-46IrEcz&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png",29/04/2022 - 02:00 RB Leipzig - Rangers
+#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png", -  RB Leipzig - Rangers
 https://hongthuy.tk/playvebotv.php?id=rb-leipzig-rangers-KYv7UOO&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png",29/04/2022 - 02:00 Feyenoord - Olympique de Marseille
 https://hongthuy.tk/playvebotv.php?id=feyenoord-olympique-de-marseille-LOoIaLf&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png",29/04/2022 - 02:00 Leicester City - Roma
+#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png", -  Leicester City - Roma
 https://hongthuy.tk/playvebotv.php?id=leicester-city-roma-tisl2Uv&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png",30/04/2022 - 18:30 Newcastle United - Liverpool
 https://hongthuy.tk/playvebotv.php?id=liverpool-newcastle-united-hKcMiyv&.m3u8|Referer=https://vebotv.tv/
