@@ -102,10 +102,6 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/5e99cba816e2
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/g9ZQu3p.png",HD 1 Yokohama F.Marinos - Hoang Anh Gia Lai
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/7GipKaV.png",SD 1 Yokohama F.Marinos - Hoang Anh Gia Lai
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
 
 
@@ -120,8 +116,6 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk3/playlist.m3u8|Refere
 https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-yokohama-f-marinos-vs-hoang-anh-gia-lai-2022-04-28-1800&.m3u8|Referer=https://khomuc.tv/
 
 
-#EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",18h00 28/04: Yokohama F.Marinos - Hoang Anh Gia Lai - Cà Khịa: Giàng A Cay
-https://hongthuy.tk/playcakhia.php?id=6264d050c6ce474125eef42e&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",21h00 28/04: Sydney FC - Jeonbuk FC - Cà Khịa: Giàng A Páo
 https://hongthuy.tk/playcakhia.php?id=6264d051c6ce474125eef432&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",01h45 29/04: Man United - Chelsea - Cà Khịa: Giàng A Phò
