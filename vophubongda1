@@ -108,10 +108,6 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/5e99cba816e2
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Hòa Bình - Lâm Đồng
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-hoa-binh-vs-lam-dong-2022-04-28-1530&.m3u8|Referer=https://khomuc.tv/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Vejle - FC Midtjylland
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-vejle-vs-midtjylland-2022-04-28-2330&.m3u8|Referer=https://khomuc.tv/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Trẻ Quảng Nam - Trẻ SHB Đà Nẵng
 https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-tre-quang-nam-vs-tre-shb-da-nang-2022-04-28-1530&.m3u8|Referer=https://khomuc.tv/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  West Ham - Eintracht Frankfurt
@@ -134,10 +130,14 @@ https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-van-vs-alashkert-2022-04-28-18
 https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-yokohama-f-marinos-vs-hoang-anh-gia-lai-2022-04-28-1800&.m3u8|Referer=https://khomuc.tv/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Chiangrai United - Kitchee
 https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-chiangrai-united-vs-kitchee-2022-04-28-2100&.m3u8|Referer=https://khomuc.tv/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Manchester United - Chelsea
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-manchester-united-vs-chelsea-2022-04-28-0145&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Hòa Bình - Lâm Đồng
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-hoa-binh-vs-lam-dong-2022-04-28-1530&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Vejle - FC Midtjylland
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-vejle-vs-midtjylland-2022-04-28-2330&.m3u8|Referer=https://khomuc.tv/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  RB Leipzig - Rangers
 https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-rb-leipzig-vs-rangers-2022-04-29-0200&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Leicester - AS Roma
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-leicester-city-vs-roma-2022-04-29-0200&.m3u8|Referer=https://khomuc.tv/
 
 
 #EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",18h00 28/04: Yokohama F.Marinos - Hoang Anh Gia Lai - Cà Khịa: Giàng A Cay
