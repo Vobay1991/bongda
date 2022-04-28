@@ -111,9 +111,9 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://saokelives.site/
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Wwc7MwU.png",Yokohama F. Marinos - Hoang Anh Gia Lai Quang Bê Đê
+https://hongthuy.tk/playxembd.php?id=yokohama-f-marinos-vs-hoang-anh-gia-lai-luc-18h00-ngay-28-04-2022&.m3u8|Referer=https://xembd.tv/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Hòa Bình - Lâm Đồng
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-hoa-binh-vs-lam-dong-2022-04-28-1530&.m3u8|Referer=https://khomuc.tv/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Trẻ Quảng Nam - Trẻ SHB Đà Nẵng
 https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-tre-quang-nam-vs-tre-shb-da-nang-2022-04-28-1530&.m3u8|Referer=https://khomuc.tv/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Tiền Giang - Đồng Nai
@@ -122,6 +122,8 @@ https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-tien-giang-vs-dong-nai-2022-04
 https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-pvf-viet-nam-vs-hai-nam-2022-04-28-1700&.m3u8|Referer=https://khomuc.tv/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Jubilo Iwata - Nagoya Grampus
 https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-jubilo-iwata-vs-nagoya-grampus-2022-04-28-1700&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/b0XuOsT.png", -  Hòa Bình - Lâm Đồng
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-hoa-binh-vs-lam-dong-2022-04-28-1530&.m3u8|Referer=https://khomuc.tv/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/9RbWCIq.png",28/04/2022 - 18:00 Yokohama F. Marinos - Hoàng Anh Gia Lai
 https://hongthuy.tk/playvebotv.php?id=hoang-anh-gia-lai-yokohama-marinos-QCdirBp&.m3u8|Referer=https://vebotv.tv/
@@ -197,12 +199,10 @@ https://hongthuy.tk/play90p.php?id=6269a71a74dd7b31c399b43b&.m3u8|Referer= https
 #EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Serie A" tvg-logo="https://i.imgur.com/5mvoglV.png",08h00 30/04: Napoli - Sassuolo
 https://hongthuy.tk/play90p.php?id=6269a9c43679ef42e397159c&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
-#EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - AFC Champions League" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_1567.png",28/04 - 18:00 Yokohama F. Marinos - Hoang Anh Gia Lai Quang Bê Đê
-https://hongthuy.tk/playxembd.php?id=yokohama-f-marinos-vs-hoang-anh-gia-lai-luc-18h00-ngay-28-04-2022&.m3u8|Referer=https://xembd.tv/
-#EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - AFC Champions League" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_2363.png",28/04 - 21:00 Chiangrai United - Kitchee Tuấn Bê Đê
-https://hongthuy.tk/playxembd.php?id=chiangrai-united-vs-kitchee-luc-18h00-ngay-28-04-2022&.m3u8|Referer=https://xembd.tv/
 #EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - AFC Champions League" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_1493.png",28/04 - 21:00 Sydney - Jeonbuk Motors H+ Bê Đê
 https://hongthuy.tk/playxembd.php?id=sydney-vs-jeonbuk-motors-luc-21h00-ngay-28-04-2022&.m3u8|Referer=https://xembd.tv/
+#EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - AFC Champions League" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_2363.png",28/04 - 21:00 Chiangrai United - Kitchee Tuấn Bê Đê
+https://hongthuy.tk/playxembd.php?id=chiangrai-united-vs-kitchee-luc-18h00-ngay-28-04-2022&.m3u8|Referer=https://xembd.tv/
 #EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - Premier League" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_41.png",29/04 - 01:45 Manchester United - Chelsea Tuấn Bê Đê
 https://hongthuy.tk/playxembd.php?id=manchester-united-vs-chelsea-luc-01h45-ngay-29-04-2022&.m3u8|Referer=https://xembd.tv/
 #EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - UEFA Europa League" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_101.png",29/04 - 02:00 West Ham - Eintracht Frankfurt Tao Bê Đê
@@ -221,12 +221,14 @@ https://hongthuy.tk/playxembd.php?id=spezia-vs-lazio-luc-01h45-ngay-01-05-2022&.
 https://hongthuy.tk/playxembd.php?id=hoang-anh-gia-lai-vs-sydney-luc-18h00-ngay-01-05-2022&.m3u8|Referer=https://xembd.tv/
 #EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - Serie A" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_164.png",01/05 - 20:00 AC Milan - Fiorentina Rất Bê Đê
 https://hongthuy.tk/playxembd.php?id=ac-milan-vs-fiorentina-luc-20h00-ngay-01-05-2022&.m3u8|Referer=https://xembd.tv/
-#EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - Ligue 1" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_82.png",02/05 - 01:45 Marseille - Lyon Rất Bê Đê
-https://hongthuy.tk/playxembd.php?id=marseille-vs-lyon-luc-01h45-ngay-02-05-2022&.m3u8|Referer=https://xembd.tv/
 #EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - Serie A" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_71.png",02/05 - 01:45 AS Roma - Bologna H+ Bê Đê
 https://hongthuy.tk/playxembd.php?id=as-roma-vs-bologna-luc-01h45-ngay-02-05-2022&.m3u8|Referer=https://xembd.tv/
+#EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - Ligue 1" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_82.png",02/05 - 01:45 Marseille - Lyon Rất Bê Đê
+https://hongthuy.tk/playxembd.php?id=marseille-vs-lyon-luc-01h45-ngay-02-05-2022&.m3u8|Referer=https://xembd.tv/
 #EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - La Liga" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_106.png",02/05 - 02:00 Barcelona - Mallorca Tao Bê Đê
 https://hongthuy.tk/playxembd.php?id=barcelona-vs-mallorca-luc-02h00-ngay-02-05-2022&.m3u8|Referer=https://xembd.tv/
+#EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - Bundesliga 1" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_101.png",03/05 - 01:30 Bayer Leverkusen - Eintracht Frankfurt Tao Bê Đê
+https://hongthuy.tk/playxembd.php?id=bayer-leverkusen-vs-eintracht-frankfurt-luc-01h30-ngay-03-05-2022&.m3u8|Referer=https://xembd.tv/
 
 #EXTINF:-1 group-title="🏀 KHOMUCTV BY 👉 VÕ PHÚ - VÕ PHÚ" tvg-logo="https://i.imgur.com/yimqbZy.png",29/04/2022 - 01:45 Manchester United - Chelsea
 https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-manchester-united-vs-chelsea-2022-04-28-0145&.m3u8|Referer=https://khomuc.tv/
