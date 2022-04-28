@@ -105,10 +105,6 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/5e99cba816e2
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Dinamo Zagreb - Dynamo Kyiv
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y4/playlist.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Dinamo Zagreb - Dynamo Kyiv
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y3/playlist.m3u8|Referer=https://saokelives.site/
 
 
 
@@ -145,8 +141,6 @@ https://hongthuy.tk/playcakhia.php?id=62666740c6ce474125eef7f2&.m3u8|Referer=htt
 #EXTINF:-1 group-title="🏀 PHỤ HỒ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",02h00 29/04: Leicester - Roma - Phú Hộ: Bê Tông
 https://hongthuy.tk/playcakhia.php?id=6266674dc6ce474125eef7fa&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",23h00 28/04: Dinamo Zagreb - Dynamo Kyiv Sao Kim
-https://hongthuy.tk/playsaoke.php?id=6269789783a450128fe51024&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",01h45 29/04: Man United - Chelsea Thần Chổi
 https://hongthuy.tk/playsaoke.php?id=62639b1ab711033713bdfadf&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 29/04: West Ham - Frankfurt Sao Mộc
