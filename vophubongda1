@@ -102,6 +102,10 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/5e99cba816e2
 
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/g9ZQu3p.png",HD 1 Sydney FC - Jeonbuk FC
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/7GipKaV.png",SD 1 Sydney FC - Jeonbuk FC
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
 
 
@@ -112,8 +116,8 @@ https://hongthuy.tk/playxembd.php?id=sydney-vs-jeonbuk-motors-luc-21h00-ngay-28-
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Wwc7MwU.png",Chiangrai United - Kitchee Tuấn Bê Đê
 https://hongthuy.tk/playxembd.php?id=chiangrai-united-vs-kitchee-luc-18h00-ngay-28-04-2022&.m3u8|Referer=https://xembd.tv/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TOIeYUS.png", -  PVF Việt Nam - Hải Nam
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-pvf-viet-nam-vs-hai-nam-2022-04-28-1700&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TOIeYUS.png", -  Van - Alashkert
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-van-vs-alashkert-2022-04-28-1800&.m3u8|Referer=https://khomuc.tv/
 
 
 #EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",21h00 28/04: Sydney FC - Jeonbuk FC - Cà Khịa: Giàng A Páo
