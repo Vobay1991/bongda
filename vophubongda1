@@ -102,10 +102,6 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/5e99cba816e2
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/g9ZQu3p.png",HD 1 Selangor - Sri Pahang FC
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/7GipKaV.png",SD 1 Selangor - Sri Pahang FC
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
 
 
@@ -122,8 +118,6 @@ https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-strasbourg-vs-psg-2022-04-30-0
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/9RbWCIq.png",30/04/2022 - 01:45 Queens Park Rangers - Sheffield United
 https://hongthuy.tk/playvebotv.php?id=sheffield-united-queens-park-rangers-CdPZCn4&.m3u8|Referer=https://vebotv.tv/
 
-#EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",21h00 29/04: Selangor - Sri Pahang FC - Cà Khịa: Giàng A Páo
-https://hongthuy.tk/playcakhia.php?id=626b00cf873e55461db931cd&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 #EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",02h00 30/04: Strasbourg - PSG - Cà Khịa: Giàng A Lử
 https://hongthuy.tk/playcakhia.php?id=6267943cc6ce474125eefc62&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
@@ -149,6 +143,24 @@ https://hongthuy.tk/playsaoke.php?id=62648584b711033713be00a3&.m3u8|Referer=http
 https://hongthuy.tk/playsaoke.php?id=6264848fb711033713be0074&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",18h00 30/04: BG Pathum United - Jeonnam Dragons Sao Mai
 https://hongthuy.tk/playsaoke.php?id=62648491b711033713be0075&.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",18h30 30/04: Newcastle - Liverpool Thần Chổi
+https://hongthuy.tk/playsaoke.php?id=62648468b711033713be0026&.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",20h30 30/04: Mainz - Bayern München Sao Mộc
+https://hongthuy.tk/playsaoke.php?id=6264847fb711033713be0052&.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",21h00 30/04: Wolves - Brighton Sao Mai
+https://hongthuy.tk/playsaoke.php?id=6264846db711033713be002e&.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",21h15 30/04: Real Madrid - Espanyol Sao Kim
+https://hongthuy.tk/playsaoke.php?id=62648473b711033713be003a&.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",23h00 30/04: VfL Wolfsburg (W) - Barcelona (W) Sao Mộc
+https://hongthuy.tk/playsaoke.php?id=62656de3c71b9c4e02f6d792&.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",23h30 30/04: Leeds - Man City Thần Chổi
+https://hongthuy.tk/playsaoke.php?id=6264846fb711033713be002f&.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 01/05: Athletic Club - Atletico Madrid Sao Kim
+https://hongthuy.tk/playsaoke.php?id=6264869bb711033713be00e5&.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",07h00 01/05: Atlas - Tigres Sao Mộc
+https://hongthuy.tk/playsaoke.php?id=626487b0b711033713be0144&.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",09h00 01/05: América - Cruz Azul Sao Hôm
+https://hongthuy.tk/playsaoke.php?id=626487b4b711033713be0149&.m3u8|Referer=https://saokelives.site/
 
 #EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Bundesliga" tvg-logo="https://i.imgur.com/5mvoglV.png",01h30 30/04: Union Berlin - Greuther Fürth
 https://hongthuy.tk/play90p.php?id=6269a6cd8bb98639dd59c954&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
