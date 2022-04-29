@@ -114,13 +114,13 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y3/playlist.m3u8|Refer
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TOIeYUS.png", -  Union Berlin - SpVgg Greuther Furth
 https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-union-berlin-vs-greuther-furth-2022-04-30-0130&.m3u8|Referer=https://khomuc.tv/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TOIeYUS.png", -  Sevilla - Cadiz
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-sevilla-vs-cadiz-2022-04-30-0200&.m3u8|Referer=https://khomuc.tv/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TOIeYUS.png", -  Strasbourg - Paris Saint Germain
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-strasbourg-vs-psg-2022-04-30-0200&.m3u8|Referer=https://khomuc.tv/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/9RbWCIq.png",30/04/2022 - 01:45 Queens Park Rangers - Sheffield United
 https://hongthuy.tk/playvebotv.php?id=sheffield-united-queens-park-rangers-CdPZCn4&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/9RbWCIq.png",30/04/2022 - 02:00 Strasbourg - Paris Saint-Germain
+https://hongthuy.tk/playvebotv.php?id=rc-strasbourg-paris-saint-germain-iUGtlUE&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/9RbWCIq.png",30/04/2022 - 02:00 Sevilla - Cádiz
+https://hongthuy.tk/playvebotv.php?id=cadiz-sevilla-yUOJx3t&.m3u8|Referer=https://vebotv.tv/
 
 #EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",02h00 30/04: Strasbourg - PSG - Cà Khịa: Giàng A Lử
 https://hongthuy.tk/playcakhia.php?id=6267943cc6ce474125eefc62&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
@@ -170,12 +170,20 @@ https://hongthuy.tk/playsaoke.php?id=626487b4b711033713be0149&.m3u8|Referer=http
 
 #EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Bundesliga" tvg-logo="https://i.imgur.com/5mvoglV.png",01h30 30/04: Union Berlin - Greuther Fürth
 https://hongthuy.tk/play90p.php?id=6269a6cd8bb98639dd59c954&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Ligue 1" tvg-logo="https://i.imgur.com/5mvoglV.png",02h00 30/04: Strasbourg - PSG (Cáp Tần)
-https://hongthuy.tk/play90p.php?id=6269a71a74dd7b31c399b43b&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - La Liga" tvg-logo="https://i.imgur.com/5mvoglV.png",02h00 30/04: Sevilla - Cadiz (Người Thỏ)
 https://hongthuy.tk/play90p.php?id=6269a6ac8bb98639dd59c953&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Ligue 1" tvg-logo="https://i.imgur.com/5mvoglV.png",02h00 30/04: Strasbourg - PSG (Cáp Tần)
+https://hongthuy.tk/play90p.php?id=6269a71a74dd7b31c399b43b&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Serie A" tvg-logo="https://i.imgur.com/5mvoglV.png",08h00 30/04: Napoli - Sassuolo
 https://hongthuy.tk/play90p.php?id=6269a9c43679ef42e397159c&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/5mvoglV.png",18h30 30/04: Newcastle - Liverpool
+https://hongthuy.tk/play90p.php?id=6269a86028d9a539bbd2ace7&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - La Liga" tvg-logo="https://i.imgur.com/5mvoglV.png",19h00 30/04: Deportivo Alaves - Villarreal
+https://hongthuy.tk/play90p.php?id=6269a92b74dd7b31c399b43d&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Serie A" tvg-logo="https://i.imgur.com/5mvoglV.png",20h00 30/04: Cagliari - Hellas Verona
+https://hongthuy.tk/play90p.php?id=6269a99f28d9a539bbd2ace8&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
+#EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Bundesliga" tvg-logo="https://i.imgur.com/5mvoglV.png",20h30 30/04: Augsburg - Köln
+https://hongthuy.tk/play90p.php?id=6269aa818bb98639dd59c956&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 #EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - Ligue 1" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_120.png",30/04 - 02:00 Strasbourg - Paris Saint Germain H+ Bê Đê
 https://hongthuy.tk/playxembd.php?id=strasbourg-vs-paris-saint-germain-luc-02h00-ngay-30-04-2022&.m3u8|Referer=https://xembd.tv/
