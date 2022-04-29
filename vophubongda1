@@ -108,12 +108,24 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/5e99cba816e2
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TOIeYUS.png", -  Melbourne Victory - Wellington Phoenix
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-melbourne-victory-vs-wellington-phoenix-2022-04-29-1645&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TOIeYUS.png", -  Union Berlin - SpVgg Greuther Furth
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-union-berlin-vs-greuther-furth-2022-04-30-0130&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TOIeYUS.png", -  Sevilla - Cadiz
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-sevilla-vs-cadiz-2022-04-30-0200&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TOIeYUS.png", -  Strasbourg - Paris Saint Germain
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-strasbourg-vs-psg-2022-04-30-0200&.m3u8|Referer=https://khomuc.tv/
 
 
+#EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",21h00 29/04: Selangor - Sri Pahang FC - Cà Khịa: Giàng A Páo
+https://hongthuy.tk/playcakhia.php?id=626b00cf873e55461db931cd&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+#EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",02h00 30/04: Strasbourg - PSG - Cà Khịa: Giàng A Lử
+https://hongthuy.tk/playcakhia.php?id=6267943cc6ce474125eefc62&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
+#EXTINF:-1 group-title="🏀  CÁHEOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",02h00 30/04: Strasbourg - PSG - Cá Heo: Cá Mập
+https://hongthuy.tk/playcakhia.php?id=6267943cc6ce474125eefc62&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
+#EXTINF:-1 group-title="🏀 PHỤ HỒ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",02h00 30/04: Strasbourg - PSG - Phú Hộ: Thợ Xây
+https://hongthuy.tk/playcakhia.php?id=6267943cc6ce474125eefc62&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",21h00 29/04: Selangor - Sri Pahang FC Sao Kim
 https://hongthuy.tk/playsaoke.php?id=62639c69b711033713bdfb0e&.m3u8|Referer=https://saokelives.site/
