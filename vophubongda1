@@ -109,10 +109,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Selangor - Sri Pahang FC
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/playlist.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Selangor - Sri Pahang FC
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk3/playlist.m3u8|Referer=https://saokelives.site/
 
 
 
@@ -137,8 +133,6 @@ https://hongthuy.tk/playcakhia.php?id=6267943cc6ce474125eefc62&.m3u8|Referer=htt
 #EXTINF:-1 group-title="🏀 PHỤ HỒ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",02h00 30/04: Strasbourg - PSG - Phú Hộ: Thợ Xây
 https://hongthuy.tk/playcakhia.php?id=6267943cc6ce474125eefc62&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",21h00 29/04: Selangor - Sri Pahang FC Sao Kê
-https://hongthuy.tk/playsaoke.php?id=62639c69b711033713bdfb0e&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",23h30 29/04: Sandhausen - Schalke 04 Sao Mộc
 https://hongthuy.tk/playsaoke.php?id=62639c6eb711033713bdfb1a&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 30/04: Sevilla - Cadiz Sao Mộc
@@ -149,6 +143,12 @@ https://hongthuy.tk/playsaoke.php?id=62648486b711033713be005f&.m3u8|Referer=http
 https://hongthuy.tk/playsaoke.php?id=626485b1b711033713be00d4&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",09h05 30/04: Mazatlan FC - Puebla Sao Mộc
 https://hongthuy.tk/playsaoke.php?id=62648581b711033713be009f&.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",13h05 30/04: Central Coast Mariners - Western United FC Sao Hôm
+https://hongthuy.tk/playsaoke.php?id=62648584b711033713be00a3&.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",16h00 30/04: Johor Darul Ta'zim FC - Ulsan Hyundai Sao Hôm
+https://hongthuy.tk/playsaoke.php?id=6264848fb711033713be0074&.m3u8|Referer=https://saokelives.site/
+#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",18h00 30/04: BG Pathum United - Jeonnam Dragons Sao Mai
+https://hongthuy.tk/playsaoke.php?id=62648491b711033713be0075&.m3u8|Referer=https://saokelives.site/
 
 #EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Bundesliga" tvg-logo="https://i.imgur.com/5mvoglV.png",01h30 30/04: Union Berlin - Greuther Fürth
 https://hongthuy.tk/play90p.php?id=6269a6cd8bb98639dd59c954&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
