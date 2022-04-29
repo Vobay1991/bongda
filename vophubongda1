@@ -102,63 +102,31 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/5e99cba816e2
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/g9ZQu3p.png",HD 1 Strasbourg - PSG
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/7GipKaV.png",SD 1 Strasbourg - PSG
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
-
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/XFTuwH5.png",HD 1 Strasbourg - PSG
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@camaphd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/bSUwsJP.png",SD 1 Strasbourg - PSG
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@camapsd1/playlist.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
-
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/j9LvZYY.png",HD 1 Strasbourg - PSG
-https://phuholive.fastlycdnlive.xyz/live/_definst_/stream_1_d9541@thoxayhd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TgvRysJ.png",SD 1 Strasbourg - PSG
-https://phuholive.fastlycdnlive.xyz/live/_definst_/stream_1_d9541@thoxaysd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
-
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Sevilla - Cadiz
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y4/playlist.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Sevilla - Cadiz
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y3/playlist.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Strasbourg - PSG
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y4/playlist.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Strasbourg - PSG
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y3/playlist.m3u8|Referer=https://saokelives.site/
-
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Fwp1Iec.png",HD Sevilla - Cadiz (Người Thỏ)
-https://179235864.global.cdnfastest.com/live/1835978343a56044e44ac7f11057e93569a/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Ut9HKdq.png",FullHD Sevilla - Cadiz (Người Thỏ)
-https://livestream.socialstreaming.tv/live/626c2dc5d559fd001c01f1e0/626c2dc5d559fd001c01f1e0.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Fwp1Iec.png",HD Strasbourg - PSG (Cáp Tần)
-https://179269792.global.cdnfastest.com/live/1836018b91a386c4d68bc3e6678b1b393bc/playlist.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Ut9HKdq.png",FullHD Strasbourg - PSG (Cáp Tần)
-https://livestream-2.socialstreaming.tv/live/626c2d0fd559fd001c01f1de/626c2d0fd559fd001c01f1de.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TOIeYUS.png", -  Strasbourg - Paris Saint Germain
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-strasbourg-vs-psg-2022-04-30-0200&.m3u8|Referer=https://khomuc.tv/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/9RbWCIq.png", -  Strasbourg - Paris Saint-Germain
-https://hongthuy.tk/playvebotv.php?id=rc-strasbourg-paris-saint-germain-iUGtlUE&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/9RbWCIq.png", -  Sevilla - Cádiz
-https://hongthuy.tk/playvebotv.php?id=cadiz-sevilla-yUOJx3t&.m3u8|Referer=https://vebotv.tv/
 
-#EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",02h00 30/04: Strasbourg - PSG - Cà Khịa: Giàng A Lử
-https://hongthuy.tk/playcakhia.php?id=6267943cc6ce474125eefc62&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
+
+
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TOIeYUS.png", -  Newcastle - Liverpool
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-newcastle-utd-vs-liverpool-2022-04-30-1830&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TOIeYUS.png", -  Kamatamare Sanuki - FC Gifu
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-kamatamare-sanuki-vs-gifu-2022-04-30-1200&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TOIeYUS.png", -  Central Coast Mariners - Western United
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-c-coast-mariners-vs-western-united-2022-04-30-1305&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TOIeYUS.png", -  Mazatlán - Puebla
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-mazatlan-vs-puebla-2022-04-23-0905&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TOIeYUS.png", -  JEF United Chiba - Oita Trinita
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-jef-united-vs-oita-trinita-2022-04-30-1200&.m3u8|Referer=https://khomuc.tv/
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TOIeYUS.png", -  Renofa Yamaguchi - Tochigi SC
+https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-renofa-yamaguchi-vs-tochigi-2022-04-30-1200&.m3u8|Referer=https://khomuc.tv/
+
+
 #EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",13h05 30/04: Central Coast Mariners - Western United FC - Cà Khịa: Giàng A Páo
 https://hongthuy.tk/playcakhia.php?id=626c0751a78c9f2aaf1077b8&.m3u8|Referer=https://live.rakhoi5.tv/truc-tiep/
 
-#EXTINF:-1 group-title="🏀  CÁHEOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/yNt63LX.png",02h00 30/04: Strasbourg - PSG - Cá Heo: Cá Mập
-https://hongthuy.tk/playcakhia.php?id=6267943cc6ce474125eefc62&.m3u8|Referer=https://xem.caheo.tv/truc-tiep/
 
-#EXTINF:-1 group-title="🏀 PHỤ HỒ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",02h00 30/04: Strasbourg - PSG - Phú Hộ: Thợ Xây
-https://hongthuy.tk/playcakhia.php?id=6267943cc6ce474125eefc62&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 30/04: Sevilla - Cadiz Sao Mộc
-https://hongthuy.tk/playsaoke.php?id=62648470b711033713be0034&.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",02h00 30/04: Strasbourg - PSG Sao Kim
-https://hongthuy.tk/playsaoke.php?id=62648486b711033713be005f&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",07h00 30/04: Necaxa - Chivas Thần Chổi
 https://hongthuy.tk/playsaoke.php?id=626485b1b711033713be00d4&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",09h05 30/04: Mazatlan FC - Puebla Sao Mộc
@@ -188,10 +156,6 @@ https://hongthuy.tk/playsaoke.php?id=626487b0b711033713be0144&.m3u8|Referer=http
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",09h00 01/05: América - Cruz Azul Sao Hôm
 https://hongthuy.tk/playsaoke.php?id=626487b4b711033713be0149&.m3u8|Referer=https://saokelives.site/
 
-#EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - La Liga" tvg-logo="https://i.imgur.com/5mvoglV.png",02h00 30/04: Sevilla - Cadiz (Người Thỏ)
-https://hongthuy.tk/play90p.php?id=6269a6ac8bb98639dd59c953&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
-#EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Ligue 1" tvg-logo="https://i.imgur.com/5mvoglV.png",02h00 30/04: Strasbourg - PSG (Cáp Tần)
-https://hongthuy.tk/play90p.php?id=6269a71a74dd7b31c399b43b&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Serie A" tvg-logo="https://i.imgur.com/5mvoglV.png",08h00 30/04: Napoli - Sassuolo
 https://hongthuy.tk/play90p.php?id=6269a9c43679ef42e397159c&.m3u8|Referer= https://xoilac.90phutttttttt.xyz/
 #EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/5mvoglV.png",18h30 30/04: Newcastle - Liverpool
@@ -225,10 +189,10 @@ https://hongthuy.tk/playxembd.php?id=spezia-vs-lazio-luc-01h45-ngay-01-05-2022&.
 https://hongthuy.tk/playxembd.php?id=hoang-anh-gia-lai-vs-sydney-luc-18h00-ngay-01-05-2022&.m3u8|Referer=https://xembd.tv/
 #EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - Serie A" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_164.png",01/05 - 20:00 AC Milan - Fiorentina Rất Bê Đê
 https://hongthuy.tk/playxembd.php?id=ac-milan-vs-fiorentina-luc-20h00-ngay-01-05-2022&.m3u8|Referer=https://xembd.tv/
-#EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - Ligue 1" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_82.png",02/05 - 01:45 Marseille - Lyon Rất Bê Đê
-https://hongthuy.tk/playxembd.php?id=marseille-vs-lyon-luc-01h45-ngay-02-05-2022&.m3u8|Referer=https://xembd.tv/
 #EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - Serie A" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_71.png",02/05 - 01:45 AS Roma - Bologna H+ Bê Đê
 https://hongthuy.tk/playxembd.php?id=as-roma-vs-bologna-luc-01h45-ngay-02-05-2022&.m3u8|Referer=https://xembd.tv/
+#EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - Ligue 1" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_82.png",02/05 - 01:45 Marseille - Lyon Rất Bê Đê
+https://hongthuy.tk/playxembd.php?id=marseille-vs-lyon-luc-01h45-ngay-02-05-2022&.m3u8|Referer=https://xembd.tv/
 #EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - La Liga" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_106.png",02/05 - 02:00 Barcelona - Mallorca Tao Bê Đê
 https://hongthuy.tk/playxembd.php?id=barcelona-vs-mallorca-luc-02h00-ngay-02-05-2022&.m3u8|Referer=https://xembd.tv/
 #EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - Bundesliga 1" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_101.png",03/05 - 01:30 Bayer Leverkusen - Eintracht Frankfurt Tao Bê Đê
@@ -242,22 +206,16 @@ https://hongthuy.tk/playxembd.php?id=asan-mugunghwa-vs-fc-anyang-luc-17h30-ngay-
 #EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - VO PHU" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_1608.png",04/05 - 18:00 Suphanburi - Buriram United H+ Bê Đê
 https://hongthuy.tk/playxembd.php?id=suphanburi-vs-buriram-united-luc-18h00-ngay-04-05-2022&.m3u8|Referer=https://xembd.tv/
 
-#EXTINF:-1 group-title="🏀 KHOMUCTV BY 👉 VÕ PHÚ - VÕ PHÚ" tvg-logo="https://i.imgur.com/M3N7b3v.png",30/04/2022 - 01:30 Union Berlin - SpVgg Greuther Furth
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-union-berlin-vs-greuther-furth-2022-04-30-0130&.m3u8|Referer=https://khomuc.tv/
-#EXTINF:-1 group-title="🏀 KHOMUCTV BY 👉 VÕ PHÚ - VÕ PHÚ" tvg-logo="https://i.imgur.com/M3N7b3v.png",30/04/2022 - 02:00 Sevilla - Cadiz
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-sevilla-vs-cadiz-2022-04-30-0200&.m3u8|Referer=https://khomuc.tv/
-#EXTINF:-1 group-title="🏀 KHOMUCTV BY 👉 VÕ PHÚ - Ligue 1" tvg-logo="https://i.imgur.com/M3N7b3v.png",30/04/2022 - 02:00 Strasbourg - Paris Saint Germain
-https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-strasbourg-vs-psg-2022-04-30-0200&.m3u8|Referer=https://khomuc.tv/
 
-#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png", -  Strasbourg - Paris Saint-Germain
-https://hongthuy.tk/playvebotv.php?id=rc-strasbourg-paris-saint-germain-iUGtlUE&.m3u8|Referer=https://vebotv.tv/
-#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png", -  Sevilla - Cádiz
-https://hongthuy.tk/playvebotv.php?id=cadiz-sevilla-yUOJx3t&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png",30/04/2022 - 18:30 Newcastle United - Liverpool
 https://hongthuy.tk/playvebotv.php?id=liverpool-newcastle-united-hKcMiyv&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png",30/04/2022 - 21:00 Watford - Burnley
 https://hongthuy.tk/playvebotv.php?id=burnley-watford-6L5oAnp&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png",30/04/2022 - 21:00 Wolverhampton - Brighton & Hove Albion
+https://hongthuy.tk/playvebotv.php?id=brighton-and-hove-albion-wolverhampton-8wYNs4n&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png",30/04/2022 - 21:00 Aston Villa - Norwich City
 https://hongthuy.tk/playvebotv.php?id=aston-villa-norwich-city-a2si8gZ&.m3u8|Referer=https://vebotv.tv/
 #EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png",30/04/2022 - 21:00 Southampton - Crystal Palace
 https://hongthuy.tk/playvebotv.php?id=crystal-palace-southampton-w0Y40qX&.m3u8|Referer=https://vebotv.tv/
+#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/cLH0tq0.png",30/04/2022 - 23:30 Leeds United - Manchester City
+https://hongthuy.tk/playvebotv.php?id=leeds-united-manchester-city-eYRxr9L&.m3u8|Referer=https://vebotv.tv/
