@@ -117,10 +117,6 @@ https://phuholive.fastlycdnlive.xyz/live/_definst_/stream_1_d9541@thoxayhd1/play
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TgvRysJ.png",SD 1 Newcastle - Liverpool
 https://phuholive.fastlycdnlive.xyz/live/_definst_/stream_1_d9541@thoxaysd1/playlist.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD BG Pathum United - Jeonnam Dragons
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD BG Pathum United - Jeonnam Dragons
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Newcastle - Liverpool
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/playlist.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Newcastle - Liverpool
@@ -186,8 +182,6 @@ https://hongthuy.tk/playcakhia.php?id=6267935fc6ce474125eefc17&.m3u8|Referer=htt
 #EXTINF:-1 group-title="🏀 PHỤ HỒ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",02h00 01/05: Athletic Club - Atletico Madrid - Phú Hộ: Bê Tông
 https://hongthuy.tk/playcakhia.php?id=626a4082c6ce474125ef01e2&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",18h00 30/04: BG Pathum United - Jeonnam Dragons Sao Mai
-https://hongthuy.tk/playsaoke.php?id=62648491b711033713be0075&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",18h30 30/04: Newcastle - Liverpool Thần Chổi
 https://hongthuy.tk/playsaoke.php?id=62648468b711033713be0026&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",20h30 30/04: Mainz - Bayern München Sao Mộc
