@@ -105,10 +105,6 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/5e99cba816e2
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Mazatlan FC - Puebla
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y4/playlist.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Mazatlan FC - Puebla
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y3/playlist.m3u8|Referer=https://saokelives.site/
 
 
 
@@ -121,8 +117,6 @@ https://hongthuy.tk/playcakhia.php?id=626c0751a78c9f2aaf1077b8&.m3u8|Referer=htt
 
 
 
-#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",09h05 30/04: Mazatlan FC - Puebla Sao Mộc
-https://hongthuy.tk/playsaoke.php?id=62648581b711033713be009f&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",13h05 30/04: Central Coast Mariners - Western United FC Sao Hôm
 https://hongthuy.tk/playsaoke.php?id=62648584b711033713be00a3&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",16h00 30/04: Johor Darul Ta'zim FC - Ulsan Hyundai Sao Hôm
