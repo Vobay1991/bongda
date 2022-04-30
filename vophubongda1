@@ -105,18 +105,12 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20220310/5e99cba816e2
 
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD Johor Darul Ta'zim FC - Ulsan Hyundai
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x7y4/playlist.m3u8|Referer=https://saokelives.site/
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD Johor Darul Ta'zim FC - Ulsan Hyundai
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x7y3/playlist.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/T1b2e2Y.png",HD BG Pathum United - Jeonnam Dragons
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/IkJjvaB.png",SD BG Pathum United - Jeonnam Dragons
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://saokelives.site/
 
 
-#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/Wwc7MwU.png",Johor Darul Takzim FC - Ulsan Hyundai FC H+ Bê Đê
-https://hongthuy.tk/playxembd.php?id=johor-darul-takzim-fc-vs-ulsan-hyundai-fc-luc-16h00-ngay-30-04-2022&.m3u8|Referer=https://xembd.tv/
 
 #EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/TOIeYUS.png", -  Perth Glory - Western Sydney Wanderers
 https://hongthuy.tk/playkhomuctv.php?id=truc-tiep-perth-glory-vs-western-sydney-2022-04-30-1645&.m3u8|Referer=https://khomuc.tv/
@@ -165,8 +159,6 @@ https://hongthuy.tk/playcakhia.php?id=6267935fc6ce474125eefc17&.m3u8|Referer=htt
 #EXTINF:-1 group-title="🏀 PHỤ HỒ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/L7kl6Lh.png",02h00 01/05: Athletic Club - Atletico Madrid - Phú Hộ: Bê Tông
 https://hongthuy.tk/playcakhia.php?id=626a4082c6ce474125ef01e2&.m3u8|Referer=https://xem.phuho.tv/truc-tiep/
 
-#EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",16h00 30/04: Johor Darul Ta'zim FC - Ulsan Hyundai Sao Hôm
-https://hongthuy.tk/playsaoke.php?id=6264848fb711033713be0074&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",18h00 30/04: BG Pathum United - Jeonnam Dragons Sao Mai
 https://hongthuy.tk/playsaoke.php?id=62648491b711033713be0075&.m3u8|Referer=https://saokelives.site/
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",18h30 30/04: Newcastle - Liverpool Thần Chổi
