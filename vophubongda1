@@ -19,6 +19,9 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/playlist.m3u8|Refer
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y3/playlist.m3u8|Referer=https://saoketv.site/
 
 
+#EXTINF:-1 group-title="Đang trực tiếp" tvg-logo="https://i.imgur.com/19YlvJ4.png",Kochi United - Veertien Mie Trung Bê Đê
+https://hongthuy.tk/playxembd.php?id=kochi-united-vs-veertien-mie-luc-12h00-ngay-11-05-2022&.m3u8|Referer=https://xembd.tv/
+
 
 #EXTINF:-1 group-title="🏀 CÀKHỊATV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/j1QzYxv.png",16h00 11/05: Campuchia U23 - Singapore U23 - Cà Khịa: Giàng A Páo
 https://hongthuy.tk/playcakhia.php?id=62762ea81d54f32c2ab68712&.m3u8|Referer=https://live.rakhoi5.live/truc-tiep/
@@ -86,9 +89,25 @@ https://hongthuy.tk/playsaoke.php?id=627a73031944e40ed478869f&.m3u8|Referer=http
 #EXTINF:-1 group-title="🏀 SAO KÊ TV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/pnuevFR.png",09h30 12/05: Cal United Strikers - LA Galaxy Sao Hỏa
 https://hongthuy.tk/playsaoke.php?id=62704834ac403958fac52530&.m3u8|Referer=https://saoketv.site/
 
+#EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - La Liga" tvg-logo="https://i.imgur.com/5mvoglV.png",00h00 12/05: Deportivo Alaves - Espanyol
+https://hongthuy.tk/play90p.php?id=627aaf02baf5f939c69dfad6&.m3u8|Referer= https://xoilac.90phuttttttttt.xyz/
+#EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Ligue 1" tvg-logo="https://i.imgur.com/5mvoglV.png",00h00 12/05: Nice - Saint-Etienne
+https://hongthuy.tk/play90p.php?id=627aaf7592893b39d1704c04&.m3u8|Referer= https://xoilac.90phuttttttttt.xyz/
+#EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - La Liga" tvg-logo="https://i.imgur.com/5mvoglV.png",00h00 12/05: Osasuna - Getafe
+https://hongthuy.tk/play90p.php?id=627aaf1da409304c1dd870b0&.m3u8|Referer= https://xoilac.90phuttttttttt.xyz/
+#EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - La Liga" tvg-logo="https://i.imgur.com/5mvoglV.png",01h30 12/05: Sevilla - Mallorca
+https://hongthuy.tk/play90p.php?id=627aaf3728d9a539bbd2ad11&.m3u8|Referer= https://xoilac.90phuttttttttt.xyz/
+#EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/5mvoglV.png",01h30 12/05: Leeds - Chelsea
+https://hongthuy.tk/play90p.php?id=627aae4bbaf5f939c69dfad4&.m3u8|Referer= https://xoilac.90phuttttttttt.xyz/
+#EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/5mvoglV.png",01h45 12/05: Leicester - Norwich
+https://hongthuy.tk/play90p.php?id=627aae7474dd7b31c399b462&.m3u8|Referer= https://xoilac.90phuttttttttt.xyz/
+#EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/5mvoglV.png",01h45 12/05: Watford - Everton
+https://hongthuy.tk/play90p.php?id=627aaeccc6aff63667deb3d4&.m3u8|Referer= https://xoilac.90phuttttttttt.xyz/
+#EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Ligue 1" tvg-logo="https://i.imgur.com/5mvoglV.png",02h00 12/05: Nantes - Rennes
+https://hongthuy.tk/play90p.php?id=627aaf8fbaf5f939c69dfad7&.m3u8|Referer= https://xoilac.90phuttttttttt.xyz/
+#EXTINF:-1 group-title=" 90 PHÚT TV BY 👉 VÕ PHÚ - Ngoại Hạng Anh" tvg-logo="https://i.imgur.com/5mvoglV.png",02h15 12/05: Wolves - Man City
+https://hongthuy.tk/play90p.php?id=627aaee6baf5f939c69dfad5&.m3u8|Referer= https://xoilac.90phuttttttttt.xyz/
 
-#EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - VO PHU" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_3002.png",11/05 - 12:00 Kochi United - Veertien Mie Trung Bê Đê
-https://hongthuy.tk/playxembd.php?id=kochi-united-vs-veertien-mie-luc-12h00-ngay-11-05-2022&.m3u8|Referer=https://xembd.tv/
 #EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - VO PHU" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_2984.png",11/05 - 16:00 Cambodia U23 - Singapore U23 Tuấn Bê Đê
 https://hongthuy.tk/playxembd.php?id=cambodia-u23-vs-singapore-u23-luc-16h00-ngay-11-05-2022&.m3u8|Referer=https://xembd.tv/
 #EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - VO PHU" tvg-logo="https://xembd.tv/https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/800px-Flag_of_Laos.svg.png",11/05 - 19:00 Malaysia U23 - Laos U23 Tao Bê Đê
@@ -107,8 +126,6 @@ https://hongthuy.tk/playxembd.php?id=real-madrid-vs-levante-luc-02h30-ngay-13-05
 https://hongthuy.tk/playxembd.php?id=philippines-u23-vs-indonesia-u23-luc-16h00-ngay-13-05-2022&.m3u8|Referer=https://xembd.tv/
 #EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - VO PHU" tvg-logo="https://xembd.tv/https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Flag_of_Singapore_%28bordered%29.svg/1280px-Flag_of_Singapore_%28bordered%29.svg.png",13/05 - 16:00 Laos U23 Women - Singapore Women Tao Bê Đê
 https://hongthuy.tk/playxembd.php?id=laos-u23-women-vs-singapore-u23-women&.m3u8|Referer=https://xembd.tv/
-#EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - VO PHU" tvg-logo="https://xembd.tv/https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Flag_of_Singapore_%28bordered%29.svg/1280px-Flag_of_Singapore_%28bordered%29.svg.png",13/05 - 19:00 Thailand Women - Singapore Women Quang Bê Đê
-https://hongthuy.tk/playxembd.php?id=thailand-u23-women-vs-myanmar-u23-women&.m3u8|Referer=https://xembd.tv/
 #EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - VO PHU" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_2987.png",14/05 - 16:00 Singapore U23 - Malaysia U23 H+ Bê Đê
 https://hongthuy.tk/playxembd.php?id=singapore-u23-vs-malaysia-u23-luc-16h00-ngay-14-05-2022&.m3u8|Referer=https://xembd.tv/
 #EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - Bundesliga 1" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_32.png",14/05 - 20:30 Wolfsburg - Bayern Munich Tao Bê Đê
@@ -117,3 +134,18 @@ https://hongthuy.tk/playxembd.php?id=vfl-wolfsburg-vs-bayern-munich-luc-20h30-ng
 https://hongthuy.tk/playxembd.php?id=as-roma-vs-venezia-luc-01h45-ngay-15-05-2022&.m3u8|Referer=https://xembd.tv/
 #EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - VO PHU" tvg-logo="https://xembd.tv/https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/2560px-Flag_of_Myanmar.svg.png",15/05 - 16:00 Indonesia U23 - Myanmar U23 H+ Bê Đê
 https://hongthuy.tk/playxembd.php?id=indonesia-u23-vs-myanmar-u23-luc-16h00-ngay-15-05-2022&.m3u8|Referer=https://xembd.tv/
+#EXTINF:-1 group-title=" XEM BÊ ĐÊ BY 👉 VÕ PHÚ - Premier League" tvg-logo="https://xembd.tv//wp-content/uploads/data/team/team_94.png",15/05 - 20:00 Watford - Leicester Tao Bê Đê
+https://hongthuy.tk/playxembd.php?id=watford-vs-leicester-luc-20h00-ngay-15-05-2022&.m3u8|Referer=https://xembd.tv/
+
+#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/9ekNRaR.png",11/05/2022 - 16:00 Cambodia U23 - Singapore U23
+https://hongthuy.tk/playvebotv.php?id=singapore-u23-cambodia-u23-GypNXaP&.m3u8|Referer=https://vebotv.vip/
+#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/9ekNRaR.png",11/05/2022 - 19:00 Malaysia U23 - Laos U23
+https://hongthuy.tk/playvebotv.php?id=malaysia-u23-laos-u23-i4nLJYF&.m3u8|Referer=https://vebotv.vip/
+#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/9ekNRaR.png",11/05/2022 - 19:00 Vietnam - Philippines
+https://hongthuy.tk/playvebotv.php?id=philippines-vietnam-qB78OUL&.m3u8|Referer=https://vebotv.vip/
+#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/9ekNRaR.png",13/05/2022 - 16:00 Philippines U23 - Indonesia U23
+https://hongthuy.tk/playvebotv.php?id=indonesia-u23-philippines-u23-0jT57xs&.m3u8|Referer=https://vebotv.vip/
+#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/9ekNRaR.png",13/05/2022 - 16:00 Laos - Singapore
+https://hongthuy.tk/playvebotv.php?id=singapore-laos-Fl8jzBa&.m3u8|Referer=https://vebotv.vip/
+#EXTINF:-1 group-title="🏀 VEBOTV BY 👉 VÕ PHÚ - Giải khác" tvg-logo="https://i.imgur.com/9ekNRaR.png",13/05/2022 - 19:00 Myanmar U23 - Vietnam U23
+https://hongthuy.tk/playvebotv.php?id=vietnam-u23-myanmar-u23-A5FPgYt&.m3u8|Referer=https://vebotv.vip/
